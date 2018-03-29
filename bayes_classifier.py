@@ -7,6 +7,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.naive_bayes import MultinomialNB
+import sklearn.svm
+
 
 
 
@@ -32,7 +34,6 @@ for i in deonArray:
     y.append('deon')
 
 
-
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 50)
 count_vect = CountVectorizer()
 X_train_counts = count_vect.fit_transform(X_train)
@@ -49,21 +50,29 @@ for i, j in zip(y_test, predicted):
     print('%r => %s' % (i, j))
 
 #Now running Bayes with new features (see featureExtraction.py)
-
+print("Naive Bayes with Vector Features")
 def loadDataset(filePath):
     with open(filePath, "rb") as pklFile:
         return pickle.load(pklFile, encoding="utf-8")
 
-X, y = loadDataset('/Users/liammeier/Dropbox/MoralReasoning/deonPapers.pkl')
+X = loadDataset('/Users/liammeier/moral-reasoning/vecX.pkl')
+y = loadDataset('/Users/liammeier/moral-reasoning/classY.pkl')
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 50)
 
 clf = MultinomialNB().fit(X_train, y_train)
-predicted = clf.predict(X_test_tfidf)
+predicted = clf.predict(X_test)
 
 for i, j in zip(y_test, predicted):
     print('%r => %s' % (i, j))
 
 
+print("SVM with Vector Featues")
+
+clf = sklearn.svm.LinearSVC().fit(X_train, y_train)
+predicted = clf.predict(X_test)
+
+for i, j in zip(y_test, predicted):
+    print('%r => %s' % (i, j))
 
 '''
 X_new_counts = count_vect.transform(docs_new)

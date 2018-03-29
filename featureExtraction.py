@@ -12,7 +12,8 @@ from sklearn.metrics import f1_score
 
 
 ## const
-PKL_PATH = "court-LbParag-mini.pkl"
+PKL_PATH = "deonPapers.pkl"
+PKL_PATH1 = "deonPapers.pkl"
 LEMMA_FILTER = ['NOUN', 'PROPN', 'VERB', 'ADJ', 'NUM'] # keep 'NUM' as the last, function lemma_dep_list() refers to this
 nlp = spacy.load("en")
 
@@ -21,6 +22,11 @@ nlp = spacy.load("en")
 def loadDataset(pklPath=PKL_PATH):
     with open(pklPath, "rb") as pklFile:
         return np.array(pickle.load(pklFile, encoding="utf-8"))
+
+def loadDataset1(pklPath=PKL_PATH1):
+    with open(pklPath, "rb") as pklFile:
+        return np.array(pickle.load(pklFile, encoding="utf-8"))
+
 
 def divideDataSet(data_set, iterateNum=1, testSize=0.2, seed=30):
     '''
@@ -90,17 +96,35 @@ def addVector(feature_name, dataset):
 
 
 ## main
-data_set = loadDataset()
-train_set, dev_set = divideDataSet(data_set)
+c_data_set = loadDataset()
+d_data_set = loadDataset1()
+
+#print(len(data_set))       %priniting to check the data type
+#train_set, dev_set = divideDataSet(data_set)           % we are not splitting it
+train_set = []
+n = 0
+for item in c_data_set:
+    case = {'text':item, 'label': "cons"}
+    train_set.append(case)
+
+for item in d_data_set:
+    case = {'text':item, 'label': "deon"}
+    train_set.append(case)
+
 vocab = vocabBuild(train_set)
 
 feature_set = addFeature(vocab, train_set)
-feature_set = addFeature(vocab, dev_set, feature_set)
+#feature_set = addFeature(vocab, dev_set, feature_set)
 addVector(feature_set, train_set)
-addVector(feature_set, dev_set)
+#addVector(feature_set, dev_set)
 
 vec_train = [item['vector'] for item in train_set]
 class_train = [item['label'] for item in train_set]
+
+pickle.dump(vec_train, open("vecX.pkl", "wb"))
+pickle.dump(class_train, open("classY.pkl", "wb"))
+
+'''
 log_model = LogisticRegression()
 log_model = log_model.fit(vec_train, class_train) # tweak the parameter of log_reg
 
@@ -108,3 +132,6 @@ vec_dev = [item['vector'] for item in dev_set]
 class_dev = [item['label'] for item in dev_set]
 predClass_dev = log_model.predict(vec_dev)
 print('F1', f1_score(predClass_dev, class_dev, average=None))
+'''
+
+
