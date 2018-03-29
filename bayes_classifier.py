@@ -74,23 +74,4 @@ predicted = clf.predict(X_test)
 for i, j in zip(y_test, predicted):
     print('%r => %s' % (i, j))
 
-'''
-X_new_counts = count_vect.transform(docs_new)
-X_new_tfidf = tfidf_transformer.transform(X_new_counts)
 
-
-for i, j in zip(X_test_tfidf, y_test):
-    print(clf.predict(i))
-    print("Actual: ", j)
-'''
-
-'''
-clf = MultinomialNB().fit(X_train_tfidf, twenty_train.target)
-docs_new = ['God is love', 'OpenGL on the GPU is fast']
-X_new_counts = count_vect.transform(docs_new)
-X_new_tfidf = tfidf_transformer.transform(X_new_counts)
-
-text_clf = Pipeline([('vect', CountVectorizer()),
-                     ('tfidf', TfidfTransformer()),
-                     ('clf', MultinomialNB()),])
-'''
