@@ -16,8 +16,8 @@ def loadDataset(filePath):
         return np.array(pickle.load(pklFile, encoding="utf-8"))
 
 
-f1 = '/Users/liammeier/Dropbox/MoralReasoning/consPapers.pkl'
-f2 = '/Users/liammeier/Dropbox/MoralReasoning/deonPapers.pkl'
+f1 = '/Users/liammeier/moral-reasoning/consPapers.pkl'
+f2 = '/Users/liammeier/moral-reasoning/deonPapers.pkl'
 
 consArray = loadDataset(f1)
 deonArray = loadDataset(f2)
@@ -31,11 +31,7 @@ for i in deonArray:
     X.append(i)
     y.append('deon')
 
-'''
-d = dict()
-for i in consArray:
-    d
-'''
+
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 50)
 count_vect = CountVectorizer()
@@ -51,6 +47,22 @@ predicted = clf.predict(X_test_tfidf)
 
 for i, j in zip(y_test, predicted):
     print('%r => %s' % (i, j))
+
+#Now running Bayes with new features (see featureExtraction.py)
+
+def loadDataset(filePath):
+    with open(filePath, "rb") as pklFile:
+        return pickle.load(pklFile, encoding="utf-8")
+
+X, y = loadDataset('/Users/liammeier/Dropbox/MoralReasoning/deonPapers.pkl')
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 50)
+
+clf = MultinomialNB().fit(X_train, y_train)
+predicted = clf.predict(X_test_tfidf)
+
+for i, j in zip(y_test, predicted):
+    print('%r => %s' % (i, j))
+
 
 
 '''
