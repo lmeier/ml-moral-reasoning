@@ -39,13 +39,17 @@ def pdfToTextDict(filename):
                         extracted_text += lt_obj.get_text()
 
             textDict.append(extracted_text)
+            print(extracted_text)
         except:
             print("set parser error)")
 
     return textDict
 
-f1 = '/Users/liammeier/Dropbox/MoralReasoning/AppliedConsequentialism/'
-f2 = '/Users/liammeier/Dropbox/MoralReasoning/AppliedDeontology/'
-pickle.dump(pdfToTextDict(f1), open("consPapers.pkl", "wb"))
-pickle.dump(pdfToTextDict(f2), open("deonPapers.pkl", "wb"))
+f1 = '/Users/liammeier/moral-reasoning/AppliedConsequentialism/'
+f2 = '/Users/liammeier/moral-reasoning/AppliedDeontology/'
+e1 = '/Users/liammeier/moral-reasoning/JSTORconsequentialism/'
+e2 = '/Users/liammeier/moral-reasoning/JSTORdeontology/'
+
+pickle.dump(pdfToTextDict(e1), open("JSTORconsPapers.pkl", "wb"))
+pickle.dump(pdfToTextDict(e2), open("JSTORdeonPapers.pkl", "wb"))
 

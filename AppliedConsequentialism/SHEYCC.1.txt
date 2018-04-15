@@ -1,0 +1,560 @@
+Due to variations in the technical specifications of different electronic
+reading devices, some elements of this ebook may not appear
+as they do in the print edition. Readers are encouraged
+to experiment with user settings for optimum results.
+Copyright © 2014 by The University Press of Kentucky
+Scholarly publisher for the Commonwealth,
+serving Bellarmine University, Berea College, Centre College of Kentucky, Eastern Kentucky
+University, The Filson Historical Society, Georgetown College, Kentucky Historical Society,
+Kentucky State University, Morehead State University, Murray State University, Northern
+Kentucky University, 
+Transylvania University, University 
+of 
+Kentucky, University 
+of
+Louisville, and Western Kentucky University.
+All rights reserved.
+Editorial and Sales Offices: The University Press of Kentucky
+663 South Limestone Street, Lexington, Kentucky 40508-4008
+www.kentuckypress.com
+Library of Congress Cataloging-in-Publication Data
+The philosophy of J. J. Abrams / edited by Patricia Brace and Robert Arp.
+pages cm
+Includes bibliographical references and index.
+ISBN 978-0-8131-4530-3 (hardcover : alk. paper) —
+ISBN 978-0-8131-4534-1 (pdf) — ISBN 978-0-8131-4533-4 (epub)
+1. Abrams, J. J. (Jeffrey Jacob), 1966—Criticism and 
+interpretation. I. Brace, Patricia,
+1960– editor of compilation. II. Arp, Robert, editor of compilation.
+PN1998.3.A27P55 2014
+791.4302’3092—dc23
+2014006363
+This book is printed on acid-free paper meeting the requirements of the American National
+Standard for Permanence in Paper for Printed Library Materials.
+Manufactured in the United States of America.
+Member of the Association of
+American University Presses
+4
+YOU CAN’T CHOOSE YOUR FAMILY
+Impartial Morality and Personal Obligations in Alias
+Brendan Shea
+J. J. Abrams’s Alias tells the story of a spy named Sydney Bristow. Like many
+fictional spies, Sydney is a quick-thinking expert in disguise and physical combat
+who regularly risks life and limb in order to protect the innocent. Also, unlike
+some of her more cold-blooded fictional counterparts, Sydney tries to be honest
+and kindhearted and to treat others as they deserve to be treated. So, whereas a
+character like James Bond strives to avoid the emotional entanglements that
+come with close personal relationships, Sydney works hard to maintain close
+relationships with family and friends. She strives, in other words, to be both a
+good spy and a good person; her choices and actions model many of those
+qualities that we think are central to living a moral (or ethical) life.
+While Sydney’s relationships are valuable to her, they also complicate her
+efforts to live the moral life. Friends, relatives, and romantic partners compete
+with the U.S. government for Sydney’s time and energy, and they provide prime
+targets for enemies to threaten, seduce, or otherwise make use of. When
+conflicts arise between her personal and professional life, Sydney is forced to
+balance two seemingly incommensurable demands of morality: the first, that she
+fulfill her duty (as a spy, superhero, and all-around good person) to do what is
+best for people in general; the second, that she fulfill her duty (as a daughter,
+friend, or romantic partner) to do what is best for particular people.
+Sydney’s case is complicated by various factors (e.g., by the fact that many of
+her friends and family are spies), and this problem is a universal one. Her solution
+should thus be of real interest to us. In this chapter I will examine how Sydney
+and the other characters in Alias fare in their attempts to meet these two sets of
+obligations, and I will consider what lessons this might have for the rest of us.
+Morality and Impartiality
+While it is difficult to say exactly what exactly morality is, viewers of Alias should
+148
+have few problems distinguishing characters who (generally) behave morally from
+those who (generally) do not. So, whereas moral characters like Sydney and
+Vaughn regularly risk their lives to save others, immoral characters like Sloane
+and Irina steal, lie, and kill in order to advance their own selfish agendas. Perhaps
+the most 
+fundamental difference between moral characters and 
+immoral
+characters concerns the role that other people play in their decision making. An
+immoral character like Sloane treats other people as tools that can be used to get
+what he wants—money, power, immortality, and so on. A moral character like
+Sydney, on the other hand, recognizes that other people have their own interests
+and goals (e.g., not being killed) and that it would unfair of her to act as though
+her well-being is any more important than theirs is.
+According to many moral thinkers, it is just this sort of “equal” or “impartial”
+treatment of others that 
+is at the heart of moral behavior. In order to act
+impartially, one must refrain from showing favoritism (or “partiality”) based on
+morally irrelevant characteristics. So, for example, such views are opposed to
+ethical egoism, which is the theory that every person ought to do whatever is in
+his or her own best interest.1
+One 
+famous 
+example of 
+an 
+impartial moral principle 
+is 
+the 
+“Great
+Commandment” of the Gospels, which commands the reader to “love thy
+neighbor as thyself” (Mark 12:12). Impartial moral principles have also been
+defended by various philosophers. For example, one version of Immanuel Kant’s
+(1724–1804) categorical imperative directs the reader to “so act that you use
+humanity, whether in your own person or in the person of any other, always at
+the same time as an end, never merely as a means.”2 In order to treat people as
+ends one must, according to Kant, refrain from doing bad things to them merely
+to advance one’s own agenda, however worthwhile that agenda might seem.
+Kant claims that this requirement means that we cannot kill, lie to, or harm
+innocent people. The principle is impartial insofar as it requires that we consider
+other people as our moral equals and constrain our behavior accordingly.
+Also, John Stuart Mill’s (1806–1873) principle of utility states that a moral
+action is one that leads to “not the agent’s own greatest happiness, but the
+greatest amount of happiness altogether.”3 The principle is impartial because
+everyone’s happiness counts for exactly the same; one is not allowed to put a
+higher value on particular people’s happiness. So, for example, this principle
+requires that a person be willing to sacrifice his or her own life if this is the only
+way to save two lives.
+John Rawls (1921–2002) argues that a given principle is just if and only if
+everyone would agree to it under a so-called veil of ignorance. When people are
+under this veil, they are ignorant of all the things about themselves that might
+distort their moral judgment: for example, their gender, age, race, religious and
+political beliefs, place 
+in society, and physical and 
+intellectual abilities. This
+ensures that impartial principles will be chosen, since all the people who are
+choosing are ignorant of anything that might make it possible for them to be
+149
+partial.4
+If acting morally requires us to act impartially, then it is easy to explain why
+Sydney is such a morally exemplary person. As a spy, Sydney makes considerable
+sacrifices in order to ensure the safety and happiness of others. Along with the
+obvious risks to her 
+life, Sydney 
+is 
+forced to put off school, to break off
+relationships, and to refrain from doing a great number of things she would
+probably have enjoyed more than being a spy. This type of selfless behavior
+shows that that Sydney values the well-being of other people and does not
+unduly privilege her own wants and desires.
+Three Moral Dilemmas
+While the above theories do a good job of explaining our duties toward people in
+general (e.g., don’t kill innocent people, give money to charity, etc.), they have
+little to say about the special obligations we have to our friends, family, and
+coworkers. By special obligations, I mean those obligations that we have toward
+friends and family that are different than (and perhaps stronger than) the duties
+we have to everyone else. So, for example, we ought (morally) to spend time with
+these people, to listen to their problems, and to do everything we can to ensure
+their safety and well-being. Conflicts between impartial moral duties and special
+obligations to loved ones occur quite frequently in Alias, and the way that the
+characters respond to them can reveal a great deal about who they really are. In
+this section we will take a brief look at three such dilemmas. In the next section
+we will consider some possible responses to such dilemmas.
+The first type of dilemma occurs when one must choose between saving the
+life of a loved one and saving the lives of a greater number of innocent strangers.
+Such scenarios are a regular staple of both moral philosophy and spy shows, and
+Alias is no exception. Sydney encounters such a dilemma, for example, in the final
+episode of season 1 (“Almost Thirty Years”). She has, after considerable effort,
+managed to recover a journal page from a long-dead man named Rambaldi. She
+knows that the page contains directions for using a mysterious device that she
+suspects (correctly) might be very dangerous if it were to be acquired by the
+wrong people. In fact, the page turns out to contain directions for how to use a
+weapon (the “circumference”) that can cause people to become violently insane.
+Sydney’s problem 
+is that her close friend Will has been kidnapped and the
+kidnappers have demanded the journal page as the price for his return. Given
+Sydney’s suspicions about the nature of the device, what should she do? Should
+she save her friend by handing over the page, or should she protect the public at
+large by refusing to hand it over? The problem, it seems, is that her impartial
+moral duty (“don’t let bad people get weapons of mass destruction”) conflicts
+with her more specific duty to aid her friend.
+For those of us who are not spies, dilemmas of the first type are (thankfully)
+rare. We are, however, often faced with moral dilemmas of a different type. In
+150
+these scenarios we are asked to decide how much of our time and energy should
+be devoted to helping people in general and how much should be devoted to
+helping the particular people to whom we are closest. The characters in Alias,
+many of whom work in intelligence, are often faced with this type of dilemma.
+Jack, for instance, has long been forced to balance being a father to Sydney with
+his job as a spy, while Sydney is forced to balance her own job as a spy with her
+personal life. Sydney and Jack are, in a wide variety of ways, constantly being
+forced to decide between work and family. They must choose between honoring
+promises to the CIA and honoring promises to friends, between spending time on
+the job and spending time at home, and between telling the truth about their jobs
+to those close to them (and perhaps endangering their lives) and lying about what
+is perhaps the most important part of their lives. The question here is, How much
+time, money, and energy ought one devote to helping loved ones, and how much
+should be devoted to helping strangers?
+The final dilemma concerns the morality of taking revenge against those who
+have harmed our loved ones. By revenge, I mean simply the act of harming
+someone because that person harmed someone close to you. This may involve
+taking direct action against the person, or it may simply involve making sure that
+the person’s crimes are exposed to the proper authorities. Taking revenge in this
+sense does not necessarily require that one do something immoral. Sydney’s
+actions in bringing down SD6, for example, are acts of revenge in the sense that is
+meant here. The question here is not whether it is morally okay for Sydney to try
+and bring SD6 down (since it clearly is), but whether Danny’s death obligates
+Sydney to do so.
+Even with this caveat in mind, it may seem odd to characterize the desire to
+seek revenge as a moral motivation. After all, the desire to seek “revenge”
+against those who have done you wrong is commonly contrasted with the desire
+to bring those people to “justice.” For our purposes here, however, I think that
+this distinction can be safely ignored. We are concerned only with those cases in
+which the person being targeted for revenge actually did the crime and where the
+punishment proposed fits the crime. It seems safe to say that most of us, for
+instance, can sympathize with Sydney’s anger over Sloane’s murder of her fiancé
+or with Jack’s anger over Irina’s treatment of Sydney. In fact, it seems plausible
+that many of us would think less of Sydney and Jack if they were not the type of
+people who take such things personally—that is, if they were not the type of
+people who feel specially obligated to make sure Sloane and Irina do not “get
+away with their crimes.” Approving of this sort of revenge does not, of course,
+require that one approve of every act of revenge. Sloane’s murder of Dixon’s
+wife, for instance, might be an act of vengeance, but it is clearly immoral.
+What to Do?
+The characters of Alias respond to the three dilemmas outlined in the previous
+151
+section in a variety of different ways, and these differences reveal a great deal
+about their moral decision-making process. In this section I will take a closer look
+at these responses and consider in more detail what might be the morally correct
+way of responding. I will suggest that there are, in general, three ways that the
+characters of Alias respond to these dilemmas. Two of these ways are “extreme”
+views, according to which we don’t really have the moral obligations we thought
+we did. I will argue that these views are mistaken and that we ought to instead
+adopt the “moderate” view exemplified by Sydney’s actions.
+NO SPECIAL TREATMENT?
+The first, and perhaps simplest, way of resolving these moral dilemmas is to
+simply ignore the fact that the situation involves any particular people and to
+simply act as if everyone involved were a complete stranger. According to this
+view, for instance, the fact that Sydney and Jack are father and daughter is
+morally irrelevant to the types of duties they owe to one another. So if Jack
+would normally choose to sacrifice one innocent agent’s life to save the lives of
+two other innocent agents, he should do so even if the one agent in question is
+Sydney. This doesn’t that mean Jack isn’t obligated to try to save Sydney if she is
+captured, or vice versa; however, it does mean he has no greater obligation to
+save Sidney than he would to save any other of his fellow agents. Similarly, while
+this view is compatible with various people (e.g., Sydney and Vaughn) being in
+love, it says that one’s moral duties to a loved one are just same the same as they
+are to anyone else.
+In Alias something like this viewpoint is occasionally put forward by certain
+“higher-ups” in the CIA (such as Devlin), who seem willing to sacrifice their agents’
+lives in any case where their analysis suggests this is the least “risky” action for
+the CIA to take. This 
+is not to say that they throw their agents’ 
+lives away
+needlessly; rather, it is simply that they don’t feel any more of an obligation to
+protect their agents than they do to protect other innocent people.
+The best example of the first response, however, is probably provided by
+Jack’s treatment of Sydney. Jack was, by his own account, a mediocre father who
+nearly always chose his work at the CIA over spending time with Sydney.
+According to the view being considered here, Jack’s behavior was perfectly moral.
+After all, we have every reason to think that Jack was good at his job; that is, the
+information he was able to provide the CIA was instrumental in protecting the
+lives and interests of U.S. citizens. So, for each family dinner or school function of
+Sydney’s that Jack missed, he was doing work that directly helped save the lives
+of many others. The problem is that, while all of this may be true, there remains
+the sense that Jack did not fulfill his moral obligations to Sydney.
+One (in)famous philosophical defender of this view is William Godwin (1756–
+1836). He considers the hypothetical choice between saving the life of a (socially
+insignificant but beloved) parent or sibling and saving the life of an archbishop
+who is known for doing good works. Godwin argues that in such cases “the life
+152
+ought to be preserved which will be most conducive to the general good,” even if
+this other life happens to be oneself or one’s close relations; so we ought to save
+the archbishop. This, according to Godwin, 
+is what 
+justice (i.e., 
+impartiality)
+demands; if we fail to save the archbishop, we are being unjust to all of the
+(many) people who will suffer as the result of his death. We have unduly
+privileged the people that we love and have thus failed to treat others as their
+moral equals.5
+While few contemporary philosophers endorse Godwin’s radical conclusion,
+many have suggested that the moral obligations we have toward far-distant
+strangers are in fact quite similar to the obligations we have toward those we
+know and love. Peter Singer, for instance, has argued that morality requires that
+we give nearly all of our disposable income to poverty relief. This is because we
+have every reason to expect that the money will do far more good when used to
+purchase food or medicine for the truly needy than when used to purchase
+luxuries for our loved ones or ourselves. On Singer’s view, it is not so much that
+we overestimate the obligations we have to our family and friends as that we
+underestimate our obligations to everyone else. So, insofar as we agree it would
+be morally wrong to let a sibling die of starvation when we could afford to buy
+him or her food, we ought also to agree that is morally wrong to spend money on
+luxuries when this money could be used to save strangers from starvation. If
+Singer is right about this, then it would seem to imply that any money spent on
+luxuries (e.g., buying a diamond engagement right, going out for a fancy dinner,
+etc.) is immoral.6
+This view of our moral obligations is, as both Godwin and Singer seem to
+recognize, radically at odds with the way that most people think about these
+things. And while a view’s unpopularity is hardly evidence that it is false, there do
+seem to be some legitimate reasons for concern. After all, the decision makers at
+the CIA who are too willing to sacrifice agents’ lives might strike one as cold and
+inhuman; similarly, there seems to be a genuine sense in which Jack’s failures as a
+father cannot be excused by noting all of the good things he was able to do while
+ignoring his young daughter. The question 
+is whether we can find a way to
+reconcile these concerns with an impartial view of morality.
+NO IMPARTIAL MORALITY?
+While the first approach counsels that personal relationships have no place in
+moral thought, the second approach advises that such relationships are in fact
+the only things of moral relevance in the types of dilemmas we are discussing
+here. This approach holds that we do have obligations to our nearest and dearest
+and that the existence of these obligations means that morality is not really
+impartial. More specifically, this approach says that we ought to do everything
+we possibly can for our nearest and dearest, regardless of the effect these
+actions might have on other people. This view says that one should always
+choose to save a loved one, regardless of the cost to others; that it is always
+153
+okay to choose family over work; and that there are no limits to the revenge that
+might be exacted on behalf of a loved one who has been harmed.
+For a simple example of how this approach might work in practice, consider
+the case of a father trying to determine what help he ought to give to a daughter
+in need of a heart transplant. The first view would say that the father has no
+special obligation to make sure she gets the medical treatment she needs, though
+he may have a general moral requirement to care for sick people (especially
+those he is well placed to help). The second view says, by contrast, that the father
+can (and perhaps should) do everything in his power to make his sure his daughter
+gets the treatment she needs. If this means holding the physician at gunpoint or
+killing 
+innocent people to harvest their hearts, so be 
+it. The only thing of
+importance, in this view, is the father’s obligation to help his daughter.
+When Nadia becomes ill in the final season of Alias, Sloane finds himself in a
+situation similar to that of the hypothetical father. His actions 
+in this case,
+moreover, serve as a good example of what the second approach advises.
+Representatives of an evil organization (Prophet Five) promise Sloane that they
+can cure Nadia; however, they tell him that they will do so only if Sloane agrees
+to serve as a double agent. Sloane (reluctantly) agrees to do so, even though he
+knows that his actions as a double agent might lead to the deaths of innocent
+people, including Jack or Sydney. Sloane’s reasoning seems to be that his duty to
+save Nadia outweighs any obligation he may have to other people.
+A second example of the second view is provided by Sloane’s wife, Emily.
+During the second season episode “Truth Takes Time,” Emily learns that Sloane is
+still involved with various illegal activities (and is still lying about them to her).
+Based on this knowledge, she goes to Sydney and tells her that she is willing to
+help the CIA catch Sloane (though only if the CIA doesn’t seek the death penalty).
+From an impartial point of view, turning in Sloane would obviously be the right
+thing for Emily to do, even though Sloane swears to her he will give up his life of
+crime. Emily knows, after all, that Sloane has lied to her in the past and that he
+has made a habit of killing innocent people. In the end, however, Emily feels guilt
+over turning in her husband to the CIA and chooses to warn Sloane of the CIA’s
+trap for him. She, like Sloane, seems to feel that her duty to stand by her husband
+trumps her obligation to protect the people who might be harmed by Sloane’s
+continuing his evil ways.
+Few philosophers explicitly endorse the view that one is morally permitted to
+do whatever one likes for the sake of loved ones. However, some have argued
+that we ought to reject the ideal of an impartial morality for precisely the sorts of
+reasons that Sloane and Emily do so—that is, because obeying the demands of
+such a morality would require that we give up everything that makes life worth
+living.
+Bernard Williams 
+(1929–2003), 
+for 
+instance, has argued that being truly
+impartial is incompatible with leading a meaningful life. According to Williams, a
+person’s life is meaningful only if he or she has one or more ground projects that
+154
+are “closely related to his [or her] existence and which to a significant degree
+give meaning to his [or her] life.” For Emily, such a project might be her life with
+Sloane; for Sloane, such projects might involve Nadia’s well-being and the pursuit
+of the Rambaldi artifacts. The problem arises, according to Williams, when one
+realizes that obeying an impartial morality might require that you give up any
+hope of completing your ground projects—for example, it might require that you
+turn your husband in to the police or let your daughter die when you could save
+her. Williams argues that it is completely unrealistic to expect humans to behave
+in this way. After all, 
+if people’s ground projects are what give their 
+lives
+substance, then demanding that they give up on these projects is quite similar to
+demanding that they commit suicide.7
+Williams concludes from the above considerations that the impartial view of
+morality is false:
+One reaches the necessity that such things as deep attachments to other
+persons will express themselves in the world in ways which cannot at the
+same time embody the impartial view, and that they also run the risk of
+offending against it. They run that risk if they exist at all; yet unless such
+things exist there will not be enough substance or conviction in a man’s life
+to compel his allegiance to life itself. . . . Life has to have substance if
+anything is to have sense, including adherence to the impartial system; but
+if 
+it has substance, then 
+it cannot grant supreme 
+importance to the
+impartial system, and that system’s hold on it will be, at the limit, insecure.8
+While Williams’s view does not entail that Emily’s and Sloane’s actions are
+morally right, it suggests that they are not quite morally wrong either. Instead, it
+might be thought that such extreme cases inhabit a sort of gray area about which
+it is impossible for us to pass moral judgment at all.
+Insofar as this view allows for a more nuanced judgment of characters like
+Emily, it clearly gets something right. The problem, if there is one, lies in the fact
+that it leaves so little room for any moral judgment. There is, after all, a fairly
+clear sense that Emily and Sloane know that they are doing the wrong things but
+choose to do them anyway. Their choices to act in the way that they do might be
+understandable, especially given their circumstances; however, this does not
+mean that what they are doing is morally okay.9
+SYDNEY’S MODERATE SOLUTION
+There are good reasons to be suspicious of both the preceding views. After all, it
+seems intuitively clear that Jack ought to have been a better father to Sydney and
+that Sloane ought to have rejected Prophet Five’s deal. These intuitions suggest
+there 
+is some special obligation to take special care of one’s “nearest and
+dearest” but this does not give us license to do just anything on their behalf.
+Of all the Alias characters, Sydney provides the best example of this moderate
+155
+view. She neither ignores her special obligations to those close to her nor ignores
+her obligations to everyone else. So, for example, consider Sydney’s actions when
+Will’s kidnappers demand that that she trade a Rambaldi page for his release.
+Sydney 
+is aware that this page contains the plan 
+for building and using a
+dangerous device. She is also aware, however, that considerable time and effort
+will be needed to effectively utilize the device and that it may be possible for her
+to do other things to prevent the device from being used. It is thus unclear how
+much danger there really is in giving the plan to this organization. In the end,
+Sydney decides to have Jack trade the page for Will but to simultaneously
+attempt to destroy the organization’s 
+lab (which will prevent or delay their
+attempts to use the device). Sydney’s choice here is notably distinct from what
+either extreme view would have dictated. The first view would suggest that
+Sydney refuse to make the trade at all, on the grounds that Will’s life could not
+possibly be worth the risk; the second solution would urge that Sydney make the
+trade as offered (and not attempt to blow up the lab), on the grounds that doing
+anything else might put Will in unnecessary danger.
+One can easily find other examples of Sydney doing this sort of balancing act.
+So, for example, Sydney makes regular efforts to spend time with family and
+friends, even though she could undoubtedly find more “spy work” to do. She has
+dinner with her father, goes on dates with Vaughn, and spends holidays with her
+friends. She also regularly disobeys her superiors in order to save the lives or
+friends or family and proves willing to seek revenge against those who hurt them.
+However, she is not willing to do just anything for her loved ones. She is, for
+example, willing to turn her father in to the FBI when she suspects that he may
+have once worked for the KGB, and she is willing seek out and fight her mother in
+order to prevent the destruction of New York and London.
+Sydney’s “moderate” view is, in many ways, both intuitive and compelling.
+The philosophical difficulty for this view, however, is to explain why we have
+special obligations to certain people at all, if morality really requires that we be
+impartial. This difficulty is notably unique to the third view. The first view evades
+the difficulty by claiming that there are no special obligations, while the second
+view evades 
+it by claiming that morality does not really require that we be
+impartial.
+One way of explaining why we have special obligations to loved ones is to
+note the moral 
+importance of acting quickly and without hesitation or fear.
+Impartial morality, after all, requires that we all do our best to help and protect
+others when we can. The best way of helping and protecting others, however, is
+surely not to spend all of our time exhaustively cataloging everyone’s problems
+and to act only when we are sure that we have chosen the best possible course
+of action. If we did this, nothing would ever get done and we would end up
+helping no one. In the world of Alias, for instance, such a strategy would ensure
+that no bomb would ever be defused and that no bad guy would ever be caught.
+It is far better to simply assume that loved ones who are in danger ought to be
+156
+rescued, that parents ought to spend time with their children, and that evildoers
+ought to be brought to justice. This is because such actions are, in the vast
+majority of cases, to the benefit of everyone involved. This solution, which is
+defended by Peter Railton, might also explain why it is a morally good thing for us
+to think of our loved ones as being special or different from other people. This
+sort of love can, after all, be a powerful motivator to quick, decisive action in
+defense of others. According to Railton, the best (most moral) types of people
+are those, like Sydney, for whom these types of selfless behavior are almost
+“second nature.”10
+If Railton is correct, then Sydney’s choice to trade the Rambaldi page to save
+Will’s life is a moral one even if it (in the end) leads to a larger number of
+causalities. This holds not because Will’s life is more valuable than other people’s
+lives but because of Sydney’s relationship to Will. Sydney has worked hard to be
+the sort of person whom family and friends can count on for aid, comfort, and
+protection. This, according to Railton, is exactly what impartiality requires of her.
+One cannot be this sort of person, however, and also be the sort of person who is
+continuously trying to figure out how much the life of a loved one is “worth”
+when compared to the lives of others. This does not mean, of course, that one
+should simply ignore the wellbeing of strangers. Instead, one ought to try (as
+Sydney does) to help both one’s loved ones and everyone else.
+A slightly different explanation of the importance of special obligations is
+suggested by Frank Jackson, who emphasizes the importance of a sort of a moral
+“division of labor.” Jackson begins by noting that it would be horribly inefficient
+to require that everyone simultaneously help and protect everyone else. So, for
+example, it is plausible that we have an impartial moral duty to see to it that the
+children in our community have food, shelter, and education. However, the fact
+that we have such an obligation does not mean that each one of us should offer
+food or housing to every child we happen to meet. Instead, most societies have
+found that it works better to assign responsibility for individual children to a
+relatively small number of people (e.g., parents, teachers, social workers, etc.).
+Ideally, this sort of system will meet the needs of all children, by making sure each
+child has an appropriate number of caretakers who will look out for his or her
+interests.11
+Jackson argues that this sort of “sector system,” which assigns specific moral
+duties to specific people, works best in particular types of situations. In particular,
+he argues that it works best in scenarios that
+• require an in-depth knowledge of the people that one is trying to help,
+• need considerable long-term planning,
+• depend upon a level of trust between the various people involved,
+• are best resolved by a small number of people, and
+• can be done most effectively by people who are emotionally invested in
+the outcome.
+157
+The best examples of these situations involve the sorts of moral duties that we
+owe to our loved ones—for example, to console them when they are sad, to talk
+through difficult choices with them, to buy them appropriate birthday gifts, and
+so on. These sorts of duties simply cannot be done by a complete stranger.
+Raising a child well, for instance, requires the efforts of a person (or people) who
+knows a lot about that particular child’s needs and abilities and who is willing to
+invest a good deal of physical and emotional resources. Moreover, there would
+be no great benefit to the child in having too many people take this sort of
+interest in his or her life; instead, these sorts of duties can best accomplished by a
+relatively small number of people (parents, relatives, etc.).
+In Jackson’s view, then, Sydney is doing just as she ought to do in treating her
+loved ones in a different way (and better) than she treats strangers off the street.
+Sydney’s eventual choice to leave the spy life behind and concentrate on raising
+her child with Vaughn, for example, does not mean she is “letting the country
+down” or unjustifiably favoring her child. Sydney, unlike her father, Jack, has
+simply realized that the she does have special obligations to her child and that
+these obligations cannot always be trumped by the need to save the world from
+the latest impeding disaster.
+A Model of Moral Behavior
+The moral dilemmas of Alias characters are, in certain ways, wildly different from
+the dilemmas that we encounter in our daily lives. Most of us will never be asked
+to conceal government secrets from loved ones, to seek revenge against spies
+who have murdered our fiancé, or be asked to fight our parents to prevent
+genocide. 
+In other ways, however, the dilemmas faced by these characters
+should be quite familiar to us. Part of living a moral life involves figuring out how
+one can simultaneously respect the idea that everyone deserves equal treatment
+and the idea that we have special obligations to the particular people with whom
+we are closest. In this respect, as in so many others, Sydney provides a model of
+moral behavior.
+Notes
+1. Most of the historically 
+important philosophical and religious writings on ethics
+defend 
+impartial moral principles, 
+though Thomas Hobbes’s Leviathan 
+(Indianapolis:
+Hackett Publishing, 1994) 
+contains 
+suggestions of ethical egoism. The best-known
+defenses of ethical egoism in popular culture are probably the works of Ayn Rand. See her
+The Virtue of Selfishness (New York: Signet, 1964).
+2. 
+Immanuel Kant, Groundwork of the Metaphysics of Morals, trans. Mary Gregor
+(Cambridge: Cambridge University Press, 1998), 38.
+3. John Stuart Mill, “Utilitarianism,” in On Liberty and Other Essays, ed. John Gray (New
+York: Oxford University Press, 2008), 131–204, quote on 142.
+4. John Rawls, A Theory of Justice (Cambridge, MA: Harvard University Press, 1971).
+158
+Justice 
+J.
+(London: G. G. and 
+5. William Godwin, An Enquiry Concerning Political 
+Robinson, 1798), 127–30.
+6. Peter Singer, “Famine, Affluence, and Morality,” Philosophy and Public Affairs 1
+(1972): 229–43.
+7. Bernard Williams, “Persons, Character, and Morality,” in Moral Luck (Cambridge:
+Cambridge University Press, 1983), 12.
+8. Ibid., 18.
+9. See Marilyn Friedman, “The Practice of Partiality,” Ethics 101 (1991): 818–35; James
+Rachels, “Morality, Parents, and Children,” in Can Ethics Provide Answers? And Other Essays
+in Moral Philosophy (New York: Roman & Littlefield, 1997), 213–34. They both provide
+detailed critiques of the sort of extreme partialism described here.
+10. Peter Railton, “Alienation, Consequentialism and Morality,” Philosophy and Public
+Affairs 13 (1984): 134–71.
+11. Frank Jackson, “Decision-Theoretic Consequentialism and the Nearest and Dearest
+Objection,” Ethics 101 (1991): 461–82.
+159

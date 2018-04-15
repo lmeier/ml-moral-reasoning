@@ -1,0 +1,314 @@
+
+Research on environmental-decision making is usually based on utilitarian models, which imply that people’s decisions are only influenced by the outcomes. This research provides evidence for values and moral positions that reflect nonconsequentialist rather than consequentialist views. In doing this, this article refers to “sacred values,” which are values that are seen as not-substitutable and non- tradable. Two studies were designed to examine evidence for sacred values and their role on act versus omission choices within the environmental domain. The studies revealed that sacred values were closely associated with preferences for actions, trade-off reluctance, deontological focus, and position of moral universalism. The results suggest that it is important to account for sacred values and nonconsequentialist views in environmental decision-making research.
+Keywords: sacred values, deontology, consequentialism, decision making, environment
+Given that environmental problems, such as global warming, ozone depletion, pollution, waste, or decline of biodiversity, affect and are affected by human activities, it is a key issue of social sci- ence environmental research to better understand human decision making and behavior. In doing this, many models converge to rational choice theory (e.g., Bamberg & Schmidt, 1998; Sparks & Shepherd, 2002), which derives from neoclassical economic and utility theory (for reviews, see Hastie & Dawes, 2001; Zey, 1992). The main feature of such models is that they frame decision making and behavior in consequentialist terms; they are concerned with people’s choices between alternatives being only influenced by the outcomes of the options. Furthermore, decision making is viewed as being essentially a cognitive and deliberate activity that involves cost-benefit analy- ses, which of the various alternatives would maximize benefits and minimize costs. Rational choice models also posit that decisions require trade-offs between competing values. Economists often remind us that we live in a world of scarce resources and that protection of the environment requires individuals to make trade-offs between environmental and other types of values, such us money or convenience. The general economic view is that any type of values or attributes can be traded off (e.g., Keeney & Raiffa, 1976; Neumann & Morgenstern, 1947).
+Critiques to rational choice theory largely adhered to the cognitive perspective. Past research suggested that people are sometimes more likely to rely on simplifying heuristics to cope with the
+Correspondence should be addressed to Carmen Tanner, University of Zurich, Department of Psychology, Binzmühlestrasse 14 / 18, 8050 Zurich, Switzerland. E-mail: c.tanner@psychologie.uzh.ch
+  
+480 TANNER
+complexity of decisions (e.g., Kahneman, 2003; Sunstein, 2005; Tversky & Kahneman, 1974). Within the last decade, decision theory highlighted the role of emotions as an understudied deter- minant of judgment and decision making. Studies have demonstrated that mood and affect can have a significant influence on judgment and choices (for reviews, see Loewenstein & Lerner, 2003; Loewenstein, Weber, Hsee, & Welch, 2001). Other voices, in particular in the domain of moral judgments proposed that people tend to reach (moral) judgments quickly and on the basis of affective intuitions rather than on deliberate or analytical reasoning (e.g., Damasio, 1994, Haidt, 2001).
+This article is based on two more recent objections on utility theory. They center on (a) the nar- row focus on consequentialism and (b) the claim that any type of values can be traded off. The re- search presented in this article is aimed at examining evidence for values and moral positions, which are proposed to reflect nonconsequentialist rather than consequentialist views.
+DEONTOLOGY AND SACRED VALUES
+In contrast to consequentialist perspectives, there is increasing evidence that (a) people sometimes base their decision which behavior to perform not on the consequences but on applying rules about what is in principle right or wrong, and that (b) people are sometimes extremely reluctant to make trade-offs (in particular when moral or ethical issues are at stake). Obviously, the latter is at odds with the claim that any types of values can be traded off, the former with the claim that only consequences of choices matter. When consequences per se are at best secondary, moral philoso- phy refers to deontology (Anscombe, 1958; Birnbacher, 2003; Broad, 1930). Deontological prin- ciples, unlike consequentialist ones, refer to morally mandated actions or prohibitions, such as the duty to keep promises or the duty not to lie. Influential examples of deontological rules are the Ten Commandments or Kant’s categorical imperative (Kant, 1797). Recent research has also shown that consequentialist versus deontological judgments are associated with different brain activities (e.g., Greene, Nystrom, Engell, Darley, & Cohen, 2004; Schaich Borg, Hynes, Van Horn, Grafton, & Sinnott-Armstrong, 2008)
+Nonconsequentialist views may also underlie trade-off reluctance—a phenomenon for which there have been converging observations within the environmental domain. For instance, people of- ten say that they are not willing to sacrifice endangered species in return for any other values (in par- ticular economic benefit; Gregory & Lichtenstein, 1994; MacGregor & Slovic, 1986). As Tetlock (2003) pointed out, “many people insist that their commitments to certain values are absolute and in- violable—in effect, sacred” (p. 320). He suggested that people treat the mere thought of trading off such values against other values (such as money) as outrageous. Studies have shown that forcing people to make such trade-offs or asking people to “put a price” on values such as human life, animal life or nature can lead to intense affective reactions, moral outrage and even to the intention to pun- ish violators of such “taboo” trade-offs (Fiske & Tetlock, 1997; Ginges, Atran, Medin, & Shikaki, 2007; Hanselmann & Tanner, 2008; Tetlock, Kristel, Elson, Green, & Lerner, 2000).
+Hence, terms such as sacred values (Tetlock, 2003; Tetlock et al., 2000), protected values (Baron & Spranca, 1997), or taboo values (Lichtenstein, Gregory, & Irwin, 2007) have been de- veloped to express the idea that certain values (such as human or animal life, nature, love, honor, etc.) are seen as absolute and protected from trade-offs. Such values refer to any entity an individ- ual or a community considers as infinitely significant, not substitutable and inviolable, and there-
+
+SACRED VALUES 481
+fore as nontradable and noncompensatory (Tanner, Ryf, & Hanselmann, 2009; Tetlock et al., 2000). Echoes of such positions are also heard in the work of deep ecologists, environmental ac- tivists (Horwitz, 1994) or animal rights movement (Beauchamp, 1997; Herzog, 1993). They also parallel philosophical essays on environmental ethics which have emphasized that nature has an inherent value that holds nature apart from human use (Hargrove, 1989; Taylor, 1986). According to these accounts, the nature and nonhuman world should be valued and respected for its own sake and should therefore be protected from cultural or technological incursions. Despite its relevance, environmental decision-making research (which is mainly based on utilitarian models) has largely neglected the existence of sacred values.
+Prior literature has hypothesized that sacred values (SV) and related with them the observation of trade-off reluctance may arise from deontological perspectives (e.g., Baron & Spranca, 1997; Bartels, 2008; Tetlock, 2003). Because the focus lies on whether a behavior is morally right or wrong, application of deontological rules should also go along with a moral distinction between action and omissions. In line with this, prior studies have found that sacred (or protected) values are often linked to an omission bias—a tendency to favor omissions over actions, when a choice must be made between a harmful act (e.g., killing somebody) and an otherwise equivalent (or even more) harmful omission (e.g., letting somebody die; Asch et al., 1994). People endorsing SV tend to be particularly unwilling to take actions that would destroy some species to save more (e.g., Ritov & Baron, 1999). Although those studies suggest a link between SV and deontological prohi- bitions against action, this article examines evidence for the opposite, a link between SV and deontological commitments to action, which are more likely to mandate action and morally con- demns inaction (e.g., Gert, 1973, Nunner-Winkler, 1984).
+Next, detailed research goals and predictions are described, followed by two experimental studies that were designed to increase our understanding of SV and its associated properties within the environmental domain.
+GOALS AND PREDICTIONS
+The main goals of the present research are to examine (a) how concerns of SV are associated with an inclination for action or inaction, (b) how they affect people’s willingness to make trade-offs, and (c) how they are related to deontological thinking. The studies that follow examine people’s sacred values and positions with respect to hypothetical choices and alternative actions. Partici- pants are faced with a variety of scenarios and asked to make a choice between an environmentally significant action (i.e., actively engaging in a specific environmental behavior) or omission (e.g., not engaging in a specific environmental behavior). SV is assessed by separate items. The main hypotheses are as follows:
+H1: People holding SV for human beings, nature or the nonhuman world are more in- clined to express those values by favoring pro-environmental behaviors rather than by refusing them. This follows from the idea that deontological commitments to actions are more prevalent than prohibitions against action in these contexts.
+H2: People endorsing SV are more likely to resist trade-offs than people not endorsing SV. This follows from the idea that trade-off reluctance is one important property of SV.
+
+482 TANNER
+To explore trade-off reluctance, most studies usually ask participants for a threshold at which the act becomes more desirable than the omission. The present studies incorporate a variety of thresh- old questions to test for the consistency of expressions of SV. Study 1 includes threshold ques- tions, such as the minimum number of other people needed to join in an act before one partici- pates, the maximum of negative outcomes (e.g., inconveniences, costs) they would accept, or the minimum of positive outcomes (e.g., environmental benefits) at which they would favor the act. It is expected that people holding SV should tend to favor action, regardless of the number of other people joining the action, independent of personal sacrifices, or magnitude of benefits. In Study 2, trade-off reluctance is explored by offering people an incentive from another party (e.g., a com- pany) to engage in an act (or to cease an act). People with SV should express more reluctance to accept such trade-offs and interpret them as involving bribery or corruption.
+It is important to emphasize that there may be a stronger or weaker hypothesis about SV. The strongest hypothesis about SV would suggest that people with SV would allow no compromise at all. However, people with SV may seldom suffice absolute trade-off reluctance. For instance, Baron and Leshner (2000) showed that people with SV have not a problem to accept trade-offs when the amount or probability of violation of SV is small, though they claim to have strong opin- ions about SV. It appears that people with SV may sometimes be willing to compromise while still keeping the thought that the nature of SV as a rule about action is preserved. A weaker hypothesis of SV therefore takes account of some inconsistencies but still suggests that people with SV will show more trade-off resistance than other people.
+H3: People holding SV are expected to draw larger distinctions between acts and omis- sions than people without SV. This follows from the claim that SV tend to reflect nonconsequentialist rules, that is, the focus is on behaviors per se rather than on con- sequences.
+One implication of this is that people should judge acts and omissions differently because it makes a difference whether outcomes derive from actions or omissions. In the following research, judgments of feelings (Study 1) and morality (Study 2) associated with both acts and omissions are assessed.
+STUDY 1
+This study had three main purposes. First, it tested whether people holding SV rather than those without SV show higher tendencies toward actions. Second, it explored trade-off reluctance using three different threshold questions. Because expressing numerical thresholds can be a rather diffi- cult task (see Slovic & Monahan, 1995), the task was simplified by providing qualitative terms (e.g., small vs. moderate level of costs). Third, participants’ feelings associated with act and omis- sion was assessed to examine whether people endorsing SV show larger act-omission distinctions than other people.
+Method
+Participants and Design
+The study included 98 undergraduates (from the Northwestern University, Illinois) participat- ing for course credit. There were 66 women and 32 men ranging in age from 18 to 22 years (M age
+
+SACRED VALUES 483
+= 19.7 years). Participants were provided with a packet containing six scenarios and several ques- tions. The questions relevant for this article were designed to assess the dependent variables, that is, likelihood of participation, responses to three threshold questions, and ratings of feelings about acting versus not acting as well as SV. The items are presented next.
+Because numerous studies have demonstrated how easily judgments can be influenced by ref- erence numbers (i.e., anchors; e.g., Wilson, Houston, Etling, & Brekke, 1996), I wished to control for possible anchor effects in responses to the threshold questions. I therefore varied initial values (low vs. high numbers) presented in the threshold question. Participants were randomly assigned to one of these two conditions. In addition, five versions of the survey with different orders of the vignettes were created to exclude possible learning effects.
+Neither order of vignette presentation nor anchor affected any results. Gender as well produced no significant main effects or interactions. I therefore say no more about these variables.
+Materials and Procedure
+Scenarios. The scenarios were related to various environmental problems (water pollution, ozone layer depletion, global warming, endangered habitat, groundwater contamination, and waste minimization). They contained information about specific environmental issues, based on current knowledge and facts as reported in literature and popular press. Although hypothetical, a great deal of effort was undertaken to come up with scenarios as realistic as possible. Some of them were based on current newspaper reports. An example of a scenario (shortened) is described next (the other scenarios of this type were global warming, ozone layer depletion, endangered habitat groundwater contamination and waste minimization; see Appendix A).
+Water pollution. Imagine you are living in a city that is attractive to the chemical industry. A chemical plant plans to move to your city. It will be working on a new treatment for cancer. However, part of the operation of this plant will produce new discharges of toxic chemicals into the lake. There is no possi- bility of risk-free plant’s operation. Researchers are concerned that those chemicals may accumulate in fish and in the food chain. A demonstration against the plant is planned. How likely is it that you would participate in the demonstration?
+Likelihood of participation. After reading each vignette, participants were asked about their likelihood of participating in a specific behavior (e.g., participating in a boycott, initiating a treatment). They indicated their intention on a 5-point scale ranging from 1 (very unlikely) to 5 (very likely).
+Threshold measures. People were then provided with three different threshold ques- tions. (a) Number of other participants: The first question asked about the number of partici- pants that would need to participate in the same behavior or need to support a treatment in order for the respondents to participate or to support a treatment as well. (b) Cost level: Another ques- tion asked about the maximum cost (e.g., time, inconvenience, effort) that the respondent would accept and still participate. (c) Benefit level: The last question asked about the minimum benefit (e.g., effectiveness for the environment) to which the respondent would accept in order to par- ticipate. The anchor presented in the threshold questions was varied: One group was presented with low anchors (e.g., there were a small number of other people supporting the same view, there were low costs or small benefits related to the behavior), and another group with high an-
+
+484 TANNER
+chors (e.g., there was a large number of participants, there were high costs or large benefits asso- ciated with the act). The measures were of the following type. (a) “Suppose that you talk with 14 politicians and advisers from the municipality about this problem and [5 / 10] of them support the treatment. How many people will have to support the treatment for you to also support it?” People were asked to check one of five statements to indicate the threshold at which they would support the treatment, (—) I would support the treatment even if no one else supports it; (—) I would support the treatment even if only a few other people support it; (—) I would support the treatment if most people support it; (—) I would support the treatment if all people support it; (—) No number is high enough for me to support the treatment. The statements in this order were coded from 1 to 5. (b) “Suppose that this treatment will cost [$ 15,000 / $ 150,000]. How much would you be willing to contribute to support the treatment?” Participants could choose among the five statements, (—) I would not support the treatment even if there were almost no cost; (—) I would support the treatment if the cost were only small; (—) I would support the treatment if the cost were moderate; (—) I would support the treatment even if the cost were high; (—) I would support the treatment regardless of the cost. The statements in this order were coded from 1 to 5 again. (c) “Suppose that the experts estimate that with the treatment [31% / 58%] of the trees have a chance to survive, while the others will still have to be cut down. What is the minimal number of trees saved for you to support the treatment?” Again, participants were asked to check one of five statements, (—) I would support the treatment even if only one tree were saved; (—) I would support the treatment even if only a few trees were saved; (—) I would support the treatment only if many trees were saved; (—) I would support the treatment only if all trees were saved; (—) I would not support the treatment regardless of number of trees saved. The statements in this order were coded from 1 to 5.
+Feelings. Later, respondents were asked to rate how they would feel about acting and about not acting, on a rating scale ranging from 1 (highly negative feeling) to 5 (highly positive feeling).
+SV. Respondents answered a question that was adapted to each scenario and was de- signed to identify whether they had a SV for the case or not. People were asked about how they think about protecting issues, such as natural resources (scenario “global warming”), endan- gered shorebirds (scenario “groundwater contamination”), trees (scenario “endangered habi- tat”), people’s immune system (scenario “ozone layer depletion”) or human health (scenario “waste minimization”). The question was of the form, “How do you think about protecting en- dangered shorebirds?” People were asked to check one of following three responses: a. Peo- ple should only undertake this if it leads to some benefits that are great enough; b. People should do this no matter how small the benefits (or how great the costs); c. Not undertaking this is acceptable if it saves people enough money). Participants were classified as expressing SV and assigned a code of 1 (= SV) if they chose statement b. They were classified as not showing SV and assigned a code of 0 if they checked statements a or c (= No-SV). Two ver- sions of statement b were used. Half of the sample was provided with the statement “People should do this no matter how small the benefits,” and the other half was provided with the statement “People should do this no matter how great the costs.” Data were collapsed because there were no differences in preferences between these two versions. Both versions reflect trade-off reluctance. The first version reflects that maintenance of this value should not de-
+
+SACRED VALUES 485 pend on amount of benefit; the latter reflects that maintenance of this value should not depend
+on amount of cost.
+Results
+SV and Participation Likelihood
+Table 1 shows the mean likelihood of participation, the proportion of respondents who en- dorsed SV, and the Spearman correlation between SV and likelihood ratings, respectively. As can be seen, the proportion of people endorsing SV varied across scenarios and ranged from 22% to 75%. SV correlated significantly with the likelihood ratings in nearly all scenarios, lending sup- port to the proposition that people with SV tended to express higher likelihood of participation (Hypothesis 1). I also counted participants’ total endorsement of SV across all scenarios (creating a scale ranging from 0 [no endorsement of SV in no single scenario] to 6 [endorsement of SV across all scenarios]) and correlated this with participants’ mean likelihood response across all scenarios. This correlation was rs = .42 (p < .001).
+Threshold Measures
+Do people endorsing SV also yield different thresholds at which they would choose to act? Table 2 shows the mean scores of the 5-point scales with higher scores indicating that (a) more people need to support the same behavior, (b) less cost would be accepted, and (c) more benefits would be expected in order for the respondents to participate (to make the threshold questions comparable, the cost level scores were recoded). In general, the average scores of people endors- ing SV tended to be lower than for those not endorsing SV. Mann-Whitney U-tests were com- puted for each scenario separately to assess for significant differences between SV and No-SV participants. These comparisons yielded significant differences within each threshold measure (349.49 < U < 842.00, p < .001), as well as across all three threshold measures (using the mean rank across the three measures; see Table 2).
+Scenarios
+Global warming
+Ozone layer depletion Endangered habitat Groundwater contamination Water pollution
+Waste minimization
+Proportion SV
+0.22 0.29 0.38 0.42 0.47 0.75
+rs (SV-Act)
+.34** .35*** .20* .39*** .36* .34**
+TABLE 1
+Mean Likelihood of Participation as a Function of the Presence or Absence of SV, Along With Overall Proportion of SV, and Correlation Between SV and Likelihood Participation for Each Scenario
+Likelihood Participation
+SV No-SV
+3.73 2.83 3.54 2.67 4.30 4.00 3.61 2.82 4.02 3.21 4.55 3.76
+    Note. The higher the rating, the higher the likelihood of participation (5-point scale). No-SV (not endorsing SV in a scenario) = 0, and SV (endorsing SV in a scenario) = 1. rs = Spearman rank correlation coefficient. SV = sacred values.
+*p < .05. **p < .01. ***p < .001.
+
+486 TANNER
+Mean Threshold Scores as a Function of Presence and Absence of SV and Comparisons
+TABLE 2
+Between SV Versus No-SV for Each Scenario
+  No. of Participantsa
+Threshold Questions Maximum of
+Costsb
+SV No-SV
+2.45 3.19†† 2.60 3.57††† 2.46 3.07†† 2.37 3.31††† 3.15 3.71† 2.30 2.80†
+Minimum of Benefitsc
+SV No-SV
+2.14 2.89†† 2.61 3.26†† 2.25 2.82††† 1.98 2.69††† 2.56 3.11†† 1.48 2.20††
+SV vs. No-SV
+Mann- Whitney U
+374.50*** 457.00*** 512.50*** 656.00*** 750.00*** 470.00***
+    Scenarios
+Global warming
+Ozone layer depletion Endangered habitat Groundwater contamination Water pollution
+Waste minimization
+Note. SV = sacred values.
+SV
+1.91 2.36 1.54 2.04 2.75 1.23
+No-SV
+3.13††† 3.23††† 2.05†† 2.68†† 3.45†† 2.00†††
+  number of other people that need to participate; 5-point scale. bItem recorded. The †p < .05. ††p < .01. †††p < .001. Comparisons between SV vs. No-SV within each threshold question.
+***p < .001. Comparisons between SV vs. No-SV across threshold questions.
+Briefly, the results lend support to Hypothesis 2. People endorsing SV were more than other people willing to favor action when (a) only a few people would also participate, (b) personal sac- rifices would be required, or (c) the benefits would be minimal.
+Feelings
+How do people with and without SV feel about action and omission? Analyses of variance (Feelings × SV) with feelings associated with action and inaction as within-subject and presence or absence of SV as between-subject factor were conducted for each scenario separately. A signif- icant main effect of feelings in each scenario indicated that people associated more positive feel- ings with action and more negative feelings with inaction (22.16 < F < 39.71, p < .001). More im- portant, however, Feelings × SV interactions were also significant for all scenarios (see Table 3), suggesting that people with and without SV felt differently about action and omission. As shown in Table 3 as well, people endorsing SV felt more positively about acting and more nega- tively about not acting in nearly all cases. I also calculated a difference measure by subtracting participants’ mean feelings about omissions from those of action. The correlation between this difference measure and participants’ overall number of SV was rs = .47, p < .001, confirming Hypothesis 3 that people with SV made a larger distinction between acts and omissions.
+Overall, the results provide support that people endorsing SV are more likely than people endors- ing No-SV to prefer actions, to show greater trade-off reluctance, and to distinguish between act and omission. Because large act-omission differences are indicative for nonconsequentialism, the find- ings also support the argument that people with SV focus more on the action than on the outcomes.
+aThe higher the score, the higher the
+higher the score, the less costs are accepted; 5-point scale. cThe higher the score, the more benefits are needed at which one would participate; 5-point scale.
+
+SACRED VALUES
+TABLE 3
+Means of Feelings Associated With Acts and Omissions as a Function of Presence and Absence of SV and Results of Feeling × SV for Each Scenario
+Feelings for Act
+SV No-SV SV
+4.18 3.18††† 2.45 3.96 2.99†† 2.21 4.43 3.77††† 1.68 4.13 3.37††† 2.13 3.88 3.07††† 2.39 4.51 4.16† 1.67
+487
+Feeling × SV
+F(df=1)
+9.06** 28.34*** 30.03*** 15.02*** 14.36*** 13.70***
+    Scenarios
+Global warming
+Ozone layer depletion Endangered habitat Groundwater contamination Water pollution
+Waste minimization
+Feelings for Not Acting No-SV
+ 2.67 2.91†† 2.36††† 2.53†† 2.91†† 2.32†††
+ Note. The higher the rating, the more positive the feeling (5-point scale). SV = sacred values. †p < .05. ††p < .01. †††p < .001. Comparisons between SV versus No-SV.
+**p < .01. ***p < .001.
+STUDY 2
+The second study was designed to examine whether people with SV would still prefer action over omission when action and omission were more equally in terms of consequences. For this purpose, some scenarios from Study 1 were modified in a way that action versus omissions had equally likely and similar consequences. In addition, this study contained two further changes. To examine trade-off reluctance people were now asked to do something or to give up a behavior in exchange for money or other incentives. Thus, if SV are incompatible with such trade-offs, we should expect these people refusing such incentives. Another change refers to the threshold question. In this study, not just differences in thresholds will be measured, but whether people with SV are also more likely to accept no trade-off at all (i.e., zero thresholds). Recall that zero thresholds would support the strongest claim about SV in that they are taboo values. Finally, the act-omission distinction was again examined, this time by comparing participants’ moral judgments about acts and omissions.
+Method
+Participants and Design. Sixty-one undergraduates (40 women, 21 men) again from the Northwestern University participated in this study for course credit. They ranged in age from 17 to 23 years (M = 18.5 years). The study involved seven scenarios. Three versions of the survey with different orders of the scenarios were created, each given to approximately one third of the partici- pants. Neither order nor gender did affect the results and will therefore be ignored. The dependent variables were act choices, thresholds, and moral judgments of act and omission. SV was assessed by a separate item again.
+Materials and Procedures. Four scenarios were modified from those used in Study 1. The choice options had outcomes equally positive or likely (e.g., equal likelihood of success, same amount of emissions reduced, same number of trees saved or lost). For an example, see the follow- ing scenario. In this scenario, the chance of success was the same for both alternatives (i.e., 60%).
+
+488 TANNER
+(The other scenarios of this type were endangered habitat, global warming, and groundwater con-
+tamination; see Appendix B.)
+Water Pollution. A chemical plant plans to move to the city where you live. However, part of the oper- ation of this plant will produce new discharges of toxic chemicals into the lake. There is no possibility of the plant’s risk-free operation. There is concern that those chemicals may accumulate in the food chain because people eat fish from the lake. Exposure to those chemicals can have negative impact on human health. You are asked to join a demonstration against the plant. It is estimated that the health of 70 out of 1,000 human beings may be threatened by the water pollution. The chances that a demonstra- tion will be successful in changing the plant’s mind are 60% (subsequently, the chances that the dem- onstration will have no effect is 40%). However, you also hear if no demonstration took place, the mu- nicipality will take steps to change the company’s mind. The success of such a strategy is also 60%. – Would you favor participating in the demonstration or not participating in the demonstration and let- ting the municipality to take its steps?
+Choice. After reading each scenario, participants were asked which of two options they would favor. One option represented the act (e.g., participating in a demonstration, initiating a treatment), the other the omission (e.g., not participating and letting the municipality to take its steps, not initiating the treatment and letting the forest management taking steps). Choice of the act was coded 1, and choice of the omission was coded 0.
+Moral judgment. Then respondents were asked to rate the morality of each alternative on a 5-point scales, ranging from 1 (very wrong) to 5 (very good).
+Threshold. Later, participants were told to imagine that they might get money or other in- centives, for example, from the municipality or from a company. In three scenarios they would get an incentive for acting (e.g., for participating in a demonstration, in recycling behavior, in a car-free Sunday program), whereas in one scenario (endangered habitat) they were told to get an incentive for not acting (not initiating a treatment for trees). Participants were asked to assess the threshold at which they would agree to act (or not to act) on a 12-point scale. The measure was of following type.
+In the “endangered habitat” scenario, respondents were told that a wood company is interested in the old trees and willing to pay maximal $200 for each tree cut. “What is the smallest amount of money at which you would accept the offer over initiating the treatment?” Participants were asked to assess on a 12-point scale the threshold at which they would accept the offer and not initiate the treatment: (—) I would not initiate the treatment even if no money is offered; (—) I would accept theofferifatleast$20 or$40,$60,...$200 pertreeisoffered;(—)Iwouldnotaccepttheoffer, regardless of the amount of money offered. In the “water pollution” scenario, respondents were told that the group organizing the demonstration considers offering maximal $10 for each person joining the demonstration. People were asked “What is the smallest amount of money at which you would decide to participate in the demonstration?” Again, participants could check one of 12 statements, (—) I would participate even if no money would be offered; (—) I would participate if atleast$1 or$2,$4,...$10 perSundaywouldbeoffered;(—)Iwouldnotparticipate,regardless of the money offered. The statements in this order were coded from 1 to 12.
+SV. The assessment was similar to Study 1. As in the previous study, participants were asked how they think about protecting human health, trees, shorebirds, nature, and so on, and asked to
+    
+SACRED VALUES 489
+check one of three statements (a, b, or c; see Study 1). For each scenario, they were assigned a code of 1 if they chose statement b (= SV), and a code of 0 if they checked one of the other state- ments (= No-SV).
+Results
+SV and Act Preferences
+Table 4 gives an overview of the proportion of act preferences, the proportion of participants who endorsed SV, and the Spearman correlation between SV and act choices for each scenario. Again, the proportion of people endorsing SV varied across scenarios and ranged from 28% to 49%. SV correlated significantly with act preferences in each scenario, supporting Hypothesis 1. The correlation between participants’ total endorsement of SV across all scenarios and partici- pants’ mean act preferences across scenarios was rs = .51 (p < .001).
+Thresholds and Zero Thresholds
+Again, I examined whether people with SV yielded different thresholds. Recall that in three cases people were asked at which threshold they would choose to act, while in one scenario (en- dangered habitat) they were asked at which threshold they would choose not to act. The results are summarized in Table 5. Negative correlations indicate that people with SV showed lower incen- tive levels, that is, they were less willing to accept an offer at which they would favor the act over omission. Positive correlations indicate that people with SV showed higher incentive levels, that is, they were less willing to accept an offer to favor omission over action.
+With regard to SV, the results confirmed Hypothesis 2 by showing that, in all scenarios, peo- ple with SV were significantly less willing to consider trade-offs than people without SV. This was also confirmed by examining the correlation between endorsement of SV across all scenar- ios and thresholds (having recoded the threshold of endangered habitat). This correlation was rs = –.48, p < .001. SV were also associated with zero thresholds, indicating that no amount of in- centive would be high enough to change one’s behavior. As shown in Table 5, proportion of zero thresholds among people with SV was clearly larger than among No-SV. The correlation
+TABLE 4
+Proportion of Act Preference as a Function of the Presence or Absence of SV, Along With Overall Proportion of SV, and Correlations Between SV-Act Preferences for Each Scenario
+  Scenarios
+Water pollution Endangered habitat
+Global warming Groundwater contamination
+Act Preferences
+SV No-SV
+0.83 0.36 0.75 0.37 0.88 0.23 0.97 0.56
+Proportion SV
+0.49 0.33 0.28 0.48
+rs (SV-Act)
+.49*** .36** .60*** .47***
+  Note. Preferences for act was coded 1, and preferences of omission 0. No-SV (not endorsing SV in a scenario) = 0, and SV (endorsing SV in a scenario) = 1. rs = Spearman rank correlation coefficient. SV = sacred values.
+**p < .01. ***p < .001.
+
+490 TANNER
+Thresholds and Proportion of Zero Threshold as a Function of Presence and Absence of
+TABLE 5
+SV for Each Scenario
+   Scenarios SV
+Water 2.83 pollutiona
+Endangered 10.95 habitatb
+Global 2.88 warminga
+Groundwater 1.69 contaminationa
+Note. SV = sacred values.
+Threshold
+No-SV rs SV
+6.87 –.38** 0.80 8.50 .34** 0.84 9.13 –.49*** 0.82 6.25 –.52*** 0.93
+Zero
+No-SV rs
+0.38 .42** 0.42 .39** 0.18 .60*** 0.44 .52***
+  aIn these scenarios, people were offered incentives for acting (12-point scale). The lower the threshold rating, the less willingness to accept the offer to favor action over omission. bIn this scenario, people were offered incentives for not act- ing (12-point scale). The higher the threshold rating, the less willingness to accept the offer to favor omission over action. rs = Spearman rank correlation coefficient.
+*p < .05. **p < .01. ***p < .001.
+between SV and zero threshold responses was significant in each scenario; the overall correla- tion between participants’ endorsing of SV across all scenarios and zero thresholds was rs = .54, p < .001.
+Moral Judgments
+How do people with and without SV judge the morality of act and omission? Analyses of variance (Moral Judgment × SV) for each scenario separately were conducted, with moral judgments associated with act and omission as a within-subject and presence or absence of SV as a between-subject factor. In all scenarios, a significant main effect of moral judgment sug- gests that people tended to judge actions as morally better than omissions (42.48 < F < 65.80, p < .001). Of greater interest, however, was the Moral Judgment × SV interaction, which was also significant in all scenarios (see Table 6), indicating that people endorsing SV distin- guished to a larger extent between acts and omission in their judgments than No-SV. People endorsing SV judged action as morally better in three scenarios (water pollution: F = 10.72, p < .01; endangered habitat: F = 16.13, p < .001; ground water contamination: F = 4.35, p < .05) and inaction as morally worse in two scenarios (water pollution: F = 4.16, p < .05; global warming: F = 6.34, p < .05) than No-SV people. Again, a difference measure was calculated by subtracting participants’ mean moral ratings of omission from those of action. The correla- tion between this difference measure and participants’ overall number of SV was rs = .26 (p < .05), confirming that larger act-omission differences were found among people maintaining SV (Hypothesis 3).
+Overall, this study again supports the view that people with SV are more likely to express val- ues through preferences for action rather than omission. In addition, the results confirm that peo- ple with SV appear to be more reluctant to consider trade-offs and even unwilling to accept any in-
+
+SACRED VALUES 491 Moral Judgments of Acts and Omissions as a Function of Presence and Absence of SV
+TABLE 6
+and Results of Moral Judgment × SV for Each Scenario
+ Moral Judgment Act
+Moral Judgment Omission
+SV No-SV
+2.70 3.13† 2.75 2.98 2.47 3.16† 2.34 2.63
+Moral Judgment × SV
+F(df = 1)
+12.29** 8.86** 6.73* 4.33*
+   Scenarios SV
+Water pollution 4.60 Endangered habitat 4.45 Global warming 4.59 Groundwater contamination 4.90
+No-SV
+3.94†† 3.61††† 4.25 4.66†
+  Note. The higher the rating, the morally better act or omission was judged (5-point scale). SV = sacred values. †p < .05. ††p < .01. †††p < .001. Comparisons between SV and No-SV.
+*p < .05. **p < .01. ***p < .001.
+centives to change their behavior (zero thresholds). Finally, people holding SV were more sensitive to moral distinctions between acts and omissions, indicating the prevalence of deon- tological thinking.
+GENERAL DISCUSSION
+This research supports the claim that utilitarian approaches do not adequately describe people’s preferences and that it is essential to take account of sacred values and nonconsequentialist views in understanding people’s decision making. The studies revealed a fair amount of people main- taining SV for the nature, the nonhuman or the human world. SV were associated with following main features.
+First, people holding SV were more likely to prefer actions over inactions in all scenarios of Study 1 and 2. Second, people holding SV were more reluctant to make trade-offs, as shown by using a variety of threshold questions. People with SV were less willing to sacrifice their values in face of lack of social support, personal costs, or lack of environmental benefits (Study 1), or in face of attractive offers, such as monetary incentives (Study 2). Study 2 also provided evidence for the strongest hypothesis, namely, that SV are associated with zero thresholds. Third, people hold- ing SV were more likely to reflect deontological moral views. In line with this, the studies re- vealed that SV people were more sensitive to the act-omission distinction. They distinguished to a larger extent than other people between act and omission, in terms of feelings (Study 1) and moral judgments (Study 2).
+Although prior literature has mainly emphasized the link between SV and prohibitions against actions (e.g., Ritov & Baron, 1999), this research suggests that an understanding of SV as being associated with a moral obligation to act can be compelling. The linkage between SV and actions is also supported by assessing correlated properties of SV, such as trade-off reluctance, and the moral distinction between acts versus omissions. As shown, people with SV were more likely to associate negative feelings with omissions and positive feelings with actions, and to judge omis- sion as morally wrong and action as morally better. Overall, this supports the idea that action is
+
+492 TANNER
+positively valued among people with SV and that SV is associated with deontological moral du- ties to act.
+One may remark that the studies mainly included beneficial acts versus omissions for which a penchant for action seems plausible to expect. Indeed, it cannot be excluded that social desirabil- ity has influenced participants’ reported willingness to act. This would, however, not account for the sometimes quite strong differences found between SV and No-SV participants. In addition, re- call that in Study 2, the choices were modified in a way that actions versus omissions were more equally. Despite this, there was a clear higher inclination to prefer action over inactions only among people with SV. This is interesting, because it suggests that agent relativity may be another dimension that is important to people with SV. Agent relativity (e.g., Nagel, 1986) means that par- ticipation of the actor is crucial even when the consequences are the same. Despite equal out- comes, people with SV seemed to value actively promoting the good more than when the out- comes were not the result of personal action.
+Other supports of a linkage between SV and action derive from studies that have explored the role of SV for both choices between beneficial as well as harmful acts and omissions. For exam- ple, Tanner and colleagues (Tanner & Medin, 2004; Tanner, Medin, & Iliev, 2008) found that en- dorsing SV was associated with an action rather than an omission bias when either gains or losses were associated with the action. The tendency to prefer action among SV was even strong enough to overcome loss aversion. Clearly, in many cases, a commitment to act is not implemented in real action. This does, however, not necessarily imply that their values are insincere. People may nev- ertheless feel guilt or regret when they do not undertake an action that they knew they should have (e.g., Baron & Spranca, 1997).
+Though research on activism has suggested numerous factors that motivate it (e.g., Edwards & Oskamp, 1992; Einwohner, 2002; Glazer & Glazer, 1999), adherence to SV could also be a pow- erful source. Decisions involving issues such as antiwar protests or animal rights seem rarely be driven by anticipated consequences but rather by the intuition that acting to safeguard values such as human rights, animal lives, or the environment is mandatory. For example, Horwitz (1994) found that environmental activists construed environmental ethics in terms of a compelling moral duty to act to protect, restore, or maintain the natural world.
+At least following limitations of the present research should be emphasized. The studies were limited to psychological students, arising questions about the generalizability of the find- ings. Another limitation concerns the measurement of SV. Though using single items may be a useful shorthand method for identifying SV, such a strategy is not satisfactory. Our current work is therefore aimed at improving the assessment of SV and at developing a reliable and valid measure based on multiple items (Tanner et al., 2009). So far, the results based on larger and more heterogeneous samples are promising, in that they replicate some findings of this pa- per, namely, that SV provide reasons for action (Tanner et al., 2009). Nevertheless, additional research is needed to get more information about the generalizability across individuals and cul- tures. Furthermore, studies have shown that violations of SV trigger moral outrage (Tetlock et al., 2000) and other negative emotional reactions (Ginges et al., 2007; Hanselmann & Tanner, 2008; Lichtenstein et al., 2007). Thus, another avenue for research concerns the role of emotions.
+Overall, it seems worth to pursue SV in research. SV are important for theory because they cre- ate a problem for utilitarian perspectives. SV are important for application because they may be an essential source of action motivation that is mobilizing rather than paralyzing people.
+
+ACKNOWLEDGMENTS
+This research was supported by the Swiss National Science Foundation (Grant # PP001-102845). I thank Douglas Medin for valuable advice and suggestions and comments on a previous version of the manuscript.
+REFERENCES
+Anscombe, G. E. M. (1958). Modern moral philosophy. Philosophy, 33, 1–19.
+Asch, D. A., Baron, J., Hershey, J. C., Kunreuther, H., Meszaros, J., Ritov, I., et al. (1994). Omission bias and pertussis
+vaccination. Medical Decision Making, 14, 118–123.
+Bamberg, S., & Schmidt, P. (1998). Changing travel-mode choice as rational choice: Results from a longitudinal interven-
+tion study. Rationality and Society, 10, 223–252.
+Baron, J., & Leshner (2000). How serious are protected values? Journal of Experimental Psychology: Applied, 3,
+183–194.
+Baron, J., & Spranca, M. (1997). Protected values. Organizational Behavior and Human Decision Processes, 70, 1–16. Bartels, D. M. (2008). Principled moral sentiment and the flexibility of moral judgment and decision making. Cognition,
+108, 381–417.
+Beauchamp, T. L. (1997). Opposing views on animal experimentation: Do animals have rights? Ethics & Behavior, 7,
+113–121.
+Birnbacher, D. (2003). Analytische Einführung in die Ethik. Berlin: Walter de Gruyter.
+Broad, C. D. (1930). Five types of ethical theory. New York: Cambridge University Press.
+Damasio, A. (1994). Descartes’ error: Emotion, reason, and the human brain. New York: Putnam.
+Edwards, T. C., & Oskamp, S. (1992). Components of antinuclear war activism. Basic and Applied Social Psychology, 13,
+217–230.
+Einwohner, R. L. (2002). Motivational framing and efficacy maintenance: Animal rights Activists’ use of four fortifying
+strategies. Sociological Quarterly, 43, 509–526.
+Fiske, A. P., & Tetlock, P. E. (1997). Taboo trade-offs: Reactions to transaction that transgress the spheres of justice. Polit-
+ical Psychology, 18, 255–297.
+Gert, B. (1973). The moral rules. New York: Harper & Row.
+Ginges, J., Atran, S., Medin, D., & Shikaki, K. (2007). Sacred bounds on rational resolution of violent political conflict.
+Proceedings of the National Academy of Sciences, 104, 7357–7360.
+Glazer, M. P., & Glazer, P. M. (1999). On the trail of courageous behavior. Sociological Inquiry, 69, 276–295. Gregory, R., & Lichtenstein, S. (1994). A hint of risk: Tradeoffs between quantitative and qualitative risk factors. Risk
+Analysis, 14, 199–206.
+Greene, J. D., Nystrom, L. E., Engell, A. D., Darley, J. M., & Cohen, J. D. (2004). The neural bases of cognitive conflict
+and control in moral judgment. Neuron, 44, 389–400.
+Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. Psychological
+Review, 108, 814–834.
+Hanselmann, M., & Tanner, C. (2008). Taboos and conflicts in decision making: Sacred values, decision difficulty, and
+emotions. Judgment and Decision Making, 3, 51–63.
+Hargrove, E. C. (1989). Foundations of environmental ethics. Englewood Cliffs, NJ: Prentice-Hall.
+Hastie, R., & Dawes, R. M. (2001). Rational choice in an uncertain world: The psychology of judgment and decision mak-
+ing. Thousand Oaks, CA: Sage.
+Herzog, H. A. (1993). “The movement is my life”: The psychology of animal rights activism. Journal of Social Issues, 49,
+103–119.
+Horwitz, W. (1994), Characteristics of environmental ethics: Environmental activists’ accounts, Ethics & Behavior, 4,
+345–367.
+Kahneman, D. (2003). A perspective on judgment and choice: Mapping bounded rationality. The American Psychologist,
+58, 697–720.
+Kant, I. (1797). Die Metaphysik der Sitten in 2 Theilen. Königsberg, Russia: Nicolovius.
+SACRED VALUES 493
+
+494 TANNER
+Keeney, R. L., & Raiffa, H. (1976). Decision with multiple objectives: Preferences and value tradeoffs. New York: Wiley. Lichtenstein, S., Gregory, R., & Irwin, J. (2007). What’s bad is easy: Taboo values, affect, and cognition. Judgment and
+Decision Making, 2, 169–188.
+Loewenstein, G., & Lerner, J.S. (2003). The role of affect in decision making. In R. J. Davidson, K. R. Scherer, & H. H.
+Goldsmith. Handbook of affective sciences (pp. 619–642). New York: Oxford University Press.
+Loewenstein, G. F., Weber, E. U., Hsee, C. K., & Welch, N. (2001). Risk as feelings. Psychology Bulletin, 127, 267–286. MacGregor, D., & Slovic, P. (1986). Perceived acceptability of risk analysis as a decision-making approach, Risk Analy-
+sis, 6, 245–256.
+Nagel, T. (1986). The view from nowhere. New York: Oxford University Press.
+Neumann, J. von, & Morgenstern, O. (1947). Theory of games and economic behavior (2nd ed.). Princeton, NJ: Princeton
+University Press.
+Nunner-Winkler, G. (1984). Two moralities? A critical discussion of an ethic of care and responsibility versus an ethic of
+rights and justice. In W. M. Kurtines & J. L. Gewirtz (Eds.), Morality, moral behaviour, and moral development (pp.
+348–361). New York: Wiley-Interscience.
+Ritov, I., & Baron, J. (1999). Protected values and omission bias. Organizational Behavior and Human Decision Pro-
+cesses, 79, 79–94.
+Schaich Borg, J., Hynes, C., Van Horn, J., Grafton, S., & Sinnott-Armstrong, W. (2008). Consequences, action, and inten-
+tion as factors in moral judgments: An fMRI investigation. Journal of Cognitive Neuroscience, 18, 803–817.
+Slovic, P., & Monahan, J. (1995). Probability, danger, and coercion: A study of risk perception and decision making in
+mental health law. Law and Human Behavior, 19, 49–65.
+Sparks, P., & Shepherd, R. (2002). The role of moral judgments within expectancy-value-based attitude-behavior models.
+Ethics & Behavior, 12, 299–321.
+Sunstein, C.-R. (2005). Moral heuristics. Behavioral and Brain Sciences, 28, 531–573.
+Tanner, C., & Medin, D. L. (2004). Protected values: No omission bias and no framing effects. Psychonomic Bulletin &
+Review, 11, 185–191.
+Tanner, C., Medin, D. L., & Iliev, R. (2008). Influence of deontological vs. consequentialist orientations on act choices
+and framing effects: When principles are more important than consequences. European Journal of Social Psychology,
+38, 757–769.
+Tanner, C., Ryf, B., & Hanselmann, M. (2009). Geschützte Werte Skala (GWS): Konstruktion und Validierung eines
+Messinstrumentes [Sacred Value Measure: Construction and validation of an instrument to assess sacred values].
+Diagnostica, 55, 174–183.
+Taylor, P. W. (1986). Respect for nature: A theory of environmental ethics. Princeton, NJ: Princeton University Press. Tetlock, P. E. (2003). Thinking the unthinkable: Sacred values and taboo cognitions. Trends in Cognitive Sciences, 7,
+320–324.
+Tetlock, P. E., Kristel, O. V., Elson, S. B., Green, M., & Lerner, J. S. (2000). The psychology of the unthinkable. Taboo
+trade-offs, forbidden base rates, and heretical counterfactuals. Journal of Personality & Social Psychology, 5,
+853–870.
+Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185, 1124–1131. Wilson, T. D., Houston, C. E., Etling, K. M., & Brekke, N. (1996). A new look at anchoring effects: Basic anchoring and
+its antecedents. Journal of Experimental-Psychology: General, 125, 387–402.
+Zey, M. (1992). Decision-making: Alternatives to rational choice models. London: Sage.
+APPENDIX A
+Choice Scenarios Used in Study 1 (abbreviated description)
+Global warming. Your community plans to make a contribution to combat global warming and to reduce CO2 emissions. Some researchers expect that water resources, forests, wildlife and coastal areas will be vulnerable to global warming. The community wants private households to give up driving on pre-announced Sundays. How likely is it that you would agree to give up driv- ing on these Sundays?
+
+SACRED VALUES 495
+Ozone layer depletion: The depletion of the ozone layer can have adverse effects on humans. More UV light may increase the risk of skin cancer and suppress people’s immune systems. Among other chemicals, the ozone layer is affected by methyl bromide, a toxic agricultural pesti- cide that is used by farmers for growing tomatoes and strawberries. How likely is it that you would participate in a boycott of purchasing tomatoes and strawberries?
+Endangered habitat. You are a government official and informed that trees of the old-growth forest are endangered by a specific kind of pest. There are 1,400 acres of old-growth forest endan- gered and may have to be cut down. You are asked to decide whether a new kind of treatment should be implemented or not. How likely is it that you would support the treatment?
+Groundwater contamination. In the area where you live is a refinery. Due to tank leaks, groundwater may become contaminated and endanger a nesting site of shorebird. You are asked to help collecting signatures for a petition that demands a cleanup program. How likely is it that you would help to collect signatures?
+Waste minization. The municipality is concerned that the local landfills may contaminate drinking water from underground and surface supplies and threaten human health because they are reaching their capacity. Inhabitants are asked to increase recycling by collecting and recycling paper, glass, batteries, aluminum cans, motor oil, etc. How likely is it that you will increase your recycling behavior?
+APPENDIX B
+Choice Scenarios Used in Study 2 (abbreviated description)
+Endangered habitat. You are a government official and informed that trees of a old-growth for- est are endangered by a specific kind of pest. They estimate that with the treatment 600 trees have a chance to survive, while 800 will still have to be cut down. Another possibility is to not initiate the treatment and let the forest management invest in this treatment. Would you favor initiating the treatment or not and letting the forest management take its steps?
+Global warming. Your community plans to make a contribution to combat global warming and to reduce CO2 emissions. It wants to encourage private households to give up driving on pre-an- nounced Sundays. Imagine that 7,000 tons of CO2 emissions by cars are released each year in this city. It is expected that this program can decrease local CO2 emissions by 4,000 tons annually. Without such a program, the automobile company will be encouraged to invest more in develop- ment of electric cars. It is estimated that in some years the purchase of electric cars can also de- crease local CO2 emissions of 4,000 tons. Would you favor committing to give up driving on these Sundays or not and expecting development of electric cars?
+Groundwater contamination. In the area where you live is a refinery. Due to tank leaks, groundwater may become contaminated and endanger a nesting site of shorebird. You are the head of a supermarket and asked by some people to collect signatures for a petition that demands a cleanup program among your employees and customers. If not many volunteers and signatures can be found, a company must be hired to collect the signatures. Would you favor to collect signa- tures or not collecting signatures and letting a company do this job?
