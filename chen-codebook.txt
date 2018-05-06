@@ -1,0 +1,2792 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/data/Dropbox/Ash_Chen_Naidu/data/judgebios/codebook.txt
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}12 Jan 2018, 19:16:36
+
+{com}. codebook
+
+{txt}{hline}
+{res}songername{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str35{txt})
+
+{col 10}unique values:  {res}3,486{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"CUMMINGS, SAM R."
+{col 26}"HINCKS, CARROLL"
+{col 26}"MCMILLEN, THOMAS R."
+{col 26}"SENTELLE, DAVID B."
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}judgeidentificationnumber{right:Judge Identification Number}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1{txt},{res}3515{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}3,486{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 1721.18
+{txt}{col 15}std. dev:{res}{col 26} 1002.26
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}     343{col 37}   861.5{col 47}  1704.5{col 57}    2567{col 67}    3133
+
+{txt}{hline}
+{res}Term{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}6{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}6{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,486{col 33}1
+{col 21}       524{col 33}2
+{col 21}        73{col 33}3
+{col 21}        11{col 33}4
+{col 21}         1{col 33}5
+{col 21}         1{col 33}6
+
+{txt}{hline}
+{res}id{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}long{txt})
+
+{col 18}range:  [{res}2{txt},{res}80002{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}3,224{col 51}{txt}missing .:  {res}872{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 12375.7
+{txt}{col 15}std. dev:{res}{col 26} 9775.86
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1374{col 37}  3678.5{col 47}   10305{col 57}   20510{col 67}   30073
+
+{txt}{hline}
+{res}AppointmentDate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-62187{txt},{res}19799{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}26sep1789{txt},{res}17mar2014{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}2,034{col 51}{txt}missing .:  {res}32{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-1395.65{txt} = {res}06mar1956{txt} (+ -16 hours)
+{col 15}std. dev:{res}{col 26}   18188
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -28437{col 37}   -9735{col 47}    4190{col 57}   11651{col 67}   15972
+{col 26}21feb1882{col 36}07may1933{col 46}22jun1971{col 56}25nov1991{col 66}24sep2003
+
+{txt}{hline}
+{res}TerminationDate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-61953{txt},{res}19791{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}18may1790{txt},{res}09mar2014{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}2,472{col 51}{txt}missing .:  {res}1,351{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-2588.46{txt} = {res}29nov1952{txt} (+ -11 hours)
+{col 15}std. dev:{res}{col 26}   19138
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -31809{col 37}  -12786{col 47}    3165{col 57}   12199{col 67}   16832
+{col 26}28nov1872{col 36}29dec1924{col 46}31aug1968{col 56}26may1993{col 66}31jan2006
+
+{txt}{hline}
+{res}courtname{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str108{txt})
+
+{col 10}unique values:  {res}169{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"u. s. court of appeals for the seventh circuit"
+{col 26}"u. s. district court, district of minnesota"
+{col 26}"u. s. district court, eastern district of
+{col 26}pennsylvania"
+{col 26}"u. s. district court, southern district of
+{col 26}california"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}courttype{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str41{txt})
+
+{col 10}unique values:  {res}13{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"usca"
+{col 26}"usdc"
+{col 26}"usdc"
+{col 26}"usdc"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}abarating{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str30{txt})
+
+{col 10}unique values:  {res}11{col 51}{txt}missing "":  {res}1,697{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}"Qualified"
+{col 26}"Well Qualified"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}AbaUpdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str75{txt}), but longest is str3
+
+{col 10}unique values:  {res}5{col 51}{txt}missing "":  {res}3,898{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,898{col 33}""
+{col 21}         1{col 33}"EQ"
+{col 21}        43{col 33}"EWQ"
+{col 21}         1{col 33}"NQ"
+{col 21}        62{col 33}"Q"
+{col 21}        91{col 33}"WQ"
+
+{txt}{hline}
+{res}SenateConfirmationdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-62188{txt},{res}19794{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}25sep1789{txt},{res}12mar2014{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}1,865{col 51}{txt}missing .:  {res}43{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-1499.82{txt} = {res}23nov1955{txt} (+ -20 hours)
+{col 15}std. dev:{res}{col 26} 18273.5
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -28714{col 37}   -9701{col 47}    4005{col 57}   11647{col 67}   15971
+{col 26}20may1881{col 36}10jun1933{col 46}19dec1970{col 56}21nov1991{col 66}23sep2003
+
+{txt}{hline}
+{res}RecessAppointDate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-62134{txt},{res}16121{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}18nov1789{txt},{res}20feb2004{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}236{col 51}{txt}missing .:  {res}3,771{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-19205.4{txt} = {res}02jun1907{txt} (+ -9 hours)
+{col 15}std. dev:{res}{col 26} 17871.8
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -48650{col 37}  -28897{col 47}  -16209{col 57}   -3724{col 67}     643
+{col 26}20oct1826{col 36}18nov1880{col 46}16aug1915{col 56}21oct1949{col 66}05oct1961
+
+{txt}{hline}
+{res}birthday{right:Birth day}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}31{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}31{col 51}{txt}missing .:  {res}1,692{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}  15.708
+{txt}{col 15}std. dev:{res}{col 26} 8.73837
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       4{col 37}       8{col 47}      16{col 57}      23{col 67}      27
+
+{txt}{hline}
+{res}birthmonth{right:Birth month}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}12{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}12{col 51}{txt}missing .:  {res}1,688{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 6.48754
+{txt}{col 15}std. dev:{res}{col 26}  3.4511
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       2{col 37}       3{col 47}       7{col 57}      10{col 67}      11
+
+{txt}{hline}
+{res}birthyear{right:Birth year}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1732{txt},{res}1973{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}237{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 1904.31
+{txt}{col 15}std. dev:{res}{col 26}  49.521
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1832{col 37}    1880{col 47}    1919{col 57}    1942{col 67}    1953
+
+{txt}{hline}
+{res}deathmonth{right:Death month}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}12{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}12{col 51}{txt}missing .:  {res}1,647{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 6.49612
+{txt}{col 15}std. dev:{res}{col 26} 3.51852
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       2{col 37}       3{col 47}       7{col 57}      10{col 67}      11
+
+{txt}{hline}
+{res}deathday{right:Death day}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}31{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}31{col 51}{txt}missing .:  {res}1,649{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 15.3866
+{txt}{col 15}std. dev:{res}{col 26} 8.71949
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       3{col 37}       8{col 47}      15{col 57}      23{col 67}      28
+
+{txt}{hline}
+{res}deathyear{right:Death year}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1790{txt},{res}2014{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}212{col 51}{txt}missing .:  {res}1,645{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 1952.44
+{txt}{col 15}std. dev:{res}{col 26} 51.3826
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1874{col 37}    1924{col 47}    1966{col 57}    1994{col 67}    2005
+
+{txt}{hline}
+{res}JudgeAssignedCourt{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str16{txt})
+
+{col 10}unique values:  {res}389{col 51}{txt}missing "":  {res}1,911{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}"Columbia"
+{col 26}"New Orleans"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}judgelastname{right:Judge Last Name}
+{txt}{hline}
+
+{col 19}type:  string ({res}str18{txt})
+
+{col 10}unique values:  {res}2,431{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"CUMMINGS"
+{col 26}"HINCKS"
+{col 26}"MCMILLEN"
+{col 26}"SENTELLE"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}judgefirstname{right:Judge First Name}
+{txt}{hline}
+
+{col 19}type:  string ({res}str14{txt})
+
+{col 10}unique values:  {res}871{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"EARL"
+{col 26}"JAMES"
+{col 26}"LOUIS"
+{col 26}"ROSEMARY"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}judgemiddlename{right:Judge Middle Name}
+{txt}{hline}
+
+{col 19}type:  string ({res}str24{txt})
+
+{col 10}unique values:  {res}1,232{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"AUGUSTINE"
+{col 26}"EVAN"
+{col 26}"JOSEPH"
+{col 26}"PAUL"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}suffix{right:Suffix}
+{txt}{hline}
+
+{col 19}type:  string ({res}str3{txt})
+
+{col 10}unique values:  {res}6{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,697{col 33}""
+{col 21}        15{col 33}"II"
+{col 21}        33{col 33}"III"
+{col 21}         1{col 33}"IV"
+{col 21}       320{col 33}"JR."
+{col 21}        30{col 33}"SR."
+
+{txt}{col 16}warning:  variable has leading and trailing blanks
+
+{txt}{hline}
+{res}Circuitjudge{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}13{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}14{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 6.78711
+{txt}{col 15}std. dev:{res}{col 26} 3.53391
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       2{col 37}       4{col 47}       7{col 57}       9{col 67}      12
+
+{txt}{hline}
+{res}SeatState{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str2{txt})
+
+{col 10}unique values:  {res}53{col 51}{txt}missing "":  {res}51{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"DC"
+{col 26}"IN"
+{col 26}"NJ"
+{col 26}"PA"
+
+{txt}{hline}
+{res}retirementfromactiveservice{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}1,359{col 51}{txt}missing "":  {res}2,480{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}"06/30/2009"
+
+{txt}{hline}
+{res}dateaschiefjudgebegin{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1801{txt},{res}2014{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}74{col 51}{txt}missing .:  {res}3,058{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}    1982
+{txt}{col 15}std. dev:{res}{col 26} 22.6709
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1954{col 37}    1966{col 47}    1984{col 57}    1999{col 67}    2008
+
+{txt}{hline}
+{res}presidentname{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str21{txt})
+
+{col 10}unique values:  {res}43{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"Franklin D. Roosevelt"
+{col 26}"Harry S Truman"
+{col 26}"Lyndon B. Johnson"
+{col 26}"Ronald Reagan"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}seconddateaschiefjudgebegin{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1966{txt},{res}2001{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,094{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         1{col 33}1966
+{col 21}         1{col 33}2001
+{col 21}     4,094{col 33}.
+
+{txt}{hline}
+{res}senatevoicevote{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str3{txt})
+
+{col 10}unique values:  {res}3{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        43{col 33}""
+{col 21}       490{col 33}"No"
+{col 21}     3,563{col 33}"Yes"
+
+{txt}{col 16}warning:  variable has leading and trailing blanks
+
+{txt}{hline}
+{res}senatevoteayesnays{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str6{txt})
+
+{col 10}unique values:  {res}208{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has leading and trailing blanks
+
+{txt}{hline}
+{res}Committeeactiondate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-48801{txt},{res}19739{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}22may1826{txt},{res}16jan2014{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}1,551{col 51}{txt}missing .:  {res}252{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 1047.17{txt} = {res}13nov1962{txt} (+ 4 hours)
+{col 15}std. dev:{res}{col 26} 14612.9
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -20485{col 37} -6935.5{col 47}    4668{col 57} 11905.5{col 67}   16015
+{col 26}01dec1903{col 36}04jan1941{col 46}12oct1972{col 56}05aug1992{col 66}06nov2003
+
+{txt}{hline}
+{res}Degree1{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}11{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}9{col 51}{txt}missing .:  {res}640{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        47{col 33}1
+{col 21}     2,259{col 33}2
+{col 21}       452{col 33}3
+{col 21}        50{col 33}4
+{col 21}        41{col 33}5
+{col 21}       520{col 33}6
+{col 21}        10{col 33}7
+{col 21}        40{col 33}8
+{col 21}        37{col 33}11
+{col 21}       640{col 33}.
+
+{txt}{hline}
+{res}Degree2{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}2{txt},{res}11{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}10{col 51}{txt}missing .:  {res}1,332{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 5.57236
+{txt}{col 15}std. dev:{res}{col 26} 1.18663
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       5{col 37}       5{col 47}       5{col 57}       6{col 67}       6
+
+{txt}{hline}
+{res}Degree3{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}2{txt},{res}11{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}8{col 51}{txt}missing .:  {res}3,638{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         4{col 33}2
+{col 21}       167{col 33}5
+{col 21}        96{col 33}6
+{col 21}        37{col 33}7
+{col 21}         7{col 33}8
+{col 21}       111{col 33}9
+{col 21}         6{col 33}10
+{col 21}        30{col 33}11
+{col 21}     3,638{col 33}.
+
+{txt}{hline}
+{res}Degree4{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}5{txt},{res}11{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}6{col 51}{txt}missing .:  {res}4,037{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        13{col 33}5
+{col 21}        16{col 33}6
+{col 21}         4{col 33}7
+{col 21}         3{col 33}8
+{col 21}        12{col 33}9
+{col 21}        11{col 33}11
+{col 21}     4,037{col 33}.
+
+{txt}{hline}
+{res}Degree5{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}9{txt},{res}11{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,091{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         2{col 33}9
+{col 21}         3{col 33}11
+{col 21}     4,091{col 33}.
+
+{txt}{hline}
+{res}degreeyear1{right:Degree year}
+{txt}{hline}
+
+{col 19}type:  string ({res}str8{txt})
+
+{col 10}unique values:  {res}236{col 51}{txt}missing "":  {res}32{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"1883"
+{col 26}"1929"
+{col 26}"1951"
+{col 26}"1968"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}degreeyear2{right:Degree year (2)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str9{txt})
+
+{col 10}unique values:  {res}219{col 51}{txt}missing "":  {res}843{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"1915"
+{col 26}"1952"
+{col 26}"1972"
+
+{txt}{col 16}warning:  variable has leading and trailing blanks
+
+{txt}{hline}
+{res}degreeyear3{right:Degree year (3)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str8{txt})
+
+{col 10}unique values:  {res}148{col 51}{txt}missing "":  {res}3,503{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}degreeyear4{right:Degree year (4)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str4{txt})
+
+{col 10}unique values:  {res}47{col 51}{txt}missing "":  {res}4,022{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has leading and trailing blanks
+
+{txt}{hline}
+{res}degreeyear5{right:Degree year (5)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1900{txt},{res}1987{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}5{col 51}{txt}missing .:  {res}4,090{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         1{col 33}1900
+{col 21}         1{col 33}1910
+{col 21}         1{col 33}1967
+{col 21}         2{col 33}1985
+{col 21}         1{col 33}1987
+{col 21}     4,090{col 33}.
+
+{txt}{hline}
+{res}Committeeaction{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}4{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}4{col 51}{txt}missing .:  {res}251{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,616{col 33}1
+{col 21}       208{col 33}2
+{col 21}         9{col 33}3
+{col 21}        12{col 33}4
+{col 21}       251{col 33}.
+
+{txt}{hline}
+{res}ageon{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}25{txt},{res}86{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}57{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 51.0589
+{txt}{col 15}std. dev:{res}{col 26} 7.55937
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}      41{col 37}      46{col 47}      51{col 57}      56{col 67}      60
+
+{txt}{hline}
+{res}vicelastnamepredecessor{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str17{txt})
+
+{col 10}unique values:  {res}1,950{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"Evans"
+{col 26}"Lowell"
+{col 26}"Simonton"
+{col 26}"new"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}vicefirstnamepredecessor{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str22{txt})
+
+{col 10}unique values:  {res}1,893{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"David N."
+{col 26}"James M."
+{col 26}"Raymond E."
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}hearings{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str14{txt})
+
+{col 10}unique values:  {res}224{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}reportnumber{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str16{txt})
+
+{col 10}unique values:  {res}6{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,091{col 33}""
+{col 21}         1{col 33}"13, 90C., 1S"
+{col 21}         1{col 33}"92-17"
+{col 21}         1{col 33}"Ex. Rept. 101-32"
+{col 21}         1{col 33}"Ex. Rpt. 102-15"
+{col 21}         1{col 33}"Ex.Rpt. 94-3"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}authorizationlegislation{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str14{txt})
+
+{col 10}unique values:  {res}228{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}"33 Stat. 611"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}placeofbirthcity{right:Place of Birth (City)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str36{txt})
+
+{col 10}unique values:  {res}1,568{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"Clarksburg"
+{col 26}"Jacksonville"
+{col 26}"New York"
+{col 26}"San Francisco"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}placeofbirthstate{right:Place of Birth (State)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str18{txt})
+
+{col 10}unique values:  {res}94{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"IA"
+{col 26}"ME"
+{col 26}"NY"
+{col 26}"PA"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}placeofdeathcity{right:Place of Death (City)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str37{txt})
+
+{col 10}unique values:  {res}590{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}"Bedford"
+{col 26}"New York"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}placeofdeathstate{right:Place of Death (State)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str11{txt})
+
+{col 10}unique values:  {res}61{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}"CA"
+{col 26}"MO"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}deathdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-61953{txt},{res}19775{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}18may1790{txt},{res}21feb2014{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}1,936{col 51}{txt}missing .:  {res}1,649{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-2569.19{txt} = {res}18dec1952{txt} (+ -5 hours)
+{col 15}std. dev:{res}{col 26} 18745.7
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -31153{col 37}  -12822{col 47}    2446{col 57}   12659{col 67}   16753
+{col 26}15sep1874{col 36}23nov1924{col 46}12sep1966{col 56}29aug1994{col 66}13nov2005
+
+{txt}{hline}
+{res}party_Updated{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}17{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}17{col 51}{txt}missing .:  {res}474{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} .799558
+{txt}{col 15}std. dev:{res}{col 26}  1.5533
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       0{col 37}       0{col 47}       0{col 57}       1{col 67}       1
+
+{txt}{hline}
+{res}dateaschiefjudgeend{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1802{txt},{res}2014{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}73{col 51}{txt}missing .:  {res}3,163{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}  1985.1
+{txt}{col 15}std. dev:{res}{col 26} 21.4352
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1959{col 37}    1971{col 47}    1989{col 57}    2001{col 67}    2009
+
+{txt}{hline}
+{res}seconddateaschiefjudgeend{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1968{txt},{res}2010{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,094{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         1{col 33}1968
+{col 21}         1{col 33}2010
+{col 21}     4,094{col 33}.
+
+{txt}{hline}
+{res}renominatingpresidentname{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str15{txt})
+
+{col 10}unique values:  {res}2{col 51}{txt}missing "":  {res}4,094{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,094{col 33}""
+{col 21}         1{col 33}"Calvin Coolidge"
+{col 21}         1{col 33}"George W. Bush"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}partyaffiliationofrenompres{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}2{col 51}{txt}missing "":  {res}4,093{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,093{col 33}""
+{col 21}         1{col 33}"01/13/1949"
+{col 21}         2{col 33}"Republican"
+
+{txt}{hline}
+{res}referraldatejudicialcom{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}1,883{col 51}{txt}missing "":  {res}347{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"01/26/1956"
+{col 26}"04/06/1911"
+{col 26}"06/19/1991"
+{col 26}"09/19/1977"
+
+{txt}{hline}
+{res}degree{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str25{txt})
+
+{col 10}unique values:  {res}77{col 51}{txt}missing "":  {res}3,987{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree_law{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str24{txt})
+
+{col 10}unique values:  {res}62{col 51}{txt}missing "":  {res}3,985{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree_other{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str58{txt})
+
+{col 10}unique values:  {res}15{col 51}{txt}missing "":  {res}4,075{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}district{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str4{txt})
+
+{col 10}unique values:  {res}91{col 51}{txt}missing "":  {res}1,160{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"0208"
+{col 26}"0541"
+{col 26}"0971"
+
+{txt}{hline}
+{res}nominationdatesenateexecutivej{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}2,027{col 51}{txt}missing "":  {res}152{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"02/06/2004"
+{col 26}"04/15/1964"
+{col 26}"06/27/1991"
+{col 26}"09/24/1789"
+
+{txt}{hline}
+{res}genderNew{right:Gender}
+{txt}{hline}
+
+{col 19}type:  string ({res}str1{txt})
+
+{col 10}unique values:  {res}2{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       406{col 33}"F"
+{col 21}     3,690{col 33}"M"
+
+{txt}{hline}
+{res}raceorethnicity{right:Race or Ethnicity}
+{txt}{hline}
+
+{col 19}type:  string ({res}str20{txt})
+
+{col 10}unique values:  {res}10{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"White"
+{col 26}"White"
+{col 26}"White"
+{col 26}"White"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}partyaffiliationofpresident{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str23{txt})
+
+{col 10}unique values:  {res}8{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        39{col 33}""
+{col 21}         6{col 33}"Assignment"
+{col 21}     1,787{col 33}"Democratic"
+{col 21}        23{col 33}"Federalist"
+{col 21}        69{col 33}"Jeffersonian Republican"
+{col 21}       138{col 33}"Reassignment"
+{col 21}     2,015{col 33}"Republican"
+{col 21}        19{col 33}"Whig"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}recessappointmentdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}236{col 51}{txt}missing "":  {res}3,771{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{hline}
+{res}committeeaction{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str31{txt})
+
+{col 10}unique values:  {res}6{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       364{col 33}""
+{col 21}        11{col 33}"Not Reported"
+{col 21}         1{col 33}"Recommended Postponement"
+{col 21}         9{col 33}"Reported Unfavorably"
+{col 21}     3,524{col 33}"Reported With Recommendation"
+{col 21}       187{col 33}"Reported Without Recommendation"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}committeeactiondate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}1,550{col 51}{txt}missing "":  {res}366{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"02/20/1950"
+{col 26}"04/30/1951"
+{col 26}"07/14/2011"
+{col 26}"10/01/2009"
+
+{txt}{hline}
+{res}senatevotedateconfirmationdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}1,864{col 51}{txt}missing "":  {res}178{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"03/03/1986"
+{col 26}"05/15/2013"
+{col 26}"07/25/1946"
+{col 26}"10/10/1968"
+
+{txt}{hline}
+{res}commissiondate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}2,034{col 51}{txt}missing "":  {res}32{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"03/12/1958"
+{col 26}"05/23/1980"
+{col 26}"08/01/2006"
+{col 26}"10/14/1975"
+
+{txt}{hline}
+{res}dateoftermination{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str10{txt})
+
+{col 10}unique values:  {res}2,471{col 51}{txt}missing "":  {res}1,351{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"02/04/1990"
+{col 26}"05/23/1895"
+{col 26}"09/16/1965"
+
+{txt}{hline}
+{res}terminationspecificreason{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str40{txt})
+
+{col 10}unique values:  {res}9{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,353{col 33}""
+{col 21}        25{col 33}"Abolition of Court"
+{col 21}       361{col 33}"Appointment to Another Judicial
+{col 33}Position"
+{col 21}     1,628{col 33}"Death"
+{col 21}        11{col 33}"Impeachment & Conviction"
+{col 21}       148{col 33}"Reassignment"
+{col 21}        27{col 33}"Recess Appointment-Not Confirmed"
+{col 21}       286{col 33}"Resignation"
+{col 21}       257{col 33}"Retirement"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}nameofschool1{right:Name of School}
+{txt}{hline}
+
+{col 19}type:  string ({res}str80{txt})
+
+{col 10}unique values:  {res}781{col 51}{txt}missing "":  {res}32{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"Fordham University School of Law"
+{col 26}"Ohio State University"
+{col 26}"University of Alabama"
+{col 26}"University of Pennsylvania"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree1{right:Degree}
+{txt}{hline}
+
+{col 19}type:  string ({res}str23{txt})
+
+{col 10}unique values:  {res}64{col 51}{txt}missing "":  {res}32{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"A.B."
+{col 26}"B.A."
+{col 26}"B.A."
+{col 26}"B.S."
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}nameofschool2{right:Name of School (2)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str80{txt})
+
+{col 10}unique values:  {res}396{col 51}{txt}missing "":  {res}843{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"Harvard Law School"
+{col 26}"South Carolina State School of Law"
+{col 26}"University of Missouri School of Law"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree2{right:Degree (2)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str29{txt})
+
+{col 10}unique values:  {res}47{col 51}{txt}missing "":  {res}843{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"J.D."
+{col 26}"J.D."
+{col 26}"LL.B."
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}nameofschool3{right:Name of School (3)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str80{txt})
+
+{col 10}unique values:  {res}172{col 51}{txt}missing "":  {res}3,503{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree3{right:Degree (3)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str38{txt})
+
+{col 10}unique values:  {res}26{col 51}{txt}missing "":  {res}3,503{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}nameofschool4{right:Name of School (4)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str80{txt}), but longest is str69
+
+{col 10}unique values:  {res}34{col 51}{txt}missing "":  {res}4,022{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree4{right:Degree (4)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str7{txt})
+
+{col 10}unique values:  {res}13{col 51}{txt}missing "":  {res}4,022{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has leading and trailing blanks
+
+{txt}{hline}
+{res}nameofschool5{right:Name of School (5)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str80{txt}), but longest is str68
+
+{col 10}unique values:  {res}5{col 51}{txt}missing "":  {res}4,090{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,090{col 33}""
+{col 21}         1{col 33}"Georgetown College Law School (now
+{col 33}Georgetown University Law Center)"
+{col 21}         1{col 33}"Georgetown University Law Center"
+{col 21}         1{col 33}"New York University School of Law"
+{col 21}         1{col 33}"Read law"
+{col 21}         2{col 33}"State University of New York at Albany"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}degree5{right:Degree  (5)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str35{txt})
+
+{col 10}unique values:  {res}4{col 51}{txt}missing "":  {res}4,090{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,090{col 33}""
+{col 21}         1{col 33}""
+{col 21}         2{col 33}"Certificate in Regulatory Economics"
+{col 21}         1{col 33}"J.S.D."
+{col 21}         2{col 33}"LL.M."
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}employmenttextfield{right:Employment text field}
+{txt}{hline}
+
+{col 19}type:  string ({res}str1421{txt})
+
+{col 10}unique values:  {res}3,483{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"Law clerk, Hon. Thomas E. Fairchild, U.S. Court of
+{col 26}Appeals for the Seventh Circuit, 1976-1977<br>Private
+{col 26}practice, New York City, 1977-1979,
+{col 26}1986-1987<br>Assistant U.S. attorney, Eastern
+{col 26}District of New York, 1979-1986; chief, Narcotics
+{col 26}Division, 1982-1984; chief, Special Prosecutions
+{col 26}Division, 1984-1986<BR>U.S. attorney for the Eastern
+{col 26}District of New York (interim court appointment),
+{col 26}1986"
+{col 26}"Private practice, Georgia, 1884-1894<BR>State
+{col 26}representative, Georgia, 1886-1887<BR>Solicitor
+{col 26}general, Middle Judicial Circuit, Georgia,
+{col 26}1890-1897<BR>Judge, Superior Court of Georgia, Middle
+{col 26}Judicial Circuit, 1899-1904<BR>Justice, Supreme Court
+{col 26}of Georgia, 1904-1917"
+{col 26}"Private practice, Pittsburgh, Pennsylvania,
+{col 26}1940-1942<BR>Member, National Labor Relations Board,
+{col 26}1942<BR>U.S. Army first lieutenant,
+{col 26}1942-1945<BR>Chief, Regional Appellate Division, U.S.
+{col 26}Office of Price Administration, San Francisco,
+{col 26}California, 1946-1947<BR>Private practice, San
+{col 26}Francisco, California, 1947-1951,
+{col 26}1970-1976<BR>Assistant district attorney and chief
+{col 26}superior court deputy, San Francisco, California,
+{col 26}1951-1958<BR>Instructor, Golden State University Law
+{col 26}School, 1952-1958<BR>Secretary and legal counsel,
+{col 26}Gov. Edmund G. Brown, California, 1958-1961<BR>U.S.
+{col 26}attorney for the Northern District of California,
+{col 26}1961-1970<BR>Professor of law, University of
+{col 26}California, Berkeley, Boalt Hall School of Law,
+{col 26}1969-1970<BR>Fellow in residence, Yale Law School,
+{col 26}1970"
+{col 26}"U.S. Army Reserve, 1972-1987<BR>Assistant district
+{col 26}attorney, Bexar County, Texas, 1972-1976<BR>Assistant
+{col 26}federal public defender, Western District of Texas,
+{col 26}1976-1980<BR>Judge, Bexar County [Texas] One Hundred
+{col 26}and Eighty-Seventh District Court, 1980<BR>U.S.
+{col 26}attorney for the Western District of Texas,
+{col 26}1981-1984<BR>"
+
+{txt}{col 16}warning:  variable has leading, embedded, and trailing blanks
+
+{txt}{hline}
+{res}bankruptcyandmagistrateservice{right:Bankruptcy and Magistrate service}
+{txt}{hline}
+
+{col 19}type:  string ({res}str464{txt})
+
+{col 10}unique values:  {res}310{col 51}{txt}missing "":  {res}3,729{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}Nominationdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}-62189{txt},{res}19729{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2,027{col 51}{txt}missing .:  {res}152{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-1154.12
+{txt}{col 15}std. dev:{res}{col 26} 17875.8
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -26685{col 37}   -9057{col 47}    4208{col 57}   11640{col 67}   15826
+
+{txt}{hline}
+{res}District_Circuit{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str7{txt})
+
+{col 10}unique values:  {res}111{col 51}{txt}missing "":  {res}912{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"0312"
+{col 26}"0643"
+{col 26}"0970"
+
+{txt}{hline}
+{res}party{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}17{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}17{col 51}{txt}missing .:  {res}394{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} .794435
+{txt}{col 15}std. dev:{res}{col 26} 1.53871
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       0{col 37}       0{col 47}       1{col 57}       1{col 67}       1
+
+{txt}{hline}
+{res}pres{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}94{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}43{col 51}{txt}missing .:  {res}9{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 35.5757
+{txt}{col 15}std. dev:{res}{col 26} 32.0367
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}      10{col 37}      15{col 47}      21{col 57}      37{col 67}      93
+
+{txt}{hline}
+{res}left{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}10{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}10{col 51}{txt}missing .:  {res}428{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 3.98501
+{txt}{col 15}std. dev:{res}{col 26} 2.91354
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       1{col 37}       2{col 47}       3{col 57}     5.5{col 67}       9
+
+{txt}{hline}
+{res}state{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}54{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}53{col 51}{txt}missing .:  {res}873{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 26.4204
+{txt}{col 15}std. dev:{res}{col 26} 14.9268
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       5{col 37}      13{col 47}      29{col 57}      38{col 67}      46
+
+{txt}{hline}
+{res}city{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}105{txt},{res}6062{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}545{col 51}{txt}missing .:  {res}1,092{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 2713.95
+{txt}{col 15}std. dev:{res}{col 26} 1500.81
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}     580{col 37}    1325{col 47}    2950{col 57}    3870{col 67}    4760
+
+{txt}{hline}
+{res}appres{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}2{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}3{col 51}{txt}missing .:  {res}9{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,045{col 33}0
+{col 21}     1,802{col 33}1
+{col 21}       240{col 33}2
+{col 21}         9{col 33}.
+
+{txt}{hline}
+{res}aba{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}1{txt},{res}9{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}8{col 51}{txt}missing .:  {res}534{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       136{col 33}1
+{col 21}     1,420{col 33}2
+{col 21}     1,050{col 33}3
+{col 21}         1{col 33}4
+{col 21}        35{col 33}5
+{col 21}        44{col 33}6
+{col 21}       870{col 33}8
+{col 21}         6{col 33}9
+{col 21}       534{col 33}.
+
+{txt}{hline}
+{res}congresi{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  string ({res}str5{txt})
+
+{col 10}unique values:  {res}112{col 51}{txt}missing "":  {res}0{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"108TH"
+{col 26}"50TH"
+{col 26}"78TH"
+{col 26}"91ST"
+
+{txt}{hline}
+{res}unityi{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}3{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}4{col 51}{txt}missing .:  {res}82{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,153{col 33}0
+{col 21}     1,123{col 33}1
+{col 21}       617{col 33}2
+{col 21}       121{col 33}3
+{col 21}        82{col 33}.
+
+{txt}{hline}
+{res}hdem{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}334{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}130{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 222.878
+{txt}{col 15}std. dev:{res}{col 26} 59.1113
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}     136{col 37}     201{col 47}     238{col 57}     263{col 67}     277
+
+{txt}{hline}
+{res}hrep{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}302{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}118{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 179.093
+{txt}{col 15}std. dev:{res}{col 26} 50.9551
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}     117{col 37}     158{col 47}     180{col 57}     221{col 67}     234
+
+{txt}{hline}
+{res}sdem{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}77{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}65{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 49.3721
+{txt}{col 15}std. dev:{res}{col 26} 13.6809
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}      32{col 37}      45{col 47}      50{col 57}      58{col 67}      64
+
+{txt}{hline}
+{res}srep{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}64{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}62{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 42.6621
+{txt}{col 15}std. dev:{res}{col 26} 11.3525
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}      25{col 37}      38{col 47}      44{col 57}      51{col 67}      55
+
+{txt}{hline}
+{res}hother{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}213{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}47{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 3.02368
+{txt}{col 15}std. dev:{res}{col 26} 11.9799
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       0{col 37}       0{col 47}       0{col 57}       1{col 67}       6
+
+{txt}{hline}
+{res}sother{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}53{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}42{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 2.16528
+{txt}{col 15}std. dev:{res}{col 26} 5.17487
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}       0{col 37}       0{col 47}       0{col 57}       2{col 67}       6
+
+{txt}{hline}
+{res}x_dem{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}9{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,285{col 33}0
+{col 21}     1,802{col 33}1
+{col 21}         9{col 33}.
+
+{txt}{hline}
+{res}x_republican{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}9{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,042{col 33}0
+{col 21}     2,045{col 33}1
+{col 21}         9{col 33}.
+
+{txt}{hline}
+{res}x_instate_ba{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}305{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,161{col 33}0
+{col 21}     1,630{col 33}1
+{col 21}       305{col 33}.
+
+{txt}{hline}
+{res}x_elev{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,180{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       624{col 33}0
+{col 21}       292{col 33}1
+{col 21}     3,180{col 33}.
+
+{txt}{hline}
+{res}x_unity{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}82{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,861{col 33}0
+{col 21}     2,153{col 33}1
+{col 21}        82{col 33}.
+
+{txt}{hline}
+{res}x_aba{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}589{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,951{col 33}0
+{col 21}     1,556{col 33}1
+{col 21}       589{col 33}.
+
+{txt}{hline}
+{res}x_crossa{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}388{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,495{col 33}0
+{col 21}       213{col 33}1
+{col 21}       388{col 33}.
+
+{txt}{hline}
+{res}x_pfedjdge{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,297{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       496{col 33}0
+{col 21}       303{col 33}1
+{col 21}     3,297{col 33}.
+
+{txt}{hline}
+{res}x_pindreg1{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}2,761{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       509{col 33}0
+{col 21}       826{col 33}1
+{col 21}     2,761{col 33}.
+
+{txt}{hline}
+{res}x_plawprof{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,493{col 33}0
+{col 21}       603{col 33}1
+
+{txt}{hline}
+{res}x_pscab{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,145{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       882{col 33}0
+{col 21}        69{col 33}1
+{col 21}     3,145{col 33}.
+
+{txt}{hline}
+{res}x_pcab{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,169{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       910{col 33}0
+{col 21}        17{col 33}1
+{col 21}     3,169{col 33}.
+
+{txt}{hline}
+{res}x_pusa{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,644{col 33}0
+{col 21}       452{col 33}1
+
+{txt}{hline}
+{res}x_pssenate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,887{col 33}0
+{col 21}       209{col 33}1
+
+{txt}{hline}
+{res}x_paag{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,148{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       897{col 33}0
+{col 21}        51{col 33}1
+{col 21}     3,148{col 33}.
+
+{txt}{hline}
+{res}x_psp{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,154{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       924{col 33}0
+{col 21}        18{col 33}1
+{col 21}     3,154{col 33}.
+
+{txt}{hline}
+{res}x_pslc{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,042{col 33}0
+{col 21}     1,054{col 33}1
+
+{txt}{hline}
+{res}x_pssc{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,813{col 33}0
+{col 21}       283{col 33}1
+
+{txt}{hline}
+{res}x_pshouse{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,605{col 33}0
+{col 21}       491{col 33}1
+
+{txt}{hline}
+{res}x_psg{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,084{col 33}0
+{col 21}        12{col 33}1
+
+{txt}{hline}
+{res}x_psgo{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,072{col 33}0
+{col 21}        24{col 33}1
+
+{txt}{hline}
+{res}x_psenate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,015{col 33}0
+{col 21}        81{col 33}1
+
+{txt}{hline}
+{res}x_psatty{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,739{col 33}0
+{col 21}       357{col 33}1
+
+{txt}{hline}
+{res}x_pprivate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       264{col 33}0
+{col 21}     3,832{col 33}1
+
+{txt}{hline}
+{res}x_pmayor{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,008{col 33}0
+{col 21}        88{col 33}1
+
+{txt}{hline}
+{res}x_plocct{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,753{col 33}0
+{col 21}       343{col 33}1
+
+{txt}{hline}
+{res}x_phouse{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,935{col 33}0
+{col 21}       161{col 33}1
+
+{txt}{hline}
+{res}x_pgov{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,026{col 33}0
+{col 21}        70{col 33}1
+
+{txt}{hline}
+{res}x_pda{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,581{col 33}0
+{col 21}       515{col 33}1
+
+{txt}{hline}
+{res}x_pcc{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,038{col 33}0
+{col 21}        58{col 33}1
+
+{txt}{hline}
+{res}x_pccoun{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,921{col 33}0
+{col 21}       175{col 33}1
+
+{txt}{hline}
+{res}x_pausa{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,513{col 33}0
+{col 21}       583{col 33}1
+
+{txt}{hline}
+{res}x_pasatty{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,824{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        13{col 33}0
+{col 21}       259{col 33}1
+{col 21}     3,824{col 33}.
+
+{txt}{hline}
+{res}x_pag{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,077{col 33}0
+{col 21}        19{col 33}1
+
+{txt}{hline}
+{res}x_pada{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,626{col 33}0
+{col 21}       470{col 33}1
+
+{txt}{hline}
+{res}x_pgovt{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       677{col 33}0
+{col 21}     3,419{col 33}1
+
+{txt}{hline}
+{res}x_llm_sjd{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,933{col 33}0
+{col 21}       163{col 33}1
+
+{txt}{hline}
+{res}x_protestant{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,283{col 33}0
+{col 21}     2,215{col 33}1
+{col 21}       598{col 33}.
+
+{txt}{hline}
+{res}x_evangelical{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,193{col 33}0
+{col 21}       305{col 33}1
+{col 21}       598{col 33}.
+
+{txt}{hline}
+{res}x_mainline{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,568{col 33}0
+{col 21}     1,930{col 33}1
+{col 21}       598{col 33}.
+
+{txt}{hline}
+{res}x_noreligion{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,369{col 33}0
+{col 21}       129{col 33}1
+{col 21}       598{col 33}.
+
+{txt}{hline}
+{res}x_catholic{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,853{col 33}0
+{col 21}       645{col 33}1
+{col 21}       598{col 33}.
+
+{txt}{hline}
+{res}x_jewish{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,251{col 33}0
+{col 21}       247{col 33}1
+{col 21}       598{col 33}.
+
+{txt}{hline}
+{res}x_black{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,882{col 33}0
+{col 21}       214{col 33}1
+
+{txt}{hline}
+{res}x_nonwhite{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,702{col 33}0
+{col 21}       394{col 33}1
+
+{txt}{hline}
+{res}x_female{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,690{col 33}0
+{col 21}       406{col 33}1
+
+{txt}{hline}
+{res}x_jd_public{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}755{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,957{col 33}0
+{col 21}     1,384{col 33}1
+{col 21}       755{col 33}.
+
+{txt}{hline}
+{res}x_ba_public{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}140{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,671{col 33}0
+{col 21}     1,285{col 33}1
+{col 21}       140{col 33}.
+
+{txt}{hline}
+{res}x_b10s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,483{col 33}0
+{col 21}       613{col 33}1
+
+{txt}{hline}
+{res}x_b20s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,623{col 33}0
+{col 21}       473{col 33}1
+
+{txt}{hline}
+{res}x_b30s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,674{col 33}0
+{col 21}       422{col 33}1
+
+{txt}{hline}
+{res}x_b40s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,590{col 33}0
+{col 21}       506{col 33}1
+
+{txt}{hline}
+{res}x_b50s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,705{col 33}0
+{col 21}       391{col 33}1
+
+{txt}{hline}
+{res}x_pbank{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,049{col 33}0
+{col 21}        47{col 33}1
+
+{txt}{hline}
+{res}x_pmag{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,924{col 33}0
+{col 21}       172{col 33}1
+
+{txt}{hline}
+{res}SchoolState1{right:State}
+{txt}{hline}
+
+{col 19}type:  string ({res}str19{txt}), but longest is str18
+
+{col 10}unique values:  {res}65{col 51}{txt}missing "":  {res}46{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}"FL"
+{col 26}"MA"
+{col 26}"NC"
+{col 26}"PA"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}Public1{right:Public}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}35{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,523{col 33}0
+{col 21}     1,538{col 33}1
+{col 21}        35{col 33}.
+
+{txt}{hline}
+{res}Private1{right:Private}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}344{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,535{col 33}0
+{col 21}     2,217{col 33}1
+{col 21}       344{col 33}.
+
+{txt}{hline}
+{res}SchoolState2{right:State}
+{txt}{hline}
+
+{col 19}type:  string ({res}str19{txt})
+
+{col 10}unique values:  {res}62{col 51}{txt}missing "":  {res}847{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}"Germany"
+{col 26}"MI"
+{col 26}"NY"
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}Public2{right:Public}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}851{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,024{col 33}0
+{col 21}     1,221{col 33}1
+{col 21}       851{col 33}.
+
+{txt}{hline}
+{res}Private2{right:Private}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}1,226{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     1,221{col 33}0
+{col 21}     1,649{col 33}1
+{col 21}     1,226{col 33}.
+
+{txt}{hline}
+{res}SchoolState3{right:State}
+{txt}{hline}
+
+{col 19}type:  string ({res}str19{txt}), but longest is str13
+
+{col 10}unique values:  {res}49{col 51}{txt}missing "":  {res}3,504{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{col 16}warning:  variable has embedded blanks
+
+{txt}{hline}
+{res}Public3{right:Public}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,507{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       396{col 33}0
+{col 21}       193{col 33}1
+{col 21}     3,507{col 33}.
+
+{txt}{hline}
+{res}Private3{right:Private}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}3,598{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}       193{col 33}0
+{col 21}       305{col 33}1
+{col 21}     3,598{col 33}.
+
+{txt}{hline}
+{res}SchoolState4{right:State}
+{txt}{hline}
+
+{col 19}type:  string ({res}str19{txt}), but longest is str11
+
+{col 10}unique values:  {res}19{col 51}{txt}missing "":  {res}4,022{txt}/{res}4,096
+
+{txt}{col 15}examples:  {res}""
+{col 26}""
+{col 26}""
+{col 26}""
+
+{txt}{hline}
+{res}Public4{right:Public}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,022{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        52{col 33}0
+{col 21}        22{col 33}1
+{col 21}     4,022{col 33}.
+
+{txt}{hline}
+{res}Private4{right:Private}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,033{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}        22{col 33}0
+{col 21}        41{col 33}1
+{col 21}     4,033{col 33}.
+
+{txt}{hline}
+{res}SchoolState5{right:State}
+{txt}{hline}
+
+{col 19}type:  string ({res}str19{txt}), but longest is str3
+
+{col 10}unique values:  {res}3{col 51}{txt}missing "":  {res}4,090{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,090{col 33}""
+{col 21}         2{col 33}"DC"
+{col 21}         1{col 33}"N/A"
+{col 21}         3{col 33}"NY"
+
+{txt}{hline}
+{res}Public5{right:Public}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,090{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         4{col 33}0
+{col 21}         2{col 33}1
+{col 21}     4,090{col 33}.
+
+{txt}{hline}
+{res}Private5{right:Private}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}4,091{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         2{col 33}0
+{col 21}         3{col 33}1
+{col 21}     4,091{col 33}.
+
+{txt}{hline}
+{res}TonotInclude{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,853{col 33}0
+{col 21}       243{col 33}1
+
+{txt}{hline}
+{res}idtocorrrect{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}5{txt},{res}21260{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}57{col 51}{txt}missing .:  {res}4,039{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 8698.23
+{txt}{col 15}std. dev:{res}{col 26} 5887.24
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1230{col 37}    3705{col 47}    7950{col 57}   13570{col 67}   17200
+
+{txt}{hline}
+{res}ayear{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}1789{txt},{res}2014{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}220{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26} 1955.31
+{txt}{col 15}std. dev:{res}{col 26} 49.8447
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}    1881{col 37}    1932{col 47}    1971{col 57}    1991{col 67}    2003
+
+{txt}{hline}
+{res}x_ageon40s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,641{col 33}0
+{col 21}     1,453{col 33}1
+{col 21}         2{col 33}.
+
+{txt}{hline}
+{res}x_ageon50s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     2,215{col 33}0
+{col 21}     1,879{col 33}1
+{col 21}         2{col 33}.
+
+{txt}{hline}
+{res}x_ageon60s{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,619{col 33}0
+{col 21}       475{col 33}1
+{col 21}         2{col 33}.
+
+{txt}{hline}
+{res}x_ageon40orless{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,839{col 33}0
+{col 21}       255{col 33}1
+{col 21}         2{col 33}.
+
+{txt}{hline}
+{res}x_ageon70ormore{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}2{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,062{col 33}0
+{col 21}        32{col 33}1
+{col 21}         2{col 33}.
+
+{txt}{hline}
+{res}pres_correct2{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+
+{col 18}range:  [{res}8{txt},{res}93{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}7{col 51}{txt}missing .:  {res}4,084{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}         4{col 33}8
+{col 21}         1{col 33}14
+{col 21}         1{col 33}15
+{col 21}         2{col 33}16
+{col 21}         2{col 33}18
+{col 21}         1{col 33}20
+{col 21}         1{col 33}93
+{col 21}     4,084{col 33}.
+
+{txt}{hline}
+{res}political_party{right:Political_Party}
+{txt}{hline}
+
+{col 19}type:  string ({res}str18{txt})
+
+{col 10}unique values:  {res}7{col 51}{txt}missing "":  {res}4,016{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     4,016{col 33}""
+{col 21}         9{col 33}"(democrat)"
+{col 21}        14{col 33}"(republican)"
+{col 21}         1{col 33}"Democrat"
+{col 21}        33{col 33}"democrat"
+{col 21}         3{col 33}"implied republican"
+{col 21}        18{col 33}"republican"
+{col 21}         2{col 33}"republican "
+
+{txt}{col 16}warning:  variable has embedded and trailing blanks
+
+{txt}{hline}
+{res}_merge{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}byte{txt})
+{ralign 22:label}:  {res:_merge}
+
+{col 18}range:  [{res}1{txt},{res}3{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.   Numeric  Label
+{col 21}{res}     4,016{col 33}       1{col 43}{txt}master only (1)
+{col 21}{res}        80{col 33}       3{col 43}{txt}matched (3)
+
+{txt}{hline}
+{res}x_pago{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}float{txt})
+
+{col 18}range:  [{res}0{txt},{res}1{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 13}tabulation:  Freq.  Value
+{col 21}{res}     3,810{col 33}0
+{col 21}       286{col 33}1
+
+{txt}{hline}
+{res}startdate{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}-62187{txt},{res}19799{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}26sep1789{txt},{res}17mar2014{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}2,121{col 51}{txt}missing .:  {res}0{txt}/{res}4,096
+
+{txt}{col 19}mean:{res}{col 26}-1523.83{txt} = {res}30oct1955{txt} (+ -20 hours)
+{col 15}std. dev:{res}{col 26} 18228.5
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}  -28500{col 37}  -10207{col 47}    4130{col 57}   11631{col 67}   15970
+{col 26}20dec1881{col 36}21jan1932{col 46}23apr1971{col 56}05nov1991{col 66}22sep2003
+
+{com}. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/data/Dropbox/Ash_Chen_Naidu/data/judgebios/codebook.txt
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}12 Jan 2018, 19:16:42
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

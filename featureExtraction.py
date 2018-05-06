@@ -12,18 +12,13 @@ from sklearn.metrics import f1_score
 
 
 ## const
-PKL_PATH = "deonPapers.pkl"
-PKL_PATH1 = "deonPapers.pkl"
+PKL_PATH = "consPapersNew.pkl"
+PKL_PATH1 = "deonPapersNew.pkl"
 LEMMA_FILTER = ['NOUN', 'PROPN', 'VERB', 'ADJ', 'NUM'] # keep 'NUM' as the last, function lemma_dep_list() refers to this
 nlp = spacy.load("en")
 
 
-
 def loadDataset(pklPath=PKL_PATH):
-    with open(pklPath, "rb") as pklFile:
-        return np.array(pickle.load(pklFile, encoding="utf-8"))
-
-def loadDataset1(pklPath=PKL_PATH1):
     with open(pklPath, "rb") as pklFile:
         return np.array(pickle.load(pklFile, encoding="utf-8"))
 
@@ -94,10 +89,26 @@ def addVector(feature_name, dataset):
             item['vector'][feature_to_id[feature]] = item['feature'][feature]
     return dataset
 
+def splitData(startString, dataSet, divisions=100):
+    newString = startString
+    for i in dataSet:
+        newString= newString + str(i)
+    #return newString
+    newList = []
+    div = len(newString)//100
+    temp = ""
+    for j in range(len(newString)):
+        temp = temp + newString[j]
+        if j%div == 0:
+            newList.append(temp)
+            temp = ""
+    newList.append(temp)
+    return newList
 
 ## main
-c_data_set = loadDataset()
-d_data_set = loadDataset1()
+
+c_data_set = splitData("", loadDataset("consPapersNew.pkl"))
+d_data_set= splitData("", loadDataset("deonPapersNew.pkl"))
 
 #print(len(data_set))       %priniting to check the data type
 #train_set, dev_set = divideDataSet(data_set)           % we are not splitting it

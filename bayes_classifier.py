@@ -38,9 +38,21 @@ def splitData(startString, dataSet, divisions=100):
     newList.append(temp)
     return newList
 
-c_data = splitData("", loadDataset("consPapersNew.pkl")) + splitData("", loadDataset("JSTORconsPapers.pkl"))
-d_data = splitData("", loadDataset("deonPapersNew.pkl")) + splitData("", loadDataset("JSTORdeonPapers.pkl"))
+c_data = splitData("", loadDataset("consPapersNew.pkl"))
+d_data = splitData("", loadDataset("deonPapersNew.pkl"))
 final_data_set = c_data  + d_data
+
+J_cons = splitData("", loadDataset("JSTORconsPapers.pkl"))
+J_deon = splitData("", loadDataset("JSTORdeonPapers.pkl"))
+JSTOR_X=  J_cons + J_deon
+JSTOR_y = []
+for i in J_cons:
+    JSTOR_y.append('cons')
+for i in J_deon:
+    JSTOR_y.append('deon')
+
+vecX = loadDataset("vecX.pkl")
+classY = loadDataset("classY.pkl")
 
 
 #implementing n-gram
@@ -52,7 +64,7 @@ analyze = bigram_vectorizer.build_analyzer()
 
 X = bigram_vectorizer.fit_transform(final_data_set).toarray()
 n_grams = bigram_vectorizer.get_feature_names()
-tfidf = TfidfVectorizer(ngram_range=(1,3))
+tfidf = TfidfVectorizer(stop_words ='english' , max_df=.5, ngram_range=(1,5))
 X = tfidf.fit_transform(final_data_set).toarray()
 
 y = []
@@ -66,7 +78,6 @@ for i in d_data:
 X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 99)
 clf = MultinomialNB().fit(X_train, y_train)
 predicted = clf.predict(X_test)
-
 #visualizing coefficients
 coef = clf.coef_[0].tolist()
 print(len(coef))
@@ -80,6 +91,7 @@ for i in range(top):
 for i in predictors:
     print (i ,"\n")
 
+
 #check accuracy of NB
 
 n = 0
@@ -91,10 +103,42 @@ for i, j in zip(y_test, predicted):
         correct = correct + 1
 
 print(correct*100/n)
+'''
+#test NB on JSTOR
+n = 0
+correct = 0
+JSTOR_X = tfidf.fit_transform(JSTOR_X).toarray()
+predicted = clf.predict(JSTOR_X)
+for i, j in zip(JSTOR_y, predicted):
+    print('%r => %s' % (i, j))
+    n = n + 1
+    if i == j:
+        correct = correct + 1
+
+print(correct*100/n)
+'''
+
+
+
 
 #SVM
 print("SVM with Vector Featues")
 clf = sklearn.svm.LinearSVC().fit(X_train, y_train)
+
+'''
+
+n = 0
+correct = 0
+predicted = clf.predict(JSTOR_X)
+for i, j in zip(JSTOR_y, predicted):
+    print('%r => %s' % (i, j))
+    n = n + 1
+    if i == j:
+        correct = correct + 1
+
+print(correct*100/n)
+'''
+
 predicted = clf.predict(X_test)
 n = 0
 correct = 0
@@ -104,4 +148,26 @@ for i, j in zip(y_test, predicted):
     if i == j:
         correct = correct + 1
 print(correct*100/n)
-'''
+
+coef = clf.coef_[0].tolist()
+print(len(coef))
+top = 100
+predictors = []
+print(len(n_grams))
+print(len(coef))
+for i in range(top):
+    val = min(coef)
+    index = coef.index(val)
+    predictors.append([n_grams[index], val])
+    n_grams.pop(index)
+    coef.pop(index)
+for i in range(top):
+    val = max(coef)
+    index = coef.index(val)
+    predictors.append([n_grams[index], val])
+    n_grams.pop(index)
+    coef.pop(index)
+
+for i in predictors:
+    print (i ,"\n")
+
