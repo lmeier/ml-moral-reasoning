@@ -118,27 +118,23 @@ for i, j in zip(JSTOR_y, predicted):
 print(correct*100/n)
 '''
 
+#implementing n-gram
+bigram_vectorizer = CountVectorizer(ngram_range=(1, 3),token_pattern=r'\b\w+\b', min_df=1)
+analyze = bigram_vectorizer.build_analyzer()
+#print(analyze(c_data_set[0]))
+#print(analyze(final_data_set))
 
+
+X = bigram_vectorizer.fit_transform(final_data_set).toarray()
+n_grams = bigram_vectorizer.get_feature_names()
+tfidf = TfidfVectorizer(stop_words ='english' , max_df=.5, ngram_range=(1,5))
+X = tfidf.fit_transform(final_data_set).toarray()
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 99)
 
 
 #SVM
 print("SVM with Vector Featues")
 clf = sklearn.svm.LinearSVC().fit(X_train, y_train)
-
-'''
-
-n = 0
-correct = 0
-predicted = clf.predict(JSTOR_X)
-for i, j in zip(JSTOR_y, predicted):
-    print('%r => %s' % (i, j))
-    n = n + 1
-    if i == j:
-        correct = correct + 1
-
-print(correct*100/n)
-'''
-
 predicted = clf.predict(X_test)
 n = 0
 correct = 0
@@ -151,7 +147,7 @@ print(correct*100/n)
 
 coef = clf.coef_[0].tolist()
 print(len(coef))
-top = 100
+top = 50
 predictors = []
 print(len(n_grams))
 print(len(coef))
@@ -171,3 +167,17 @@ for i in range(top):
 for i in predictors:
     print (i ,"\n")
 
+
+'''
+
+n = 0
+correct = 0
+predicted = clf.predict(JSTOR_X)
+for i, j in zip(JSTOR_y, predicted):
+    print('%r => %s' % (i, j))
+    n = n + 1
+    if i == j:
+        correct = correct + 1
+
+print(correct*100/n)
+'''

@@ -3,6 +3,7 @@ import collections
 import numpy as np
 import pandas as pd
 import spacy
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import StratifiedShuffleSplit
 from sklearn.linear_model import LogisticRegression
@@ -14,6 +15,8 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from time import time
+from wordcloud import WordCloud
+
 
 
 """"
@@ -59,7 +62,9 @@ class LemmaTokenizer(object):
         return [self.wnl.lemmatize(t) for t in word_tokenize(doc)]
 
 
-stop_words = ['xe2', 'xe', 'fetus', 'sv', 'ac', 'sydney', 'x80', 'user', 'abortion', 'xxxviii', 'kagan', 'parfit', 'oxford', 'new york university', 'midwest', '``', '[', '\'\'', '\\\\xe2', '&', 'user\\\\non', '0812', '2018', ']', '\\\\xe2\\\\x80\\\\x94', 'york', r'user\\\\non', 'user\\non', r'user\\non', r'\\xe2\\x80\\x94', r'\\\\xe2\\\\x80\\\\x94', 'id',]
+stop_words = ['xe2', 'xe', 'fetus', 'sv', 'ac', 'sydney', 'x80', 'user', 'abortion', 'xxxviii', 'kagan', 'parfit', 'oxford', 'new york university', 'midwest', '``', '[', '\'\'', '\\\\xe2', '&', 'user\\\\non', '0812', '2018', ']', '\\\\xe2\\\\x80\\\\x94', 'york', r'user\\\\non', 'user\\non', r'user\\non', r'\\xe2\\x80\\x94', r'\\\\xe2\\\\x80\\\\x94', 'id',
+    '\\xe2\\x80\\x94', 'by new university', 'new university march', 'university march', '( ).',
+    'donaldson', '<', ': )', 'jones', 'nora', 'university', 'march'  ]
 for i in range(0, 3000):
     stop_words.append(str(i))
 
@@ -86,15 +91,54 @@ def getClassifierAndVectorizer():
     clf = sklearn.svm.LinearSVC().fit(X, y)
     return clf, vectorizer
 
-"""
-print("Extracting features from the test data using the same vectorizer")
-t0 = time()
-X_test = vectorizer.transform(data_test.data)
-duration = time() - t0
-feature_names = vectorizer.get_feature_names()
-feature_names = np.asarray(feature_names)
+
+def main():
+    clf, vectorizer = getClassifierAndVectorizer()
+    coef = clf.coef_[0].tolist()
+    print(len(coef))
+    top = 50
+    predictors = []
+    deon_dic = dict()
+    cons_dic = dict()
+    n_grams = training_n_grams
+    print(len(n_grams))
+    print(len(coef))
+    for i in range(top):
+        val = min(coef)
+        index = coef.index(val)
+        predictors.append([n_grams[index], val])
+        cons_dic[n_grams[index]] = abs(val)
+        n_grams.pop(index)
+        coef.pop(index)
+    for i in range(top):
+        val = max(coef)
+        index = coef.index(val)
+        predictors.append([n_grams[index], val])
+        deon_dic[n_grams[index]] = abs(val)
+        n_grams.pop(index)
+        coef.pop(index)
+
+    for i in predictors:
+        print (i ,"\n")
+
+    print(cons_dic)
+    print(deon_dic)
+    wordcloud = WordCloud(background_color="white", height=400, width=800).fit_words(cons_dic)
+    plt.figure(figsize=(6, 3), dpi=1000)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.savefig('cons_cloud.png', dpi=1000)
+    '''
+    wordcloud = WordCloud(background_color="white", height=400, width=800).fit_words(deon_dic)
+    plt.figure(figsize=(6, 3), dpi=1000)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.savefig('deon_cloud.png', dpi=1000)
+    '''
 
 
-    return clf, n_grams, fullX, position_of_new_X
-"""
+
+
+if __name__ == '__main__':
+    main()
 
