@@ -1,0 +1,1317 @@
+While green innovation has a positive impact on firms’ performance, some established firms that initiate green innovation activities (referring to diversifying green entrants) could suffer from insufficient new green knowledge and skills. Since adopting a sustainability orientation helps firms commit to the creation of superior sustainable practices, and efficiently invest resources necessary to develop appropriate new green products, leading to superior green innovation performance, sustainability orientation offers an alternative approach for diversifying green entrants to achieve green innovation success. Building on resource-based, knowledge-based, and capabilities theories, this study aims to identify key factors that enable sustainability orientation of diversifying green entrants and enhance its effect on green innovation performance. As sustainability issues frequently occur upstream at the supplier level, and since supplier involvement effectively determines new product success, this study theorizes that diversifying green entrants that adopt sustainability orientation require two types of green supplier involvement (as a knowledge source and a co-creator) to enhance the effect of sustainability orientation on green innovation performance. Green knowledge-processing capability and green R&D capability complement green supplier involvement as a knowledge source and green supplier involvement as a co-creator, respectively, to further enhance the amount of green innovation performance. Based on a longitudinal dataset of 336 diversifying green entrants, the results support all our hypotheses. Interestingly, an additional analysis suggests that when diversifying green entrants implement green supplier involvement as a co-creator, they achieve greater green innovation performance than those who implement green supplier involvement as a knowledge source. These findings provide important theoretical implications and practical guidance for established firms to pursue green innovation.
+
+Keywords
+Sustainability orientation Green supplier involvement Green innovation 
+Access to this content is enabled by NEW YORK UNIVERSITY LIBRARIES
+Introduction
+Innovation has been an essential part of any organization’s ability to sustain its competitive advantage in a business environment (Damanpour 1991). Although the ability to innovate remains critical, the approach to innovation is evolving. This is especially true in green innovation activities (Shu et al. 2016).
+
+Successful green innovation helps firms achieve greater efficiency and create their core competencies (Chen et al. 2006; Chen 2008; Shu et al. 2016). However, diversifying green entrants, referring to established firms that enter a green innovation field new to them1 (Ganco and Agarwal 2009), may face several challenges when initially undertaking green innovation activities. For example, as diversifying green entrants are established firms in other industries, that are entering a green industry unknown to them, they are very likely to suffer from new green knowledge and skills gaps (Moeen and Agarwal 2017), thus restricting their green innovation activities (Chen 2008). Due to this, a growing amount of research has focused on understanding how established firms can improve green innovation performance (e.g., Chang et al. 2012). Recent research indicates that the adoption of sustainability orientation can be a critical factor for established firms to explain differences in innovation performance (e.g., Claudy et al. 2016).
+
+Roxas and Coetzer (2012) define sustainability orientation “as the overall proactive strategic stance of firms towards the integration of environmental [and social] concerns and practices into their strategic, tactical and operational activities” (p. 464). Sustainability orientation consists of deeply rooted values and beliefs that provide behavioral norms that shape a firm’s sustainability activities (Calic and Mosakowski 2016; Varadarajan 2017). Firms with a high sustainability orientation enable their new product development employees to increase efficiencies regarding new product attributes, new product design, or manufacturing processes (Adams et al. 2016). Research further indicates that sustainability orientation can function as an important driver of product innovation (Claudy et al. 2016; Fraj-Andrés et al. 2009). This new perspective has motivated firms to integrate a sustainability orientation into their business operations, such as new product development, supply chain management, and tourism (Adams et al. 2016). As such, adopting a sustainability orientation may help diversifying green entrants commit to the creation of superior sustainable practices, and efficiently acquire the resources necessary to develop appropriate new green products, leading to superior green innovation performance. While prior studies have investigated resources and capabilities underlying sustainability-oriented innovation (e.g., Dangelico et al. 2013), knowledge as to how sustainability orientation of diversifying green entrants enhances green innovation performance is scarce.
+
+Building on the resource-based view (RBV) (Barney 1991), the knowledge-based view (KBV) (Grant 1996), and capability theory (Eisenhardt and Martin 2000; Teece et al. 1997), we aim to explore this question. First, building on RBV, we propose that green innovation performance is an outcome of sustainability orientation possessed by diversifying green entrants because strategic orientation is presumed to result in superior innovation outcomes (Gatignon and Xuereb 1997).
+
+Second, studies on sustainability indicate that the potential impact of sustainability on innovation development could not be uniform across all firms, but contingent on a firm’s ability to access external knowledge (Du et al. 2016; Dangelico et al. 2013; Gimenez and Tachizawa 2012). Especially, because sustainability issues frequently occur upstream at the supplier level (Wilhelm et al. 2016), and because supplier involvement effectively determines new product success (Yeniyurt et al. 2014), firms that adopt sustainability orientation cannot develop their innovations in isolation but, rather, are required to embrace suppliers’ critical knowledge (Claudy et al. 2016; Gimenez and Tachizawa 2012; Ehrgott et al. 2011). In particular, the utilization of supplier involvement constitutes a powerful means of understanding sustainability issues, enabling firms to effectively access and acquire external sustainability knowledge (Li et al. 2017). The KBV highlights the central role of knowledge in the creation of innovation opportunities that represent new potential sources of revenue (Denrell et al. 2003). Many recent studies indicate that supplier involvement in the innovation development process can be an important source of such opportunities (e.g., Jean et al. 2014; Oke et al. 2013). Regardless of this logic, we propose that sustainability orientation of diversifying green entrants alone is not sufficient. Its efficacy for generating green innovation performance depends on the presence of green supplier involvement, a key factor that enables diversifying green entrants to enhance the benefits of sustainability orientation.
+
+Furthermore, prior studies have identified several roles of suppliers in innovation development, such as knowledge source, co-creator, co-producer, user, and buyer. Of these, the first two are more significant in innovation development because they reflect the input side of innovation activities (e.g., Laursen and Andersen 2016; Menguc et al. 2014; Jean et al. 2014; Yeniyurt et al. 2014). Drawing on this literature and building on KBV, we distinguish two types of green supplier involvement: (1) green supplier involvement as a knowledge source; and (2) green supplier involvement as a co-creator. We, therefore, propose that diversifying green entrants with a high sustainability orientation should involve green suppliers (as knowledge sources or as co-creators) in their green innovation development, which enables them to access and absorb new knowledge from green suppliers during the green innovation development process (Jean et al. 2014; Ponomariov and Toivanen 2014), thus enhancing their green innovation performance.
+
+Third, according to capability theory (Eisenhardt and Martin 2000; Teece et al. 1997), performance hinges on appropriate bundles of resources and capabilities. Helfat and Winter (2011) further indicate that firm capabilities enable the conversion of external knowledge-based resources into superior innovation outcomes. Previous empirical studies also demonstrate that while supplier involvement is a mechanism for firms to integrate external knowledge from suppliers into their innovation process, whether and how well knowledge from suppliers is utilized depends on the firms’ capabilities that leverage knowledge from suppliers and transform it into innovation (Menguc et al. 2014; Laursen and Andersen 2016). Most importantly, the ability of firms to leverage external knowledge from different stakeholders’ involvement in innovation lies in their differently enabled capabilities (Saldanha et al. 2017; Lawson et al. 2015; Menguc et al. 2014). For example, Menguc et al. (2014) view supplier involvement as a management intervention that is complemented by two innovation-enabled capabilities (incremental and radical) to influence the outcomes of firm innovation. Against this background, we also view green supplier involvement as a management intervention, and propose that diversifying green entrants that seek to leverage knowledge from green supplier involvement in the green innovation development process lies in their two types of specific green innovation-enabled capabilities. The first is knowledge-processing capability that enables diversifying green entrants to acquire, disseminate, and utilize green knowledge obtained from green supplier involvement as a knowledge source (Jantunen 2005). The second is green R&D capability that enables diversifying green entrants to unfold the tacit and green-related technical skills embedded in green supplier involvement as a co-creator (Yam et al. 2011). This proposal is also consistent with those in the theory of complementarities, which suggest that the role of knowledge-processing or R&D activities in innovation should be complemented by organizational processes, such as involving suppliers in new product development (Parmigiani and Mitchell 2009).
+
+Figure 1 presents the conceptual model. We test our model based on a longitudinal dataset of 336 diversifying green entrants.
+
+Open image in new window
+Fig. 1
+The research framework
+
+Overall, our findings advance the sustainability literature beyond the supplier involvement discussions and offer several key contributions. First, despite increased research on sustainability-oriented activities, such as sustainability-oriented innovation (e.g., Adams et al. 2016; Klewitz and Hansen 2014), prior research has rarely examined the relationship between sustainability orientation and green innovation outcomes. Unlike some other links, this link has received very limited attention in the sustainability literature, and has never been empirically tested. Drawing on the RBV, this study seeks to complement the extant sustainability literature by investigating whether diversifying green entrants’ sustainability orientation influences their green innovation performance. As such, this study strengthens the business case of sustainability by providing novel insights into how some established firms (diversifying green entrants) could pursue a sustainability orientation approach to overcome difficulties generated by insufficient new green knowledge and skills when they initiate green innovation activities. Therefore, this study extends the RBV by recognizing sustainability orientation as a unique resource in a way that helps diversifying green entrants create a competitive advantage of green innovation.
+
+Second, unlike most existing studies on supplier involvement, this study, building on the KBV, takes a finer-grained approach and differentiates between two types of green supplier involvement, one that focuses on a knowledge source and the other that focuses on a co-creator. These two types of green supplier involvement play important roles in the green innovation development process by moderating the link between sustainability orientation and green innovation performance in different ways. This study extends this stream of literature by helping clarify why and how established firms (diversifying green entrants) should involve their green suppliers in their green innovation development.
+
+Third, we ground our study in capability theory suggesting that, although green suppliers are sources of knowledge and co-creators for green innovation development, whether and how well knowledge from green suppliers is leveraged for green innovation depends on diversifying green entrants using two specific green innovation-enabled capabilities (green knowledge-processing and green R&D capabilities). Therefore, this study contributes to capability theory and practice by shedding light on important complements between green supplier involvement and green innovation-enabled capabilities. Most importantly, this study extends the KBV and capability theory to a contingency lens by introducing green supplier involvement and green innovation-enabled capabilities as moderators to draw the boundary conditions of the effect of sustainability orientation on green innovation performance.
+
+Finally, this study seeks to bridge three literature streams, one on sustainability, one on supplier involvement, and another on firm capabilities, by investigating the synergistic effects of these three topics in the field of diversifying green entrants engaging in green innovation. To our knowledge, this study is among the first to examine, in conjunction, the roles of sustainability orientation, green supplier involvement, and green innovation-enabled capabilities for green innovation performance. As such, this study advances the current understanding of sustainability orientation, green supplier involvement, and firm capabilities in the context of green innovation by highlighting the interplay among these three topics in the case of diversifying green entrants.
+
+Theoretical Background
+Sustainability Orientation
+RBV (Barney 1991) provides the theoretical foundation for this study regarding the effect of diversifying green entrants’ sustainability orientation on green innovation performance. The RBV argues that firms deploy their physical, human, and organizational resources to gain an advantage in the marketplace (Barney 1991). If these resources are valuable to customers, rare, and difficult to imitate, then they give rise to sustainable competitive advantage, enhancing innovation performance (Gatignon and Xuereb 1997). Thus, the basic premise is that resources increase the efficiency and effectiveness of firms in general, and the development of new green products in particular (Dangelico and Pujari 2010).
+
+One of the components of a firm’s intangible resources that have been identified as most relevant to facilitating innovation outcomes is strategic orientation (Gatignon and Xuereb 1997). This is because strategic orientation is deeply ingrained into the everyday routines of an organization and, thus, is problematic for competitors to copy (Hakala 2011). This study adopts a view in line with that of Gatignon and Xuereb (1997), in which strategic orientation refers to “principles that direct and influence the activities of a firm and generate the behaviors intended to ensure the viability and performance of the firm” (Hakala 2011, p. 200). It reflects how aggressively a firm explores and develops distinct competencies to achieve superior performance.
+
+Recognizing the growing importance of sustainability for strategic planning, sustainability scholars have advocated for terms such as stakeholder orientation (Berman et al. 1999) or environmental sustainability orientation (Roxas and Coetzer 2012), to supplement the understanding of strategic orientation. Especially in the fast-changing business environment, the resource of strategic orientation management enables diversifying entrants to implement plans creatively by diligently scanning the environment and responding to market challenges and new opportunities in novel ways (Ganco and Agarwal 2009). Therefore, building on previous research (Adams et al. 2016; Roxas and Coetzer 2012), we use the term sustainability orientation to describe the organizational culture, principles, and behaviors that induce diversifying green entrants’ willingness to act on a variety of sustainability-related issues into their operations.
+
+Recently, sustainability researchers have demonstrated that a firm’s sustainability orientation is deeply rooted in values and beliefs that provide behavioral norms that trigger or shape its sustainability activities and, thus, enhance employee behaviors in new product development activities (Claudy et al. 2016; Varadarjan 2017). As with other strategic orientations (e.g., market, learning, or entrepreneurial orientations), firms possessing a high sustainability orientation can recognize sustainability-oriented innovation opportunities and create the processes needed to take advantage of these opportunities (Adams et al. 2016). Therefore, green innovation performance is an outcome of sustainability orientation possessed by diversifying green entrants.
+
+Green Supplier Involvement
+Strategy researchers concur that successful management of innovation projects is related to the fit between firm-specific resources and the context of the environment (e.g., Amit and Schoemaker 1993; Grant 1996; Adner and Helfat 2003; Harmancioglu et al. 2009). Donaldson (2001) further notes that no theory or method can be applied in all cases. Prior research on green innovation also indicates that green innovation success increasingly depends on firms’ ability to create ecological and social value for stakeholders (Chen 2008). Similarly, being intent on incorporating social issues into their strategy, diversifying green entrants with a high sustainability orientation will put greater emphasis on understanding multi-faceted needs of their stakeholders (Calic and Mosakowski 2016). In today’s socially conscious environment, suppliers are likely to consider social and environmental factors, of which supplier involvement is one of the most influential (Trapp and Sarkis 2016), in firms’ innovation processes.
+
+Supplier involvement, the extent to which a supplier is involved in new product development processes with its clients/buyers (Yeniyurt et al. 2014), has been found to have a positive effect across a range of different performance outcomes, including access to supplier technology or enhanced knowledge (Menguc et al. 2014; Un et al. 2010). Since the utilization of supplier involvement enables a firm to directly access external complementary and heterogeneous knowledge (Laursen and Andersen 2016), we propose that green supplier involvement provides an important route for diversifying green entrants to mitigate some of their knowledge and technical skills deficiencies. In this study, green supplier involvement refers to the extent to which a green supplier is involved in the new product development process with its buyers.
+
+Green supplier involvement can be viewed as a management intervention (Yeniyurt et al. 2014) employed by diversifying green entrants to address their green knowledge deficiencies. Previous research has noted that established firms tend to have a narrow new search scope because they typically focus on existing networks (Chang et al. 2012) and, therefore, rely upon their immediate personal networks, such as suppliers (Zhang and Li 2010). In addition, sustainability research indicates that integrating environmental concerns into new product development can lead to superior competitive advantage in green markets (Gemlin and Seuring 2014). Co-creation research also notes that supplier involvement constitutes a firm’s important new product development element, and has been identified as a critical factor that can contribute to new product success (Yeniyurt et al. 2014). For the above reasons, diversifying green entrants with a high sustainability orientation will be very likely to rely on green supplier involvement when they initiate green innovation activities.
+
+As discussed earlier, prior studies have identified two of the most important roles of suppliers in innovation development. First, suppliers are involved in new product development as knowledge sources, so that their knowledge can be used in the project (e.g., Isaksson et al. 2016; Smals and Smits 2012; Yeniyurt et al. 2014). Second, suppliers are involved as co-creators in the new product development process, so that the focal firms can take advantage of suppliers’ R&D-related competencies and skills (e.g., Beers and Zand 2014; Menguc et al. 2014; Un et al. 2010). Building on this literature, this study identifies green supplier involvement as: (1) a knowledge source, where employees of new green product development gather new knowledge from green suppliers and apply such knowledge to generate new green innovative ideas; (2) a co-creator, where green suppliers, together with firms’ green product development employees, create new green products.
+
+Green Innovation-Enabled Capabilities
+As mentioned previously, capability researchers emphasize that performance hinges on appropriate bundles of resources and capabilities (Eisenhardt and Martin 2000; Teece et al. 1997). Specifically, firm capabilities enable the conversion of external knowledge-based resources into superior innovation outcomes (Helfat and Winter 2011). Saldanha et al. (2017) and Lawson et al. (2015) further indicate that the ability of firms to transform external knowledge from different stakeholders’ involvement in innovation lies in their differential capabilities. This literature implies that unique contexts and firm-specific factors play important roles in determination of the innovation outcomes of the firm. Within specific contexts, considerable studies have reported that firms’ external knowledge resources and firms’ specific capabilities act as moderators, strengthening the basic relationship of firms’ strategic orientations and external participant involvement, respectively. For instance, Yeniyurt et al. (2014) indicate that technological capability positively moderates the effectiveness of supplier involvement in the North American automotive industry. Saldanha et al. (2017) find that IT-enabled capabilities, relational, and analytical information processing capabilities, are crucial capabilities to leverage information from customer involvement in the process of new product development programs. Menguc et al. (2014) introduce product innovation capability (incremental and radical) as a moderator to draw the boundary conditions of the impact of customer/supplier involvement in design on new product performance.
+
+Against this background, because green supplier involvement (as a knowledge source and as a co-creator) can theoretically be regarded as a management intervention, we propose that the differential ability of diversifying green entrants to transform knowledge from green supplier involvement into green innovation lies in their two specific green innovation-enabled capabilities: (1) green knowledge-processing capability; and (2) green R&D capability. Therefore, green supplier involvement as a knowledge source and green supplier involvement as a co-creator are complemented by green knowledge-processing capability and green R&D capability, respectively, enabling diversifying green entrants to enhance their amount of green innovation. We discuss each of our hypotheses in detail below.
+
+Hypotheses Development
+Sustainability Orientation and Green Innovation Performance
+Extended from the RBV, the natural resource-based view (Hart 1995) suggests that integrating environmental constraints into organizational processes will incentivize firms to acquire valuable, rare, and inimitable new resources, which constitute the basis for long-term competitive advantage. As sustainability orientation is pro-actively addressing social and environmental challenges (Adams et al. 2016), it requires a firm to adopt a systems-thinking mindset and to enhance employee learning, all of which will enhance the firm’s operational programs, such as new product development (Claudy et al. 2016). Thus, firms with a high sustainability orientation are more likely to have sustainability-minded employees who look for better ways to integrate social and environmental considerations and who are willing to strive for continuous innovation.
+
+Strategic orientation literature shows that market, learning, or entrepreneurial orientations stimulate organizational learning, motivating the firm to continuously search for novel ways to identify, analyze, and meet customer needs, thus leading to more new product innovations (Hakala 2011). Similar to these orientations, firms with a high sustainability orientation will also promote organizational learning, by inducing their members to become more aware of and to effectively integrate not only economic, but also societal and environmental needs into the new product development process, and, thus, enhance innovation performance (Adams et al. 2016; Claudy et al. 2016). For example, an empirical study conducted by Nidumolu et al. (2009), on sustainability initiatives of 30 firms, finds that sustainability triggers numerous organizational and technological innovations.
+
+In the context of green innovation, diversifying green entrants with a high sustainability orientation would enable their employees to continue learning, improving their knowledge and skills to develop novel solutions to new green product attributes (e.g., toxic materials), new green product design (e.g., design for reuse), or new green manufacturing processes (e.g., energy savings) (Adams et al. 2016). Eradicating such inefficiencies is likely to improve new green product development profit margins and increase the return on green-innovation investment (Chen 2008; Shu et al. 2016). This should result in diversifying green entrants with a high sustainability orientation, thus helping them achieve better green innovation performance. Therefore,
+
+H1
+Diversifying green entrants with a high sustainability orientation are more likely to have greater green innovation performance.
+
+Sustainability Orientation, Green Supplier Involvement, and Green Innovation Performance
+Although diversifying green entrants with a high sustainability orientation could generate superior green innovation performance, the effects of sustainability orientation are not homogeneous. Rather, they depend upon a firm’s ability to understand stakeholders’ needs, and to access and convert their knowledge into innovation (Dangelico et al. 2013; Gimenez and Tachizawa 2012).
+
+Specifically, due to their organizational inclination to incorporate social and environmental issues into their strategy, firms with a high sustainability orientation will put greater emphasis on understanding the multi-faceted needs of their current and prospective stakeholders (Du et al. 2016). Such organizational inclination to understand stakeholders’ multi-faceted needs represents a strong motivation to develop unique new products that fulfill their needs (Claudy et al. 2016). As using supplier involvement provides direct access to external stakeholders, firms can enhance their complementary or heterogeneous knowledge, regarding the needs of their stakeholders, which helps them develop new products (Isaksson et al. 2016; Yeniyurt et al. 2014). As such, having the same level of sustainability orientation, diversifying green entrants with a higher level of green supplier involvement should be able to create greater new green product performance.
+
+In terms of external knowledge, the new product development process has been considered a process of knowledge management (Joshi and Campbell 2003), and the KBV has been used to examine knowledge management processes in organizations (Grant 1996); thus, we use the KBV as a theoretical foundation to understand the interaction effect of sustainability orientation and green supplier involvement on green innovation performance.
+
+Basically, the KBV conceptualizes firms as institutions for developing and integrating knowledge (Eisenhardt and Santos 2002). Knowledge develops within firms from experiential learning, and transfers within and across firms, allowing for value creation (Moeen and Agarwal 2017). Therefore, using green supplier involvement as a knowledge source should enable diversifying green entrants with a high sustainability orientation, to generate greater green innovation performance. In addition, using supplier involvement as a knowledge source helps firms connect with external sources of new product development inputs (Yeniyurt et al. 2014). In this regard, using green supplier involvement as a knowledge source offers diversifying green entrants with a high sustainability orientation a broader array of external and novel environmental sustainability knowledge inputs, which enable diversifying green entrants to generate greater green innovation performance.
+
+Similarly, using green supplier involvement as a co-creator can help the diversifying green entrants with a high sustainability orientation facilitate evaluation of the sustainability-related knowledge from green suppliers (Menguc et al. 2014), and also help the diversifying green entrants identify and select viable green knowledge to create new green products (Un et al. 2010). Further, using green supplier involvement as a co-creator helps the diversifying green entrants expand their existing technologies, embrace many novel technologies, and, in turn, improve green R&D function (Chen et al. 2010). As a result, this should drive down R&D costs, increase R&D efficiency and, thus, generate better new green product development outcomes, leading to greater green innovation performance. Therefore,
+
+H2a
+Green supplier involvement as a knowledge source moderates the effect of sustainability orientation on green innovation performance, such that in the presence of a high level of green supplier involvement as a knowledge source, the green innovation performance gains from sustainability orientation are greater.
+
+H2b
+Green supplier involvement as a co-creator moderates the effect of sustainability orientation on green innovation performance, such that in the presence of a high level of green supplier involvement as a co-creator, the green innovation performance gains from sustainability orientation are greater.
+
+Green Supplier Involvement as a Knowledge Source and Green Knowledge-Processing Capability
+Co-creation research (Hockerts and Wüstenhagen 2010) suggests that diversifying entrants can benefit more from external expertise, such as supplier involvement, which enables these firms to address insufficient knowledge issues (Yeniyurt et al. 2014). Research in this area also indicates that supplier involvement in the innovation process can help firms fill a gap by offering much-needed technical knowledge (Menguc et al. 2014). In particular, diversifying entrants tend to possess incomplete knowledge related to environmental problems (Hockerts and Wüstenhagen 2010). Nevertheless, collaborating with suppliers can bring specific knowledge that enables diversifying entrants to gain unique insights to overcome such problems (Zhang and Li 2010). Thus, by using supplier involvement as a knowledge source, diversifying entrants have the potential to overcome environmental knowledge deficiencies. It is logical to assume that green supplier involvement as a knowledge source should help diversifying green entrants fill the environmental knowledge resource deficiency gap and, thus, increase new green product outcomes, leading to greater green innovation performance.
+
+As capability theory suggests, however, firms vary in their capabilities and their ability to convert new resources (Peteraf et al. 2013). In this line, without green knowledge-processing capability, diversifying green entrants using green supplier involvement as a knowledge source may not be able to convert these external knowledge resources into new green products. Specifically, firms with low green knowledge-processing capability may lack the ability to evaluate and process overload knowledge and, thus, be unable to develop new knowledge (Lavie 2006; Zollo and Winter 2002). On the other hand, firms with high knowledge-processing capability will be well-equipped to exploit their existing knowledge and explore external new knowledge, thus having the ability to convert the integrated knowledge into innovations (Jantunen 2005; Ponomariov and Toivanen 2014). Against this background, for diversifying green entrants with a high green knowledge-processing capability, using green supplier involvement as a knowledge source can be more beneficial, and lead to greater green innovation performance. Therefore,
+
+H3
+Green knowledge-processing capability enhances the moderating effect of green supplier involvement as a knowledge source in the sustainability orientation—green innovation performance relationship, such that when a high level of green supplier involvement as a knowledge source combines with a high green knowledge-processing capability, the positive effect of sustainability orientation on green innovation performance is increased.
+
+Green Supplier Involvement as a Co-creator and Green R&D Capability
+Since early diversifying entrants often have limited R&D budgets, they may be unable to develop new products or incorporate new technologies into existing products (Zhang and White 2016). Co-creation research suggests that firms co-developing new products with suppliers can incorporate essential technological resources from suppliers that possess superior or complementary technologies (Menguc et al. 2014). As such, green supplier involvement as a co-creator can provide diversifying green entrants with needed R&D skills, to generate new green products.
+
+However, using green supplier involvement as a co-creator may not provide the same level of benefits to all diversifying green entrants. Rather, diversifying green entrants possessing a high green R&D capability to convert such technical knowledge are better able to create new green products. On the other hand, for diversifying green entrants with a low green R&D capability, the use of green supplier involvement as a co-creator will cause difficulties in converting such knowledge into new green products (Yam et al. 2011). In addition, for these diversifying green entrants, using green supplier involvement as a co-creator could create a dependency relationship, where the green suppliers have a high green R&D capability and, thus, dominate the whole new green product development process, potentially affecting the green innovation performance (Ponomariov and Toivanen 2014). On the other hand, diversifying green entrants with a high green R&D capability could reduce their dependency on green suppliers (Hillman et al. 2009) when using green supplier involvement as a co-creator.
+
+Overall, for diversifying green entrants with a high green R&D capability, using green supplier involvement as a co-creator enables them to create new green products based on new combinations of technologies and R&D skills, while allowing them to overcome the liability of technical providers, and can thus lead to greater green innovation performance. Therefore,
+
+H4
+Green R&D capability enhances the moderating effect of green supplier involvement as a co-creator in the sustainability orientation—green innovation performance relationship, such that when a high level of green supplier involvement as a co-creator is combined with a high green R&D capability, the positive effect of sustainability orientation on green innovation performance is increased.
+
+Research Method
+Sample and Data Collection
+To test the hypotheses, we collected data from technology firms in Taiwan for the following reasons. First, compared with other industries, they have been under the most pressure to innovate and introduce new green products (Chen et al. 2010). Second, they have been characterized by greater knowledge intensity and as more willing to pursue strategic orientations (Cheng and Huizingh 2014). Finally, to maintain their competitive advantage in China, technology firms in Taiwan must continuously collaborate with their suppliers to develop new green products specific to the Chinese market, which has experienced rapid economic growth over the past decade (Shu et al. 2016).
+
+We adopted a three-phase process to collect data. In the first phase, to be included in our sample, a firm had to meet certain conditions. First, the literature on diversifying entrants indicates that diversifying entrants are generally large and old firms (e.g., Pe’er et al. 2016; Williams et al. 2017; Ganco and Agarwal 2009). In addition, scholars have noted the advantage of diversifying entrants over small and medium-sized enterprises erodes due to a lower fit between their resources and capabilities and the environment of the focal industry (Williams et al. 2017; Bayus and Agarwal 2007). Thus, we selected participants from large and established firms. Second, to minimize selection bias, we chose large firms with sales of at least $3 million (as defined by the Ministry of Economic Affairs Taiwan), and that were at least 10-years-old (incorporated before 1998). We then chose large and established firms from 2008 that had initiated green innovation activities between 2008 and 2013, because technology firms were under heavier regulatory pressures to go green in the mid-2000s (Child and Tsai 2005). Third, as most new entrant researchers employ 6-year time spans for early entrants to be realized (McDougall et al. 2003), we picked 6 years as a reasonable time span for green innovation decisions made in 2008 to yield results. Finally, based on a list of Top 5000 technology firms, compiled by a business research firm (China Credit Information Service 2013), we selected 1500 firms at random. The business research firm provided us with the telephone numbers of the top managers in the selected 1500 firms. We then contacted the selected firms by telephone to verify whether they had met these criteria, and invited them to participate in this study. Follow-up requests were conducted four times in two months. As a result, we generated a list of 851 diversifying green entrants.
+
+In the second phase, following the approach of Andersson et al. (2002), we identified at least five green suppliers in the sample of diversifying green entrants. Our objective was to identify a sufficient number of suppliers to measure green supplier involvement as a knowledge source and as a co-creator. As this information was not readily available, we contacted each diversifying green entrant several times to verify that the diversifying green entrant had five or more green suppliers. We obtained 379 diversifying green entrants.
+
+In the third phase, we recruited trained interviewers to conduct on-site surveys, during which the questionnaires were presented to the respondents. There were three separate surveys, in early 2014, early 2015, and early 2016. Specifically, the interviewers were business doctoral students. Before the survey was conducted, all of the doctoral students received extensive training in communication skills and professional attitudes, the background of the survey, the goal of this study, and the exact meaning of each question. After making an appointment with the key informant in each firm, the interviewers visited the firm to conduct the survey. They provided informants with an official letter that explained the purpose of the survey and ensured the confidentiality of their responses. They then presented the questionnaire to informants. During the process, the interviewers immediately answered any questions informants had. They collected the questionnaires and ensured each one was complete. On average, each on-site survey took 71 min (range = 62–84 min). After the data collection, the surveys were coded and entered into the computer in an appropriate form. We used the same approach in each year’s data collection.
+
+It is important to note that we collected data longitudinally, at three points in time because, according to Rindfleisch et al. (2008), three years is an appropriate compromise between enhancing causal inference by performing temporal order in the empirical design. In addition, this approach ensures that we generate valid information and high quality data in developing economies (Hoskisson et al. 2000).
+
+To reduce common method bias (Podsakoff et al. 2012), we obtained different information from different sources in each diversifying green entrant. Of these, (1) in early-2014, chief executive officers (CEOs), responsible for helping set and direct the organization’s strategic orientation (Cheng and Huizingh 2014), provided data regarding sustainability orientation; (2) in early-2015, new product development managers provided data regarding green supplier involvement as knowledge source and a co-creator, and R&D managers provided data regarding green knowledge-processing and green R&D capabilities; and (3) in early-2016, managers of manufacturing or environmental protection departments provided data regarding green innovation performance.
+
+The number of on-site surveys in early-2014 was 379. However, 32 of the original firms in early-2015 and 11 of the original firms in early-2016 could not be reached, leading to a total of 336 firms. Accordingly, we collected 336 usable matched responses, representing an overall effective response rate of 39.4% (336/851). Of the responding diversifying green entrants, 30.9% were in the electronic and information industries, 26.2% were in the new energy and new material industries, 22.9% were in the pharmaceutical and bioengineering industries, and 19.9% were in the optical and mechanical products industries. The average age of the diversifying green entrants was 17.3 years.
+
+Selection Bias
+To test whether excluding diversifying entrants and firms that went green before 2008 or after 2013 created a selection bias in our sample, we used the unpaired t-test (Winship and Mare 1992) to compare excluded firms with the means of our sample firms for firm size, firm age, and firm performance (sales growth). There were no differences in these variables between the excluded firms and our sample. In addition, we used Heckman’s (1990) two-step procedure. The results show that the rho (B = 0.13, SE = 0.08, n.s.), sigma (B = 0.04, SE = 0.03, n.s.), and Lambda/inverse mill’s ratio (B = 0.16, SE = 0.11, n.s.) were insignificant for the selection equations. The results suggest that our sample did not suffer from selection bias.
+
+Respondent Evaluation
+We included three questions at the end of the questionnaire to assess respondents’ knowledge, competence, and familiarity with the research topic, on a seven-point scale (1-very low, 7-very high). We also verified the qualifications of respondents by asking them to indicate their tenures with their firms and in their positions. The results show that the mean composite ratings for informant quality in the sample were 5.89 at early-2014, 5.94 at early-2015, and 5.92 at early-2016. On average, the respondents’ working experience in their current industries was 12.5 years. Specifically, CEOs were 13.6 years in early-2014; new product development managers were 12.1 years, and R&D managers were 13.3 in early-2015; and managers of manufacturing or environmental protection departments were 11.2 years in early-2016.
+
+The respondents from the diversifying green entrants did not differ significantly in terms of average working experience in the current industry or their positions in the firm, while they did differ in educational backgrounds. These results suggest that the respondents were experienced and knowledgeable about the topics under study, providing confidence in the quality of the data.
+
+Non-Response Bias
+To check for non-response bias, we obtained secondary data (firm size, firm age, and firm industries) from the business research firm (China Credit Information Service 2013) for 152 randomly selected, nonparticipating firms (unwillingness to participate or reluctance to disclose information). The t-test shows no significant differences (p < 0.01) in firm demographics.
+
+In addition, to assess whether the third time sampling firms (N = 336) are representative of the second time sampling firms (N = 347), we compared both samples and found no significant differences in terms of firm size (F = 0.98, p = 0.82) or firm age (F = 1.52, p = 0.61). We also compared the third sample (N = 336) with the first sample frame (N = 379), and the results indicate there were no significant differences with respect to firm size (F = 1.14, p = 0.86) or firm age (F = 0.52, p = 0.93).
+
+The Questionnaire Development
+We operationalized the key constructs using established multi-item scales, as well as our pilot field interviews. For the established items (sustainability orientation, green knowledge-processing capability, green R&D capability, and green innovation performance), we first developed an English version of the questionnaire, then used a double-translation procedure to translate it into Chinese (English-Chinese-English). This process included: (1) one academic initially translating the items into Chinese; (2) two other academics then translating the Chinese version back into English; and (3) these translations being checked by another academic to ensure conceptual equivalence (Douglas and Craig 2007). A comparison between the original items and the items translated by the other two academics demonstrated the desired consistency.
+
+For the new measures (green supplier involvement as a knowledge source and green supplier involvement as a co-creator), this study employed a qualitative approach to explore possible components of green supplier involvement as a knowledge source and as a co-creator. Following the framework proposed by Churchill (1979) and Gerbing and Anderson (1988), this study conducted a snowball sample of 23 in-depth interviews with senior managers who had experience in green supplier involvement. To capture all of the important points covered in the interviews, detailed notes were taken and the interviews were tape recorded. With some interviewees, follow-up interviews were conducted, if necessary, to clarify issues or explore them more deeply. After carefully examining the transcripts, two other academics manually and electronically (NVivio 9) converted interviewees’ open-ended responses into categories. Based on the insights from the fieldwork, this study generated an initial pool of items (six items for green supplier involvement as a knowledge source and eight items for green supplier involvement as a co-creator).
+
+In order to ensure the content and face validity of the new items, we conducted another 16 in-depth interviews with respondents whose titles were new product development managers. The managers were presented with the list of items and asked to assess the extent to which each item represented the right meaning. This process resulted in the slight modification and refinement of some of the items. As a result, the final green supplier involvement scale contains four items for green supplier involvement as a knowledge source and five items for green supplier involvement as a co-creator.
+
+Two Pilot Studies
+After developing the questionnaire, we conducted two pilot studies to test the instruments. The first pilot study included semi-structured interviews, with a convenience sample of 34 senior managers with experience in sustainability orientation, green supplier involvement, green knowledge-processing capability, green R&D capability, or new green product development process. All interviewees were asked to comment on the comprehensibility of the questions, the complexity of the questionnaire, and the relevance and usefulness of the research. Based on these comments, the revised instrument was used for the second pilot study.
+
+The second pilot study was performed to ensure the measurement was reliable (Churchill 1979). Based on another convenience sample of 75 senior managers who had the same kinds of work experience as that described in the first pilot study, the results exhibit a high degree of reliability (Cronbach’s alpha values were greater than 0.86), with all measures exceeding the recommended levels. We discuss all of the measures below.
+
+Measurement
+The measure of sustainability orientation was adapted from the 2012 Comparative Performance Assessment Study. The 10-item scale of sustainability orientation captures various aspects of a firm’s integration of sustainability criteria into general management and specifically into a new green product development context. We developed the measures of green supplier involvement as a knowledge source with four items and green supplier involvement as a co-creator with five items, based on discussions in Beers and Zand (2014), Hockerts and Wüstenhagen (2010), Menguc et al. (2014), Smals and Smits (2012), and Yeniyurt et al. (2014). The measure for green knowledge-processing capability was adapted from Jantunen (2005) with 16 items, while the measure for green R&D capability was adapted from Yam et al. (2011) with three items.
+
+Green innovation performance was assessed by subjective and objective2 measures. Specifically, the subjective measure was assessed by green product/process innovation adapted from Chen et al. (2006) with eight items. The objective measure was assessed by the share of green innovation sales, which measured the share of turnover in the last year of the survey due to new or significantly improved green products introduced in the previous three years. Data were collected by a market research firm (China Credit Information Service 2013). The variable was expressed as a percentage going from zero to 100%. This type of variable has been widely used in previous innovation studies (Berchicci 2013; Laursen and Salter 2006) because it directly measures the success of new or significantly improved green products in the market.
+
+Finally, we controlled for sources of heterogeneity in firm characteristics, including firm size, firm age, and firm industries, since there is a widespread belief of positive relationships between firm characteristics and innovation performance (Chandler and Hanks 1998; Cheng and Huizingh 2014; Dangelico et al. 2013). We used the logarithm of number of employees as an indicator of firm size. Firm age was measured on a logarithmic scale using the number of years the firm had been established.
+
+All of the measures were rated based on a seven-point Likert scale. For each construct, the item responses were averaged to create a composite measure. Table 1 presents all the measures and their sources.
+
+Table 1
+Measures and items
+
+Sustainability orientation (Comparative Performance Assessment Study 2012, α = 0.90, CR = 0.92, AVE = 0.53)
+
+(χ2/d.f. = 1.94; GFI = .92, CFI = .93; IFI = .93; RMSEA = 0.04)
+
+Factor loading
+
+How important are the following to our firm?
+
+ 
+ 1 environmental sustainability
+
+.85
+
+ 2 social sustainability
+
+.76
+
+ 3 sustainability criteria for new green product development
+
+.78
+
+ 4 measuring new green product progress on sustainability
+
+.65
+
+ 5 future importance of sustainability-type criteria
+
+.70
+
+To what degree does our firm to do the following?
+
+ 
+ 6 develop sustainability policies
+
+.85
+
+ 7 manage our green product’s carbon footprint
+
+.56
+
+ 8 use triple bottom line for green product planning
+
+.58
+
+ 9 include sustainability in our new green product development budget
+
+.72
+
+ 10 select suppliers or strategic partners based on sustainability criteria
+
+.78
+
+Green supplier involvement (χ2/d.f. = 1.90; GFI = .94, CFI = .96; IFI = .94; RMSEA = 0.03)
+
+ 
+Green supplier involvement as a knowledge source (New scale, α = 0.85, CR = 0.86, AVE = 0.61)
+
+During the new green product development process
+
+ 
+ 1 we use suppliers as a major knowledge source
+
+.75
+
+ 2 we actively capture knowledge from our suppliers to use as the basis for the new green product development
+
+.86
+
+ 3 we actively transfer knowledge gathered from our suppliers to the new green product development team
+
+.74
+
+ 4 we use knowledge gathered from our suppliers to determine green market trends
+
+.77
+
+Green supplier involvement as a co-creator (New scale, α = 0.86, CR = 0.87, AVE = 0.57)
+
+During the new green product development process
+
+ 
+ 1 our suppliers’ involvement as a co-creator of the new green product is significant
+
+.74
+
+ 2 our suppliers are actively involved in a variety of new green product design and development activities
+
+.73
+
+ 3 our suppliers frequently interact with the new green product team during the development process
+
+.80
+
+ 4 our suppliers provide frequent feedback and inputs on new green product design
+
+.71
+
+ 5 our suppliers’ involvement constitutes a significant portion of the overall new green product development effort
+
+.79
+
+Firm capabilities (χ2/d.f. = 2.02; GFI = .91, CFI = .92; IFI = .91; ; RMSEA = 0.05)
+
+ 
+Green knowledge-processing capability (Jantunen 2005; α = 0.88, CR = 0.89, AVE = 0.52)
+
+ 
+ 1 We actively observe and adopt the best practices in our sector
+
+.83
+
+ 2 We continuously gather economic knowledge on our operations and operational environment
+
+.71
+
+ 3 Our development activities are based on examined market needs
+
+.70
+
+ 4 We have assessed our know-how capital
+
+.65
+
+ 5 We have a lot of documented knowledge on our successes and failures related to new product development
+
+.72
+
+ 6 We use a lot of time to figure out why our project succeeded
+
+.78
+
+ 7 We use a lot of time to figure out why our project failed
+
+.69
+
+ 8 In our firm, we are not used to documenting in writing the things that are learned by experience (reversed)
+
+.73
+
+ 9 We often update our instructions
+
+.71
+
+ 10 We are able to take on unexpected opportunities
+
+.72
+
+ 11 We are capable of responding rapidly to competitors’ actions
+
+.64
+
+ 12 The change in the working methods and practices in our firm is very slow (reversed)
+
+.65
+
+ 13 We often hold over the correction of defects as far into the future as possible (reversed)
+
+.76
+
+ 14 We usually respond immediately to defects pointed out by employees
+
+.74
+
+ 15 We change our practices when customer feedback gives us reason to change
+
+.65
+
+ 16 When someone in our firm needs knowledge about customers, he/she knows to whom to turn
+
+.84
+
+Green R&D capability (Yam et al. 2011; α = 0.85, CR = 0.85, AVE = 0.66)
+
+ 
+ 1 we have high quality and quick feedbacks from manufacturing to design and engineering
+
+.82
+
+ 2 we have good mechanisms for transferring green technology from research to new green product development
+
+.84
+
+ 3 we have great extent of market and customer feedback into our green technological innovation process
+
+.78
+
+Green product/process innovation (Chen et al. 2006; α = 0.91; CR = 0.92, AVE = 0.59)
+
+(χ2/d.f. = 1.87; GFI = .95, CFI = .95; IFI = .94; RMSEA = 0.03)
+
+ 
+ 1 Our firm chooses the materials of the product that produce the least amount of pollution for conducting the new product development or design
+
+.77
+
+ 2 Our firm chooses the materials of the product that consume the least amount of energy and resources for conducting the new product development or design
+
+.68
+
+ 3 Our firm uses the fewest amount of materials to comprise the product for conducting the new product development or design
+
+.72
+
+ 4 Our firm would circumspectly deliberate whether the product is easy to recycle, reuse, and decompose for conducting the new product development or design
+
+.76
+
+ 5 The manufacturing process of our firm effectively reduces the emission of hazardous substances or waste
+
+.81
+
+ 6 The manufacturing process of our firm recycles waste and emissions that allow them to be treated and re-used
+
+.83
+
+ 7 The manufacturing process of our firm reduces the consumption of water, electricity, coal, or oil
+
+.79
+
+ 8 The manufacturing process of our firm reduces the use of raw materials
+
+.78
+
+α Cronbach’s alpha, CR composite reliability, AVE average variance extracted, GFI goodness-of-fit index, CFI comparative fit index, IFI incremental fit index, RMSEA root mean square error of approximation
+
+Analyses and Results
+Construct Validation
+By using data collected from 336 matched responses, we investigated the factor structure and measurement quality. The notable strength of confirmatory factor analyses via structural equation modeling is in dealing with measurement errors in the variables, which cannot be accounted for by traditional exploratory factor analysis (Hair et al. 2010). Therefore, the MPlus Exploratory Structural Equation Modeling technique (Muthén and Muthén 2010) was used to establish the internal consistency of our measures, since it combines exploratory and confirmatory factor analyses in a one-step process and avoids the problems associated with the traditional two-step process3 (Fornell and Yi 1992).
+
+Following previous research (Cheng and Huizingh 2014), we divided the variables into four related groups: (1) sustainability orientation; (2) green supplier involvement; (3) green knowledge-processing capability and green R&D capability; and (4) green product/process innovation. Each item is set to load only on its respective latent construct, and the latent constructs are allowed to be correlated (Gerbing and Anderson 1988). The fit statistic results indicate that the four confirmatory factor analysis models all achieve a satisfactory fit to the data. For example, the results of sustainability orientation are goodness-of-fit index [GFI] = 0.92, comparative fit index [CFI] = 0.93, incremental fit index [IFI] = 0.93; root mean square error of approximation [RMSEA] = 0.04 (see Table 1 for other constructs).
+
+Based on the three criteria suggested by Fornell and Larcker (1981), we assessed convergent validity. The results show that: (1) all loadings are above the 0.5 threshold between 0.56 and 0.85; (2) the composite reliability of the constructs ranges between 0.85 and 0.92; and (3) average variance extracted (AVE) ranges from 0.52 to 0.66. Thus, all three conditions for convergent validity are met.
+
+We then assessed discriminant validity in two ways. First, by using a procedure suggested by Fornell and Larcker (1981), we assessed the AVE by the indicators corresponding to each factor and compared these with the variance each factor shared with the other factors in the model. The results shown in Table 2 indicate that all diagonal elements representing the square root of the AVE are greater than the highest shared variance. Second, we used an alternative approach suggested by Anderson and Gerbing (1988). The results suggest that the value of the unconstrained model is significantly lower than that of the constrained model in all cases (e.g., for the pair of constructs green supplier involvement as a knowledge source and green knowledge-processing capability, the unconstrained model has a Chi square of 41.5 and the constrained model has a χ2 of 102.4. The χ2 difference [60.9] is significant at p < 0.001). Overall, we find strong evidence of convergent and discriminant validity.
+
+Table 2
+Basic descriptive statistics and correlation matrix
+
+Variables
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1. Sustainability orientation
+
+.73
+
+ 	 	 	 	 	 	 	 
+2. Green supplier involvement as a knowledge source
+
+.05
+
+.78
+
+ 	 	 	 	 	 	 
+3. Green supplier involvement as a co-creator
+
+.07
+
+.28
+
+.75
+
+ 	 	 	 	 	 
+4. Green knowledge-processing capability
+
+.39
+
+.11
+
+.02
+
+.72
+
+ 	 	 	 	 
+5. Green R&D capability
+
+.28
+
+.15
+
+.09
+
+.12
+
+.81
+
+ 	 	 	 
+6. Green product/process innovation
+
+.42
+
+.23
+
+.27
+
+.29
+
+.32
+
+.77
+
+ 	 	 
+7. Share of green innovation sales
+
+.31
+
+.19
+
+.20
+
+.18
+
+.19
+
+.22
+
+–
+
+ 	 
+8. Firm size (log)
+
+.06
+
+.12
+
+.11
+
+.02
+
+.03
+
+.24
+
+.13
+
+–
+
+ 
+9. Firm age (log)
+
+.04
+
+.10
+
+.07
+
+− .01
+
+− .02
+
+.09
+
+.03
+
+.17
+
+–
+
+Mean
+
+4.91
+
+4.78
+
+4.85
+
+4.64
+
+4.75
+
+5.02
+
+4.68
+
+7.62
+
+15.3
+
+Standard deviation
+
+.36
+
+.59
+
+.48
+
+.23
+
+.34
+
+.72
+
+1.01
+
+1.16
+
+7.38
+
+Bold figures on the diagonal are the square root of the AVE; N = 336
+
+Hypotheses Testing
+We used the ordinary least square regression analysis to test hypotheses. To alleviate concerns for multicollinearity, we mean-centered the composites for each measure (Cohen et al. 2003). We further investigated the issue of multicollinearity for all regression equations using a variance inflation factor (VIF). For all regression equations, the VIF values for the independent variables range from 1.1 to 1.5. The VIF values we obtain are much smaller and are less than 2 (Hair et al. 2010), suggesting that there is no serious multicollinearity problem among the independent variables.
+
+The Durbin-Watson (DW) test was then used to detect the existence of autocorrelation among the residuals. The results indicate that the value of DW lies between 1.5 and 2.5, suggesting that there is no autocorrelation in any regression equations.
+
+Table 3 (green product/process innovation) and Table 4 (share of green innovation sales) present the ordinary least square moderated regression estimates for the hypotheses tests. The results indicate that all the pertinent equations are statistically significant. The main effects (Model 2) produce an R2 value of 0.27 (p < 0.01) in Table 3 and of 0.23 (p < 0.01) in Table 4, respectively. When we include the product terms for the moderated effects, increases in the R2 are statistically significant.
+
+Table 3
+The effects of sustainability orientation and its moderators on green product/process innovation
+
+ 	
+Model 1
+
+Main effects (H1)
+
+SO × GSIKS (H2a)
+
+SO × GSICC (H2b)
+
+SO × GSIKS × GKPC (H3)
+
+SO × GSICC × GRDC (H4)
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Model 6
+
+Direct effects
+
+ Sustainability orientation (SO)
+
+ 	
+.30**
+
+.32**
+
+.35**
+
+.38**
+
+.39**
+
+Interaction effects
+
+ SO × GSIKS
+
+ 	 	
+.26*
+
+ 	
+.30**
+
+ 
+ SO × GSICC
+
+ 	 	 	
+.29**
+
+ 	
+.34**
+
+ SO × GKPC
+
+ 	 	 	 	
+.13
+
+ 
+ GSIKS × GKPC
+
+ 	 	 	 	
+.15
+
+ 
+ SO × GSIKS × GKPC
+
+ 	 	 	 	
+.33**
+
+ 
+ SO × GRDC
+
+ 	 	 	 	 	
+.15
+
+ GSICC × GRDC
+
+ 	 	 	 	 	
+.17
+
+ SO × GSICC × GRDC
+
+ 	 	 	 	 	
+.38**
+
+Control variables
+
+ Firm size
+
+.11
+
+.75
+
+.76
+
+.56
+
+.54
+
+.45
+
+ Firm age
+
+.05
+
+.55
+
+.64
+
+.73
+
+.44
+
+.33
+
+ Electronic and information
+
+.02
+
+.04
+
+.03
+
+.02
+
+.02
+
+.05
+
+ New energy and new material
+
+.03
+
+.06
+
+.07
+
+.09
+
+.06
+
+.08
+
+ Pharmaceutical and bioengineering
+
+.06
+
+.01
+
+.23
+
+.27
+
+.12
+
+.15
+
+ Optical and mechanical products
+
+.04
+
+.03
+
+.17
+
+.18
+
+.22
+
+.19
+
+ Green supplier involvement as a knowledge source (GSIKS)
+
+.09
+
+.10
+
+.11
+
+.14
+
+.12
+
+.09
+
+ Green supplier involvement as a co-creator (GSICC)
+
+.07
+
+.11
+
+.09
+
+.12
+
+.07
+
+.06
+
+ Green knowledge-processing capability (GKPC)
+
+.10
+
+.14
+
+.12
+
+.04
+
+.09
+
+.08
+
+ Green R&D capability (GRDC)
+
+.11
+
+.09
+
+.07
+
+.12
+
+.10
+
+.11
+
+ Adjusted R2
+
+.23**
+
+.27**
+
+.31**
+
+.37**
+
+.42**
+
+.45**
+
+ R2 change
+
+ 	
+.04*
+
+.04*
+
+.06**
+
+.05**
+
+.03*
+
+ Model F
+
+3.42**
+
+3.66**
+
+4.38**
+
+4.89**
+
+5.30**
+
+5.62**
+
+**p < 0.01; *p < 0.05; N = 336
+
+Table 4
+The effects of sustainability orientation and its moderators on shares of green innovation sales
+
+ 	
+Model 1
+
+Main effects (H1)
+
+SO × GSIKS (H2a)
+
+SO × GSICC (H2b)
+
+SO × GSIKS × GKPC (H3)
+
+SO × GSICC × GRDC (H4)
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Model 6
+
+Direct effects
+
+ Sustainability orientation (SO)
+
+ 	
+.22*
+
+.25*
+
+.27**
+
+.31**
+
+.33**
+
+Interaction effects
+
+ SO × GSIKS
+
+ 	 	
+.21*
+
+ 	
+.24*
+
+ 
+ SO × GSICC
+
+ 	 	 	
+.23*
+
+ 	
+.27**
+
+ SO × GKPC
+
+ 	 	 	 	
+.06
+
+ 
+ GSIKS × GKPC
+
+ 	 	 	 	
+.09
+
+ 
+ SO × GSIKS × GKPC
+
+ 	 	 	 	
+.28**
+
+ 
+ SO × GRDC
+
+ 	 	 	 	 	
+.08
+
+ GSICC × GRDC
+
+ 	 	 	 	 	
+.10
+
+ SO × GSICC × GRDC
+
+ 	 	 	 	 	
+.32**
+
+Control variables
+
+ Firm size
+
+.06
+
+.10
+
+.08
+
+.03
+
+.04
+
+.05
+
+ Firm age
+
+.03
+
+.09
+
+.07
+
+.05
+
+.09
+
+.07
+
+ Electronic and information
+
+.02
+
+.02
+
+.02
+
+.01
+
+.01
+
+.02
+
+ New energy and new material
+
+.03
+
+.01
+
+.03
+
+.04
+
+.04
+
+.06
+
+ Pharmaceutical and bioengineering
+
+.04
+
+.01
+
+.11
+
+.12
+
+.06
+
+.04
+
+ Optical and mechanical products
+
+.02
+
+.03
+
+.10
+
+.08
+
+.11
+
+.07
+
+ Green supplier involvement as a knowledge source (GSIKS)
+
+.03
+
+.06
+
+.05
+
+.07
+
+.06
+
+.04
+
+ Green supplier involvement as a co-creator (GSICC)
+
+.04
+
+.07
+
+.06
+
+.06
+
+.05
+
+.02
+
+ Green knowledge-processing capability (GKPC)
+
+.04
+
+.10
+
+.09
+
+.03
+
+.04
+
+.03
+
+ Green R&D capability (GRDC)
+
+.05
+
+.07
+
+.05
+
+.05
+
+.03
+
+.07
+
+ Adjusted R2
+
+.20*
+
+.23**
+
+.27**
+
+.31**
+
+.36**
+
+.39**
+
+ R2 change
+
+ 	
+.03*
+
+.04*
+
+.04**
+
+.05**
+
+.03*
+
+ Model F
+
+3.24**
+
+3.46**
+
+3.68**
+
+4.41**
+
+4.93**
+
+5.27**
+
+**p < 0.01; *p < 0.05; N = 336
+
+In H1, the coefficient of sustainability orientation in Tables 3 and 4 (Model 2) is positive and significant (β = 0.30, p < 0.01; β = 0.22, p < 0.05), suggesting that, as diversifying green entrants’ sustainability orientation increases, so does their green innovation performance. Therefore, H1 is supported.
+
+The results support H2a, in which the parameter estimates of 0.26 (p < 0.05) and 0.21 (p < 0.05) in Tables 3 and 4 (Model 3) for the sustainability orientation—green supplier involvement as a knowledge source product term, are statistically significant. Similarly, the results support H2b, in which the parameter estimates of 0.29 (p < 0.01) and 0.23 (p < 0.05) in Tables 3 and 4 (Model 3) for the sustainability orientation—green supplier involvement as a co-creator product term, are statistically significant.
+
+To better understand these interaction patterns, we plotted the predicted values of green product/process innovation and share of green innovation sales for high and low levels of sustainability orientation and green supplier involvement (as a knowledge source and as a co-creator). Following Cohen et al. (2003), we used − 1 and + 1 as standard deviations for the variables of interest in this and all other plots. The results indicate that the greatest green product/process innovation is for a high level of sustainability orientation and a high level of green supplier involvement, as a knowledge source (Fig. 2a) and as a co-creator (Fig. 2b). Other levels of sustainability orientation and green supplier involvement combinations show lower performance values. The share of green innovation sales follows the same pattern. The results suggest that, when sustainability orientation combines with high levels of green supplier involvement, as a knowledge source and as a co-creator, positive green innovation performance is enhanced.
+
+Open image in new window
+Fig. 2
+a Moderation of sustainability orientation-green innovation performance relationship by green supplier involvement as a knowledge source (GSIKS). b Moderation of sustainability orientation-green innovation performance relationship by green supplier involvement as a co-creator (GSICC)
+
+In H3, as shown in Tables 3 and 4 (Model 5), we find a statistically significant three-way interaction among sustainability orientation, green supplier involvement as a knowledge source, and green knowledge-processing capability (β = 0.33, p < 0.01; β = 0.28, p < 0.01). Therefore, H3 is supported.
+
+We plotted this interaction and the results (Fig. 3) indicate that the combination of high sustainability orientation, high green supplier involvement as a knowledge source, and high green knowledge-processing capability associates with the highest green product/process innovation. In this combination, the value of green product/process innovation is greater than 1, which is the strongest indicator of superior green product/process innovation. All of the other combinations indicate substantially lower values of green product/process innovation. The share of green innovation sales follows the same pattern, supporting H3.
+
+Open image in new window
+Fig. 3
+Moderation of sustainability orientation-green innovation performance relationship by green supplier involvement as a knowledge source (GSIKS) and green knowledge processing capability (GKPC)
+
+In H4, the results shown in Tables 3 and 4 (Model 6) indicate that the parameter estimate for the three-way interaction (sustainability orientation, green supplier involvement as a co-creator, and green R&D capability) is significant (β = 0.38, p < 0.01; β = 0.32, p < 0.01). Thus, H4 is supported.
+
+We also plotted this interaction and the results (Fig. 4) show that diversifying green entrants with high levels of green supplier involvement as a co-creator achieve the greatest green product/process innovation when they possess high levels of green R&D capability, while other combinations indicate substantially lower values of green product/process innovation. The share of green innovation sales has the same pattern, supporting H4.
+
+Open image in new window
+Fig. 4
+Moderation of sustainability orientation-green innovation performance relationship by green supplier involvement as a co-creator (GSICC) and green R&D capability (GRDC)
+
+Additional Analysis
+Following the approach of Cheng and Huizingh (2014), we conducted structural equation modeling and ran χ2 difference tests between a model with paths of all direct and interaction effects and a model without one of the interaction effects, to compare the relative strengths of green supplier involvement as a knowledge source and as a co-creator. We then used the χ2 value as a basis for comparing these models. For example, to obtain the χ2 value of the interaction effect of green supplier involvement as a knowledge source, the first model includes the paths (1) sustainability orientation—green product/process innovation, (2) green supplier involvement as a knowledge source—green product/process innovation, (3) green supplier involvement as a co-creator—green product/process innovation, (4) sustainability orientation × green supplier involvement as a knowledge source—green product/process innovation, and (5) sustainability orientation × green supplier involvement as a co-creator—green product/process innovation. The second model is then run without the fourth path in the first model. As such, we obtain a χ2 difference value between these two models in terms of green supplier involvement as a knowledge source. The same procedures are repeated for green supplier involvement as a co-creator (without the fifth path in the first model).
+
+Based on these χ2 values, we ran χ2 difference tests to compare the moderating effects of green supplier involvement as a knowledge source and as a co-creator. The results (Table 5) show that, compared with green supplier involvement as a knowledge source, green supplier involvement as a co-creator is the stronger moderator of the relationship between sustainability orientation and green product/process innovation (χ2 difference = 7.62, p < 0.01) and share of green innovation sales (χ2 difference = 8.17, p < 0.01). This finding implies that, given a high sustainability orientation, diversifying green entrants using green supplier involvement as a co-creator, are able to generate greater green innovation performance than those using green supplier involvement as a knowledge source. In the following section, we discuss the findings in more detail.
+
+Table 5
+Results for the moderation model the relative strengths of path coefficients
+
+Results for the moderation model
+
+ 	
+Green product/process innovation
+
+Share of green innovation sales
+
+ 	
+R2 = .481
+
+R2 = .318
+
+Sustainability orientation
+
+.224** (2.741)
+
+.197** (2.347)
+
+Sustainability orientation × GSIKS
+
+.309*** (3.786)
+
+.289*** (3.694)
+
+Sustainability orientation × GSICC
+
+.442*** (5.726)
+
+.339*** (3.998)
+
+Control variables
+
+ Firm size
+
+.039 (0.68)
+
+.022 (0.14)
+
+ Firm age
+
+.007 (0.04)
+
+.012 (0.06)
+
+ Electronic and information
+
+.072 (1.49)
+
+.036 (0.67)
+
+ New energy and new material
+
+.055 (1.14)
+
+.047 (0.78)
+
+ Pharmaceutical and bioengineering
+
+.061 (1.20)
+
+.058 (0.97)
+
+ Optical and mechanical products
+
+.043 (0.89)
+
+.039 (0.74)
+
+Results for the relative strengths of path coefficients
+
+ 	
+Comparisons
+
+χ2 difference
+
+Green product/process innovation
+
+1st model versus 2nd model
+
+5.70*
+
+1st model versus 3rd model
+
+6.78**
+
+GSIKS versus GSICC
+
+7.62**
+
+Share of green innovation sales
+
+1st model versus 2nd model
+
+4.92*
+
+1st model versus 3rd model
+
+7.58**
+
+GSIKS versus GSICC
+
+8.17**
+
+1st model: with all the paths
+
+2nd model: without the path of sustainability orientation × GSIKS—green innovation performance
+
+3rd model: without the path of sustainability orientation × GSICC—green innovation performance
+
+GSIKS green supplier involvement as a knowledge source, GSICC green supplier involvement as a co-creator
+
+*p < 0.05; **p < 0.01; ***p < 0.000; (t value); N = 336
+
+Discussion
+Building on RBV, this study proposes that sustainability orientation is an essential factor that helps diversifying green entrants achieve superior green innovation performance. Adopting the theoretical lens of KBV and capability theory, we introduce two types of green supplier involvement (as a knowledge source and as a co-creator) as moderators to enhance the effect of sustainability orientation on green innovation performance. Green knowledge-processing and R&D capabilities further positively enhance the moderating effect of green supplier involvement. Using a longitudinal survey of diversifying green entrants, we find support for all our hypotheses. The results provide important implications for adopting sustainability orientation and managing supplier involvement in innovation.
+
+Theoretical Contributions
+This study contributes to existing literature in the following ways. First, it deepens understanding of the importance of corporate sustainability for the diversifying green entrants’ green innovation performance. Previous studies on sustainability (e.g., Adams et al. 2016; Fraj-Andrés et al. 2009) have identified its positive outcomes for firms’ financial performance. However, it has been argued that a more thorough understanding of the effects of sustainability on innovation performance is required (Cronin et al. 2011). We add to this stream of studies by focusing on the debate about performance outcomes of sustainability orientation and, specifically, on diversifying green entrants and their implications for green innovation performance. In addition, focusing on diversifying green entrants, we extend the diversifying entrants literature (Moeen and Agarwal 2017; Williams et al. 2017; Ganco and Agarwal 2009) by answering the call of Danneels (2004) that much of the literature has focused on new entrants, while innovations generated by diversifying entrants often are overlooked. What is more, we examine the nature of this relationship by shedding light on the moderating role of green supplier involvement, which provides green-related knowledge and technical resources that diversifying green entrants lack.
+
+Second, given the cross-sectional nature of empirical studies on the performance outcomes of corporate sustainability, researchers have repeatedly called for studies incorporating a time separation between dependent and independent variables, to discern causality and eliminate alternative explanations for relationships between sustainability and performance (e.g., De Ruyter et al. 2009; González-Benito and González-Benito 2005). Our study extends existing knowledge by incorporating a two-year time lag into the examination of sustainability orientation’s effects on green innovation performance. Practically, the outcomes of such sustainability orientation require time to materialize (Rindfleisch et al. 2008). The use of such a lag reflects an effort to unveil the fundamental nature of the sustainability orientation–green innovation performance relationship by considering the time interval between the existence of causes and the demonstration of effects. This is an incremental improvement over studies examining corporate sustainability outcomes using cross-sectional data, and an important step in better understanding the dynamic nature of such relationships.
+
+Third, we make a unique contribution to the co-creation literature by examining green supplier involvement as a knowledge source and as a co-creator. Building on the KBV (Grant 1996), we develop two types of green supplier involvement in the green innovation process and empirically examine how green supplier involvement can benefit diversifying green entrants. Thus, we show the KBV as a useful theoretical lens for distinguishing two different types of supplier involvement in the innovation process. Our findings indicate that diversifying green entrants, using green supplier involvement as a co-creator, are able to generate greater green innovation performance than using green supplier involvement as a knowledge source. In this regard, we extend the co-creation literature by identifying the boundaries in which type of supplier involvement can provide firms with greater innovation performance.
+
+Fourth, our study makes an important contribution to the capability literature (Eisenhardt and Martin 2000; Teece et al. 1997) by suggesting that green supplier involvement as a knowledge source and as a co-creator can be beneficial, depending on green innovation-enabled capabilities. Our results show that diversifying green entrants with stronger green knowledge-processing capability have a greater ability to take advantage of knowledge resources embedded in green supplier involvement (as a knowledge source). In addition, green R&D capability helps diversifying green entrants overcome the liability of technical providers and facilitate the integration of their and suppliers’ R&D skills. Eventually, both green knowledge-processing and green R&D capabilities enhance green innovation success of diversifying green entrants. As such, this study not only provides insights into an issue that exists in contracting that previous research has not addressed, but also theoretically argues for, and empirically supports, green knowledge-processing and green R&D capabilities that determine diversifying green entrants’ management of green innovation.
+
+Finally, green supplier involvement, green knowledge-processing capability, and green R&D capability all act as enabling mechanisms to determine the effectiveness of diversifying green entrants’ sustainability orientation. As shown in the data analyses, when levels of supplier involvement, green knowledge-processing/green R&D capabilities are high, green innovation performance gains are increased. This finding extends the capability literature by showing that an interaction model explains more variance in green innovation performance than a main effect model, where resources (supplier involvement) and capabilities (green knowledge-processing or green R&D) have independent effects.
+
+Managerial Implications
+Our findings have important implications for managers of diversifying green entrants. First, managers have long questioned whether it pays to adopt sustainability orientation in their green innovation efforts. Our empirical findings suggest that it does. The use of sustainability orientation can positively contribute toward green innovation success. In particular, it clearly suggests that developing sustainability orientation can also play a significant role in generating green innovation for diversifying green entrants. For example, the sustainability orientation of Foxconn (a Taiwan-based firm that assembles the iPhone and iPad), is suggested in their green operation processes and in their desire to increase overall green innovation performance. The main reason for this is that Foxconn realized the largest profit was not only in continually developing their core technologies, but also developing and integrating sustainability policies into their operation strategies.
+
+Thus, prior to initiating green innovation activities, the identification of sustainability orientation helps managers understand what makes a diversifying green entrant effective in developing sustainability orientation. This insight is necessary for managers who intend to adopt sustainability orientation, or who aim to increase the effectiveness of their current green innovation. In addition, because sustainability orientation consists of several aspects, managers should devote sufficient time and energy to establish sustainability orientation, which entails changing habits and making pro-sustainable choices as a matter of daily routine.
+
+Second, the presence of a knowledge-rich environmental context, from which managers can use suppliers’ inputs, is important for diversifying green entrants. As using green supplier involvement can be viewed as broadening knowledge and technical skills, it particularly helps managers apply knowledge to create superior green innovation. Nevertheless, this study cautions managers that green supplier involvement acts as an impetus that affects firms’ sustainability orientation development and, consequently, has effects on green innovation performance. Therefore, managers should understand that green supplier involvement can help firms attain desirable green innovation performance. As such, managers should not only focus their efforts on adopting sustainability orientation, but also devote attention to the managerial process of green supplier involvement in order to realize the potential value of service modularity.
+
+Third, since green supplier involvement can be as a knowledge source and as a co-creator, managers must understand the different functions of each. Our findings suggest that using green supplier involvement as a co-creator enables diversifying green entrants to generate greater green innovation performance than green supplier involvement does as a knowledge source. In this regard, managers can operate green supplier involvement in two different ways. On the one hand, they could consider acquiring new green knowledge only from suppliers, in order to fill the green knowledge deficiency gap. We speculate that green supplier involvement as a knowledge source is needed because the incorporation of new knowledge can meet the user’s requirement after being evaluated (Yeniyurt et al. 2014). On the other hand, when user needs are highly tacit, managers should use green supplier involvement as a co-creator because this approach is effective for understanding difficult-to-communicate user needs (Menguc et al. 2014). Either way, it would be beneficial to clearly define the responsibilities of supplier involvement, which helps prevent employees from being overly influenced by suppliers.
+
+Fourth, managers using supplier involvement generally believe that suppliers’ knowledge is beneficial to innovation performance (Yeniyurt et al. 2014). In this study, green supplier involvement holds the promise of helping diversifying green entrants overcome some green knowledge resource deficiencies. However, without firm capabilities in implementing, configuring, and transforming the knowledge resources, green supplier involvement alone may not help firms attain desirable green innovation performance. Especially, managers are often unsure of the type of firm capabilities to use to develop and convert knowledge resources (Peteraf et al. 2013). Our findings highlight the need to better align green knowledge-processing and green R&D capabilities with green supplier involvement, in order to generate superior green innovation performance.
+
+Managers need to understand the comprehensive relationships among sustainability orientation, green supplier involvement, green knowledge-processing, and green R&D capabilities, so that they can monitor processes and focus their efforts on creating superior green innovation performance.
+
+Limitations and Future Research
+As with most studies, there are some limitations that must be acknowledged, which open up opportunities for future research. First, we conducted our study in the context of the technology industry. Although green innovation activities are similar across the world, we encourage other researchers to undertake replication studies in other industries, with different characteristics, to further test the external validity of our findings. In addition, following previous studies in the diversifying entrants’ literature (e.g., Pe’er et al. 2016; Williams et al. 2017; Ganco and Agarwal 2009), this study used large and established firms as samples. Thus, it is unclear whether theories developed to understand large and established firms apply to small businesses or start-ups. This might limit the definitive evaluation of sustainability orientation, green supplier involvement, and green innovation performance in the current study, and it offers a chance for future researchers to take steps in this direction.
+
+Second, firms in the technology industry typically devote more attention to R&D intensity, which may influence green innovation performance. To address this concern, future research could include R&D intensity as a control variable, while examining the relationship between sustainability orientation and green innovation performance.
+
+Finally, our results suggest that the effectiveness of sustainability orientation is not limited to developed Western countries, but this does not mean the effect is equally strong, as national and cultural factors might influence employee attitudes toward sustainability programs (Adams et al. 2016). Investigation of this issue could be a potential future research opportunity. Especially in light of the global nature of sustainability issues (Varadarajan 2014), it would be worthwhile for researchers to examine sustainability orientation and green innovation in an international setting.
+

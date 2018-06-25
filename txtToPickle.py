@@ -21,6 +21,11 @@ def txtToTextDict(filename):
 
 f1 = '/Users/liammeier/moral-reasoning/AppliedConsequentialism/'
 f2 = '/Users/liammeier/moral-reasoning/AppliedDeontology/'
-pickle.dump(txtToTextDict(f1), open("consPapersNewest.pkl", "wb"))
-pickle.dump(txtToTextDict(f2), open("deonPapersNewest.pkl", "wb"))
+f3 = '/Users/liammeier/moral-reasoning/NewAppliedVirtue/'
+f4 = '/Users/liammeier/moral-reasoning/ControlArticles/'
+#pickle.dump(txtToTextDict(f1), open("consPapersNewest.pkl", "wb"))
+#pickle.dump(txtToTextDict(f2), open("deonPapersNewest.pkl", "wb"))
+
+#pickle.dump(txtToTextDict(f3), open("virtuePapers.pkl", "wb"))
+pickle.dump(txtToTextDict(f4), open("controlPapers.pkl", "wb"))
 

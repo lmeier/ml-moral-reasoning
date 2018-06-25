@@ -1,0 +1,7 @@
+\BOOKMARK [1][-]{section.1}{Introduction: Question and Approach}{}% 1
+\BOOKMARK [1][-]{section.2}{Dataset}{}% 2
+\BOOKMARK [1][-]{section.3}{Data preprocessing and Featurization}{}% 3
+\BOOKMARK [1][-]{section.4}{Training}{}% 4
+\BOOKMARK [1][-]{section.5}{Prediction Function}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Prominent n-grams}{section.5}% 6
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Consequentialist n-grams}{subsection.5.1}% 7

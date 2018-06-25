@@ -1,0 +1,1020 @@
+PERSISTENT DISAGREEMENT AND POLARIZATION IN A BAYESIAN
+SETTING
+MICHAEL NIELSEN AND RUSH T. STEWART
+Abstract. For two ideally rational agents, does learning a finite amount of shared evidence
+necessitate agreement? No. But does it at least guard against belief polarization, the case
+in which their opinions get further apart? No. OK, but are rational agents guaranteed to
+avoid polarization if they have access to an infinite, increasing stream of shared evidence?
+No.
+Keywords. Consensus; dilation; disagreement; merging of opinions; polarization; the
+Bayesian Consensus-or-Polarization Law
+1. Introduction
+In politics, group deliberation, and interpersonal relationships, persistent disagreement and
+belief polarization are often seen as a lamentable features of social life. In some cases, polarization
+can even be dangerous. “Terrorism itself is a product, in part, of group polarization,”
+as Cass Sunstein points out (2002, p. 187). In certain politicized areas of science—such as
+vaccination, minimum wage policy, and climate change—disagreement is commonly attributed
+to the irrationality of one party to the debate.1
+If only we were rational, one might
+think, all disagreement would be resolved by collecting and sharing evidence. Call this the
+optimistic thesis about learning (TOTAL).
+TOTAL. Rational agents who learn the same evidence resolve disagreements.
+Something like TOTAL, made suitably precise, seems to underwrite many of our practices
+in diverse areas like activism, argumentation, inquiry, and mediation.2
+It may be quite hard
+to explain our actions in those areas in a non-cynical fashion without TOTAL.3 The thesis
+also motivates positions in popular philosophical disputes. Conciliatory positions in the peer
+disagreement debate take it that “the peer’s disagreement gives one evidence that one has
+made a mistake in interpreting the original evidence, and that such evidence should diminish
+one’s confidence” on the issue about which there is disagreement (Christensen, 2009, p. 757).
+If TOTAL were false, why would mere disagreement diminish one’s confidence? Two agents
+could disagree in the face of shared evidence without either having made a mistake.
+But TOTAL is false. In fact, even certain weaker theses are untenable. For example,
+versions of TOTAL that require shared evidence to guard against polarization—the case in
+which the extent of disagreement increases—cannot be maintained. Here we study persistent
+disagreement and belief polarization in a general Bayesian framework. Many formal studies
+of social opinion dynamics focus on reaching consensus (e.g., Blackwell and Dubins, 1962;
+Date: June 24, 2018.
+1Not always. Sometimes disagreement is attributed to a profit motive, for example. But good faith and
+rationality attributions to opponents in such debates are fairly rare.
+2An anonymous referee has suggested that proponents of TOTAL be called totalitarians.
+3So-called “virtue signaling” is an example of a cynical explanation in the case of activism.
+1
+2 NIELSEN AND STEWART
+DeGroot, 1974; Lehrer and Wagner, 1981; Genest and Zidek, 1986). But persistent disagreement
+and polarization are interesting phenomena worthy of study in their own right. While
+modeling these phenomena has been addressed in the literature (e.g., Hegselmann et al.,
+2002), we want to study them in a Bayesian setting. The point of adopting this framework is
+that Bayesian learning represents a leading contender for an ideal standard of rational belief
+revision. Even in this setting, both persistent disagreement in general and belief polarization
+in particular are possible in the face of increasing, shared evidence.
+We make our case against TOTAL in two parts. In Part 1, we study persistent disagreement
+and polarization in circumstances in which agents learn some finite amount of shared
+evidence. This is an important case since it resembles the contexts in which we observe actual
+belief polarization. Our primary focus in Part 1 is polarization, of which we distinguish
+two senses. Since polarization (in either of our senses) implies persistent disagreement, cases
+in which polarization is rationally permissible represent clear failures of TOTAL. The first
+sense of polarization that we investigate (Section 2) is local in that it involves increases in the
+extent of disagreement with respect to a particular event of interest. We provide some simple
+characterizations of precisely when polarization in this sense occurs (Theorem 1). From a
+Bayesian perspective, no irrationality is required. In Section 3, we discuss a close connection
+between polarization with respect to an event and dilation, a well-studied phenomenon in the
+theory of imprecise probabilities. In Section 4 we introduce a global notion of polarization
+that does not depend on a particular event. When agents polarize globally, the overall extent
+to which their probability distributions disagree increases. As with polarization with respect
+to an event, global polarization is sometimes permissible for Bayesian agents.
+In Part 2, we argue against an even weaker version of TOTAL by turning to the general,
+idealized setting of Bayesian learning in which agents are able to learn an infinite amount of
+evidence. Our main mathematical contribution there is a result that we call the Bayesian
+Consensus-or-Polarization Law. That result generalizes the classic merging of opinions result
+due to Blackwell and Dubins (1962) by relaxing a heavy-handed assumption (absolute
+continuity) in a mild way with interesting consequences. Relative to our weaker assumption,
+while it is no longer the case that an agent must assign probability 1 to achieving consensus
+in the limit, she must assign probability 1 to either achieving consensus or polarizing. So
+not only is polarization consistent with rationality in the sorts of learning scenarios in which
+it is observed (Part 1), in some cases, rationality demands assigning positive probability to
+polarizing in the limit of inquiry (Part 2).
+Part 1. The Finite Case
+Both psychological evidence and common life experience attest to the reality of persistent
+disagreement and belief polarization. In a classic study on polarization, Lord et al. report
+that, when exposed to the same set of conflicting studies regarding the possible deterrent
+DISAGREEMENT AND POLARIZATION 3
+guard against persistent disagreement and belief polarization, then generalizations cannot
+either.4
+2. Polarization
+We begin with the phenomenon of belief polarization. Since, as we will show, polarization is
+possible for rational agents who learn the same finite amount of shared evidence, it follows that
+persistent disagreement is also possible. Polarization represents a radical failure of TOTAL.
+While it may be familiar from debates about uniqueness and permissivism that standard
+varieties of Bayesianism allow for persistent disagreement of some form (e.g., White, 2005),
+it does not follow from that fact that Bayesianism allows for belief polarization.
+Throughout the paper, let Ω be a set of elementary events or possible worlds. Let F be
+a sigma-algebra on Ω, that is, a non-empty collection of subsets of Ω closed under complementation
+and countable unions. Elements A ∈ F are called events. To take a simple and
+common example, Ω may contain six points representing the outcomes of a roll of a die, and
+F might contain all of the relevant die-rolling events such as {2, 4, 6}, the event that the die
+lands with an even number face up. A probability measure P on the measurable space (Ω, F)
+is a countably additive set function P : F → [0, 1] such that P(Ω) = 1.5 We assume the
+standard ratio definition of conditional probability. For all A, E ∈ F,
+P(A|E) := P(A ∩ E)
+P(E)
+, whenever P(E) > 0.
+According to Bayesian conditionalization, when an agent learns an event E, she should revise
+her probabilities by setting her new probabilities equal to her old probabilities conditional
+on E. Where P
+E is the probability measure that the agent adopts after learning E, conditionalization
+says that
+P
+E(A) = P(A|E),
+for all A ∈ F. We call P
+E the posterior and P the prior.
+With those few preliminaries out of the way, consider the following simple example.
+Example 1. Suppose two polling experts provide opinions about the outcome of an election
+between four candidates. Let Ω = {ω1, ω2, ω2, ω4} be the set of candidates, and let F = 2Ω.
+Let P1, P2, given by Table 1, be probability measures on (Ω, F) representing the opinions of
+the polling experts.
+Table 1. Priors
+ω1 ω2 ω3 ω4
+P1 1/6 1/4 1/3 1/4
+P2 1/2 1/12 1/4 1/6
+4One might ask, as an anonymous referee did, whether in contexts of only uncertain evidence—so that
+updates by Jeffrey conditioning don’t reduce to standard conditionalization—persistent disagreement and
+polarization can be avoided. In general, the answer is no. One subtle issue in this context is how to understand
+shared evidence. See Huttegger (2015) for a study of conditions that secure merging of opinions for Jeffrey
+conditioning. In particular, see his Theorem 6.1 for a class of cases in which disagreement persists.
+5We say that P is countably additive if, for any countable collection of disjoint events {Ai}i∈I , P(
+S
+P i∈I Ai) =
+∞
+i=1 P(Ai). We note that our Theorem 3 makes essential use of countable additivity. For the simple examples
+considered in this section, however, finite additivity is sufficient.
+4 NIELSEN AND STEWART
+Suppose that there are two political parties with ω1, ω2 in one party, and ω3, ω4 in the other. In
+order to advance to the general election, a candidate must win her party’s primary. Suppose
+that we are interested in the event A = {ω1, ω2} that a candidate from the first party will
+win the general election. Let E = {ω1, ω3} be the event that candidates 1 and 3 win their
+respective primaries. Then, P1(·|E) and P2(·|E) are given by Table 2.
+Table 2. Posteriors
+ω1 ω2 ω3 ω4
+P
+E
+1
+1/3 0 2/3 0
+P
+E
+2
+2/3 0 1/3 0
+Then, P1(A|E) = 1/3 < 5/12 = P1(A) ≤ P2(A) = 7/12 < 2/3 = P2(A|E). So, updating on
+E, P1 and P2 get further apart with respect to A. That is, the information that candidates
+1 and 3 win their primaries pushes the two polling experts further apart with respect to their
+opinions about whether a candidate from the first party will win the general election. 4
+The behavior in Example 1 is eminently reasonable. Given polling expert 1’s prior, the
+information E = {ω1, ω3} is tantamount to learning that the weaker candidate from the first
+party will run against the stronger candidate from the second party in the general election.
+Indeed, expert 1 considers candidate ω1 antecedently weaker than all other candidates. For
+expert 2, however, the case is reversed. Not only is ω1 the stronger candidate in the first
+party, she is the strongest candidate overall. So while E decreases expert 1’s confidence in A,
+the event that a candidate from the first party wins the general election, it increases expert
+2’s confidence. Nothing in this example or the next (Example 2) depends on unreasonable or
+extreme (0-1 valued) prior probability assignments.
+Example 1 suggests the following natural definition of polarization.
+Definition 1. Let P1 and P2 be probability functions on (Ω, F), and let A, E ∈ F. We say
+that evidence E polarizes P1 and P2 with respect to the event A if
+P1(A|E) < P1(A) ≤ P2(A) < P2(A|E).
+Polarizing evidence leads disagreeing opinions to strengthen their initial attitude with respect
+to each other, resulting in even greater disagreement. Note that Definition 1 is given in
+terms of a particular event with respect to which polarization occurs. We will later (Section
+4) distinguish this sense of polarization from a sense that does not depend on a particular
+event.
+Example 1 already shows that polarization is rationally permissible from a Bayesian perspective.
+To shed more light on the situation, we would now like to provide some simple
+conditions that characterize when polarization with respect to an event occurs. We begin by
+introducing some auxiliary probabilistic concepts. First, when P(A ∩ E) = P(A)P(E), we
+call events A and E stochastically independent (according to P). Next, consider the function
+S defined by
+SP (A, E) := P(A ∩ E)
+P(A)P(E)
+.
+The covariance of A and E is given by Cov(A, E) = P(A ∩ E) − P(A)P(E). S just puts
+covariance in ratio form. When SP (A, E) = 1, A and E are stochastically independent. When
+DISAGREEMENT AND POLARIZATION 5
+SP (A, E) > 1, A and E are positively correlated. And A and E are negatively correlated
+when SP (A, E) < 1. (Seidenfeld and Wasserman adopt the convention that SP (A, E) = 1
+when P(A)P(E) = 0 (1993, p. 1141).) Pedersen and Wheeler point out (2014, p. 1312,
+fn. 8) that S has been put to various uses in formal epistemology and philosophy of science,
+including as a measure of coherence (Shogenji, 1999). Finally, the quantity P(E|A)/P(E|Ac
+)
+is called the likelihood ratio for data E and hypotheses A and Ac
+. Likelihood ratios are used
+throughout statistics and express the impact of the evidence in terms of how much it favors
+one hypothesis to another.
+Together, S and the likelihood ratio allow us to state two very simple characterizations of
+polarization with respect to an event.
+Theorem 1. Suppose that 0 < P1(A) ≤ P2(A) < 1. Then the following are equivalent.
+(i) Evidence E polarizes P1 and P2 with respect to A;
+(ii) SP1
+(A, E) < 1 < SP2
+(A, E);
+(iii) P1(E|A)
+P1(E|Ac)
+< 1 <
+P2(E|A)
+P2(E|Ac)
+.
+The proof of this result uses only the probability axioms and algebra. We omit it, assured
+the reader can furnish it herself should she so desire.
+Condition (iii) of Theorem 1 is mentioned in psychological literature directly on polarization
+(e.g., Jern et al., 2014). Jern et al. analyze previous empirical studies of belief polarization
+and offer a Bayesian rationalization of some such behavior. They also note that such
+likelihood ratios as included in condition (iii) determine “the direction in which [an agent’s]
+beliefs will change.” Condition (ii) has been exploited in another, related literature that
+we discuss below (e.g., Seidenfeld and Wasserman, 1993; Wasserman and Seidenfeld, 1994;
+Pedersen and Wheeler, 2014). Theorem 1, while neither particularly deep nor surprising, is
+more general than it may seem at first. That’s because conditionalizing on any finite string
+of evidence, E1, ..., En, can be reduced to learning just a single event, namely, E =
+Tn
+i=1 Ei
+.
+So Theorem 1 identifies necessary and sufficient conditions for any finite string of evidence
+to polarize P1 and P2 with respect to A.
+6
+If (Ω, F) is a sufficiently complex space relative
+to how much the agents learn—say there is a countable infinity of events, for example, and
+agents only learn a finite amount of evidence—the agents may be polarized by the event
+representing their total evidence.
+We offer another, more extreme example of polarization adapted from (Herron et al., 1994;
+Pedersen and Wheeler, 2015).
+Example 2. Consider P1 and P2 such that P1(G) = 0.1 and P2(G) = 0.9. Consider the toss
+of a coin that is fair according to both P1 and P2: P1(H) = P2(H) = 1/2 = P1(Hc
+) = P2(Hc
+).
+Suppose that the outcomes of the coin toss are independent of the event G according to
+both P1 and P2. For example, P1(G ∩ H) = P1(G)P1(H) and P2(G ∩ H) = P2(G)P2(H).
+Let A be the “matching” event that either both G and H occur or both do not. That is,
+A := (G ∩ H) ∪ (Gc ∩ Hc
+). Notice that P1(A) = 1/2 = P2(A). Despite initial agreement
+concerning A, the coin toss polarizes P1(A) and P2(A). For i = 1, 2,
+6We could distinguish the case in which Tn
+i=1 Ei polarizes P1 and P2 with respect A from the case in which
+each Ei polarizes P1 and P2 with respect to A. In the former case, we are concerned with the cumulative
+effect of the evidence. The latter case obtains when the characterizing conditions of Theorem 1 hold for each
+piece of evidence, Ei.
+6 NIELSEN AND STEWART
+Pi(A|H) = Pi([(G ∩ H) ∪ (Gc ∩ Hc
+)] ∩ H)
+Pi(H)
+=
+Pi(G ∩ H)
+Pi(H)
+=
+Pi(G)Pi(H)
+Pi(H)
+= Pi(G).
+So even though both P1 and P2 assign probability 1/2 to A initially, learning that the coin
+lands heads yields P1(A|H) = 0.1 and P2(A|H) = 0.9. Hence, P1(A|H) < P1(A) ≤ P2(A) <
+P2(A|H). 4
+Example 2 is a striking case. In a single step, learning the same evidence can transform
+agreement into significant disagreement. Moreover, the example points to an interesting and
+important connection between polarization, a topic in social epistemology, and dilation, a
+topic in the theory of individual imprecise probabilities. We turn to this connection now.
+3. Dilation
+The polarization phenomenon with which we were concerned in Section 2 bears resemblance
+to the phenomenon known as dilation in the theory of imprecise probabilities (IP). In
+fact, Example 2 is a borrowed example of dilation. In our opinion, there is a very fruitful
+exchange of ideas between social epistemology and the theory of imprecise probabilities (see,
+e.g., Levi, 1982, 1985a; Seidenfeld et al., 1989, 2010; Elkin and Wheeler, 2018; Stewart and
+Ojea Quintana, 2018).
+IP allows for more general representations of uncertainty than standard Bayesian probability
+theory does. Several frameworks have been used to accomplish this task. We will consider
+sets of probabilities, a very general IP framework. Let P denote a set of probability measures
+defined on the same measurable space (Ω, F). Levi marks an important distinction between
+two possible interpretations of P (1985b). On the one hand, we might retain the standard
+Bayesian ideal according to which any rational state of uncertainty admits representation in
+terms of a single probability function. On this account, a set P could be used to represent the
+possible values that an agent’s precise probability judgments may take. Such a set might arise
+from failures of introspection or partial elicitation. In short, P may represent imprecision in
+measuring a precise credal state. For example, in estimating the probability of some event,
+an agent may be in a position to specify no more than one or two decimal places. On the
+other hand, IP can be seen as offering an alternative (laxer) normative standard. On this
+account, a set P might completely describe an agent’s probability judgments in cases in which
+her uncertainty is not reducible to a unique probability function. Levi calls this interpretation
+indeterminate probability. Of course, both factors may operate simultaneously. There could
+be partial elicitation of an indeterminate state of uncertainty.
+Dilation occurs, roughly speaking, when learning increases uncertainty. There are various
+formulations of dilation, depending on the choice of IP representation and whether certain
+inequalities are strict or not. But to facilitate comparison with the notion of polarization
+defined in the previous section, consider the following common definition.
+Definition 2. Let P be a set of probabilities on (Ω, F), let B be a positive measurable
+partition of Ω7
+, and let A ∈ F. We say that the partition B dilates A just in case, for each
+E ∈ B,
+inf{P(A|E) : P ∈ P} < inf{P(A) : P ∈ P} ≤ sup{P(A) : P ∈ P} < sup{P(A|E) : P ∈ P}.
+7The partition B is positive and measurable if E ∈ B implies E ∈ F and P(E) > 0.
+DISAGREEMENT AND POLARIZATION 7
+The mathematics of dilation has been extensively studied in a series of articles (Seidenfeld and
+Wasserman, 1993; Herron et al., 1994; Wasserman and Seidenfeld, 1994; Herron et al., 1997;
+Pedersen and Wheeler, 2014, 2015). For results related to our Theorem 1, see in particular
+Wasserman and Seidenfeld’s Result 1 (1994), and Pedersen and Wheeler’s Theorem 1 and its
+corollary (2015).
+Dilation is like a virulent form of polarization. In the social setting, it amounts to agents’
+views getting further from consensus no matter what outcome of a partition B they observe.
+In Example 2, where the partition is given by the outcomes of a toss of a fair coin (B =
+{H, Hc}), P1 and P2 will move the same significant distance from agreement on A whether
+the coin lands heads or tails. It is the fact that a more precise estimate for an event A is
+transformed into a less precise estimate regardless of the event in the partition that is learned
+that attracts interest to dilation. While dilation emerges sometimes for IP, precise credal
+states are immune to dilation since inf{P(A|E)} = sup{P(A|E)} for all A and E in F.
+Some see dilation as a pathological feature that calls IP into question (e.g., White, 2010).
+While not central to the present study, the debate about the normative status of dilation,
+we suggest, might be further illuminated by consideration of dilation in a social setting.
+Similarly, another line of inquiry into polarization would be to explore whether arguments
+against the rational acceptability of dilation can be extended in some way to social settings.
+Does the (un)acceptability of dilation provide some defeasible consideration in favor of the
+(un)acceptability of (certain kinds of) polarization or vice versa? Or is there, contrary to
+the hopes of those seeking decision theories and theories of inquiry unified across individuals
+and groups, some significant disanalogy?
+4. Global Polarization
+In the previous sections, our focus was a local sense of polarization. We were interested
+in situations in which sharing evidence increases the extent of disagreement between two
+Bayesian agents with respect to a fixed event. In some situations, however, there may not
+be a distinguished event around which inquiry centers, or one may be interested in whether
+a consensus can be reached about a whole collection of events. In such situations, a more
+global perspective is appropriate. In climate science, for example, there is a complex cluster
+of issues—from future sea levels and air temperature to the mechanisms underwriting
+decadal climate variability—that exercise researchers in the area. In some cases, consensus
+on appropriate measures to mitigate change or on adaptive policies may require consensus
+on a large number of other issues.
+In order to adopt the global perspective, we need a way of measuring the extent to which
+two probabilities disagree that does not depend on a distinguished event. We will use the
+total variational distance d defined for any probabilities P1 and P2 by
+d(P1, P2) = sup
+A∈F
+|P1(A) − P2(A)|.
+Note that if P1 and P2 are in complete agreement, in the sense that P1(A) = P2(A) for all
+events A, then the total variational distance between them is 0. If, on the other hand, P1
+and P2 disagree maximally, in the sense that there’s an event A such that P1(A) = 0 and
+P2(A) = 1, then d(P1, P2) = 1. The total variational distance finds use throughout probability
+theory and, as we explain in the next sections, has played a crucial role in Bayesian thought
+via the Blackwell-Dubins merging of opinions theorem (1962) and related results (Schervish
+and Seidenfeld, 1990; Huttegger, 2015). In the examples below, we will make use of the fact
+8 NIELSEN AND STEWART
+that in finite probability spaces the total variational distance is given by
+d(P1, P2) = P1(A0) − P2(A0), (1)
+where A0 is the set of points ω ∈ Ω such that P1(ω) > P2(ω).8 Using total variational distance,
+we can now introduce a notion of polarization that is the global analogue of polarization with
+respect to an event, as defined in Definition 1.
+Definition 3. We say that evidence E polarizes P1 and P2 globally if d(P1, P2) < d(P
+E
+1
+, P E
+2
+).
+Note that the notion of polarization in Definition 3 does not depend on a particular event,
+but rather is concerned with the effect that learning has on the overall disagreement between
+two probabilities.
+Does global polarization imply irrationality? Just as with polarization with respect to an
+event, the answer is no when the standard of rationality is Bayesian. This can be seen by
+considering a slight variation of Example 1.
+Example 3. Let (Ω, F), A = {ω1, ω2}, and E = {ω1, ω3} be defined as in Example 1, and
+consider the following priors and posteriors.
+Table 3
+ω1 ω2 ω3 ω4
+P1 1/4 1/8 1/2 1/8
+P2 1/2 1/12 1/4 1/6
+P
+E
+1
+1/3 0 2/3 0
+P
+E
+2
+2/3 0 1/3 0
+Using (1), we can see that we have global polarization because d(P1, P2) = 7/24 < 1/3 =
+d(P
+E
+1
+, P E
+2
+). Note also that we still have polarization with respect to A, like in Example 1,
+because P1(A | E) = 1/3 < 3/8 = P1(A) ≤ P2(A) = 7/12 < 2/3 = P2(A | E). 4
+Absent reason to believe that the above probability assignments are unreasonable, Example 3
+shows that TOTAL is false under a global interpretation of “disagreements.” In fact, as was
+the case in Section 2, the present example falsifies a thesis that is even weaker than TOTAL
+because global polarization, like polarization with respect to an event, implies persistent
+disagreement.9
+8Proof. Note that A
+c
+0 is the set of points ω ∈ Ω such that P2(ω) ≥ P1(ω). For all A ∈ F we have
+P1(A) − P2(A) = X
+ω∈A
+
+P1(ω) − P2(ω)
+
+=
+X
+ω∈A∩A0
+[P1(ω) − P2(ω)
+
++
+X
+ω∈A∩Ac
+0
+[P1(ω) − P2(ω)
+
+≤
+X
+ω∈A∩A0
+[P1(ω) − P2(ω)
+
+≤
+X
+ω∈A0
+[P1(ω) − P2(ω)
+
+= P1(A0) − P2(A0).
+Similarly, P2(A)−P1(A) ≤ P2(A
+c
+0)−P1(A
+c
+0) for all A ∈ F. Since P1(A0) +P1(A
+c
+0) = 1 = P2(A0) +P2(A
+c
+0), we
+have P1(A0)−P2(A0) = P2(A
+c
+0)−P1(A
+c
+0), and it follows from the above that |P1(A)−P2(A)| ≤ P1(A0)−P2(A0)
+for all A ∈ F. The equality in (1) now follows by taking the supremum (maximum) of the left-hand side of
+the last inequality.
+9
+If d(P1, P2) < d(P
+E
+1 , P E
+2 ), then d(P
+E
+1 , P E
+2 ) > 0. This implies that there is some event A about which P
+E
+1
+and P
+E
+2 disagree, i.e. P
+E
+1 (A) 6= P
+E
+2 (A).
+DISAGREEMENT AND POLARIZATION 9
+Having defined two notions of polarization, it is natural to ask whether there are any
+interesting logical relations between them. Example 3 shows that both kinds of polarization
+can occur simultaneously. But does one notion imply the other? To begin to address this
+question, we return to Example 1. In that example, although E polarizes P1 and P2 with
+10 NIELSEN AND STEWART
+it is worth pointing out that retreating to the limit of inquiry already drastically weakens
+any automatic inference from the mere fact of actual polarization to the irrationality of
+some polarized agent or other. Presumably, all actual behavior occurs in the context of just
+finitely many observations. In such a context, this line of response concedes that polarization
+is consistent with the rationality of both parties.
+Part 2. The General Case
+In the general setting, we consider cases of learning infinite amounts of evidence. Why
+bother looking at such artificial learning scenarios? In a way, we are pursuing TOTAL to its
+last retreat. Even allowing rational agents to learn an infinite amount of evidence, agreement
+cannot be ensured. Moreover, such learning scenarios are frequently considered in the context
+of Bayesian foundations. It is sometimes thought that we can test the mettle of a learning
+method by looking at its asymptotic behavior. Bengt Autzen gives recent voice to this idea.
+“Under the ideal scenario of an infinitely large data set,” he writes, “an inference procedure
+should show certain desirable features” (Autzen, 2017, p. 3). One desirable feature claimed
+for Bayesian methodology is known as convergence to the truth. Convergence has long been
+taken to be a metric by which to judge probabilistic inference methods (e.g., Reichenbach,
+1938, §43). Our concern in this paper, though, is with consensus. Consensus is no less
+pedigreed a methodological concern than convergence is. In “The Fixation of Belief,” Peirce
+puts forward a picture of scientific method according to which a community of inquirers
+achieve consensus eventually by updating on shared evidence. As he puts it, “the method
+must be such that the ultimate conclusion of every man shall be the same” (Peirce, 1992a, p.
+120).11 Here, too, many Bayesians claim success. In the next section, we explain the basis for
+this claim. In short, then, we examine the general case because proponents of TOTAL may
+be tempted to appeal to such idealized scenarios and because such scenarios are standardly
+studied in Bayesian theory and even play foundational roles in justifications for the Bayesian
+point of view.
+Before we can state the relevant facts about convergence and consensus for Bayesians,
+we need to bring a bit more machinery online. This machinery will help us in this second
+part of our case against TOTAL. As above, let (Ω, F, P) be a probability space. We will be
+interested in situations in which agents anticipate learning an increasing amount of evidence
+that eventually settles every event of interest to them. The evidence is represented as a
+sequence of finite partitions, {En}n∈N, such that En+1 refines En for all n ∈ N.
+12 Because of
+the assumption that the partitions are increasingly fine, we say that the agent’s evidence is
+increasing. For example, a partition might represent the possible outcomes of an experiment
+that the agent plans to perform. In the case of repeated coin tosses, E1 represents the
+information about the first toss of the coin, while E2 would represent all of the information
+about the first two tosses, etc. So by the time the agent observes the outcome of the second
+coin toss, she knows whether the “actual” sequence is one that begins HH or not.
+in this modified example. So the point is not merely that achieving consensus is frustrated for those events
+with prior 0-1 assignments. In any case, disagreeing on prior 0-1 probabilities does not count as polarization
+as we define it, even if it is a case of interminable disagreement for Bayesians.
+11Otherwise, a method will fail to fix belief because we will encounter those who disagree with us and, due
+to our “social impulse,” our confidence will be shaken. In other places, Peirce seems to identify truth and
+whatever opinion the community settles on in the limit (e.g., 1992b).
+12The finite partition assumption aids exposition but is not necessary. In the Appendix, we relax it and
+work with general filtrations of sub-sigma-algebras.
+DISAGREEMENT AND POLARIZATION 11
+We will also assume that the observations eventually settle every event in F and say that
+the evidence is complete. Formally, we require that the collection of all evidential events,
+namely S
+n
+En, generate the sigma-algebra F on which the agent’s prior is defined. That is,
+we will assume that F is the smallest sigma-algebra containing S
+n
+En.
+From her prior perspective, the agent is uncertain, for all n, which event in En she will
+learn. If ω ∈ Ω is the actual world, then En(ω) denotes the event in En that the agent learns
+at stage n, namely, whichever member of En contains ω. In this setup, a Bayesian agent’s
+posteriors are then P(· | En(ω)) for all ω ∈ Ω and n ∈ N.
+13 The aforementioned convergence
+to the truth theorem says that a Bayesian agent assigns probability 1 to the event that her
+posterior probabilities converge to the truth about every event in F. This means that for
+every A ∈ F and every ω ∈ Ω in a set with P-probability 1, if A is true, so that ω ∈ A,
+a Bayesian’s posteriors P(A | En(ω)) will get arbitrarily close to 1 as n increases. If A is
+false, so that ω /∈ A, then P(A | En(ω)) will get arbitrarily close to 0 as n increases. See the
+Appendix for a more formal summary. We return now to our primary focus, consensus or
+the lack thereof.
+5. Merging of Opinions
+Merging of opinions is an important part of Bayesian lore. Relative to just a few assumptions,
+with probability 1, opinions get closer and closer together as they learn from a shared,
+increasing stream of data. Huttegger sees merging results as evidence that Bayesianism fulfills
+Peirce’s vision of a method that settles belief for a community on the basis of experimental
+evidence. He writes, “experience trumps any initial belief state; diverging opinions are
+just a sign that not enough evidence has accumulated yet” (2015, p. 613). Savage (1954),
+Blackwell and Dubins (1962), and Gaifman and Snir (1982) provide classic versions of merging
+of opinions theorems, which have since been generalized in various ways (Schervish and
+Seidenfeld, 1990; Huttegger, 2015; Stewart and Nielsen, 2018). Such classic versions of these
+results attained their prominent theoretical status due to the subjective nature of personal
+probabilities. According to many Bayesians, that agents reach consensus (almost surely, relative
+to the assumptions in the theorems) should allay concerns that Bayesianism robs science
+of any sort of objectivity. “This approximate merging of initially divergent opinions is, we
+think, one reason why empirical research is called ‘objective’,” write Edwards, Lindman, and
+Savage (1963, p. 197).
+Let P and Q be two probability measures on (Ω, F). Above, we explained that if P anticipates
+learning increasing and complete evidence, then P assigns probability 1 to converging
+to the truth. In this section, we continue to assume that evidence is increasing and complete,
+but we now also assume that it is shared with Q. We say that P shares evidence with Q if for
+all n ∈ N and E ∈ En, if P(E) > 0, then Q(E) > 0. This ensures that Q can conditionalize
+on any evidential event that P can—anything that P can learn, Q can learn, too.
+For all ω ∈ Ω, let Pn(ω) = P(· | En(ω)) and Qn(ω) = Q(· | En(ω)) be the posteriors for P
+and Q after conditionalizing on a member of the n
+th partition. As an informal gloss on the
+merging of opinions results, we might say, if P is “sufficiently similar” to Q, then for all ω in
+a set with P-probability 1 the distance between the posteriors Pn(ω) and Qn(ω) goes to 0 as
+n increases. We will use the same notion of distance that we used in Section 4, namely total
+variational distance. We say that P and Q merge if d(Pn(ω), Qn(ω)) gets arbitrarily close to
+13Technically, we may have P(En(ω)) = 0 for some n and ω, in which case we can define P(· | En(ω))
+arbitrarily and replace “for all ω ∈ Ω” with “for all ω ∈ Ω in a set with P-probability 1.”
+12 NIELSEN AND STEWART
+0 for all ω as n increases, and we say that P expects to merge with Q if this event occurs for
+all ω in a set with P-probability 1.
+We now need to say what we mean by sufficient similarity. Call P absolutely continuous
+with respect to Q when Q(A) = 0 implies P(A) = 0 for all A ∈ F. In other words, any extreme
+probability assignment of Q’s is an extreme probability assignment of P’s. It could still be
+the case, though, that P(A) = 0 but Q(A) > 0 for some A ∈ F. If Q is absolutely continuous
+with respect to P also, then we say that P and Q are mutually absolutely continuous.
+Theorem 2 (Blackwell and Dubins (1962)). Suppose that P shares increasing and complete
+evidence with Q. If P is absolutely continuous with respect to Q, then P expects to merge
+with Q.
+Given that P is absolutely continuous with respect to Q, P assigns probability 1 to approaching
+consensus with Q when they share increasing and complete evidence. If, in addition, Q
+is absolutely continuous with respect to P, then both P and Q expect to merge with each
+other.
+But wait. Doesn’t Theorem 2 show that polarization is essentially inconsistent with
+Bayesian rationality? Some authors do indeed seem to think polarization is beyond the pale,
+not just for some vague theory of rationality in general, but for Bayesianism in particular.
+Ample psychological evidence suggests that people’s learning behavior is often
+prone to a “myside bias” or “irrational belief persistence” in contrast to learning
+behavior exclusively based on objective data. In the context of Bayesian
+learning such a bias may result in diverging posterior beliefs and attitude polarization
+even if agents receive identical information. Such patterns cannot
+be explained by the standard model of rational Bayesian learning that implies
+convergent beliefs. (Zimper and Ludwig, 2009, p. 181)
+At least two points about Theorem 2 require careful consideration. First, the theorem has
+preconditions. To see that they are significant, note that Theorem 2 has a partial converse,
+which follows from the Bayesian Consensus-or-Polarization Law in the next part of the paper.
+It turns out that if P is not absolutely continuous with respect to Q, then either P does
+not expect to merge with Q or P does not share evidence with Q. So, provided P shares
+evidence with Q, if P is not absolutely continuous with respect to Q, then P assigns positive
+probability to the event that the posteriors Pn and Qn persist in disagreeing despite access
+to an increasing and complete evidence. In section 6, we return to these issues with more
+precision. But we should pause now to think about the absolute continuity assumption.
+Absolute continuity is not a rationality requirement. After all, with respect to which
+measure or measures ought a prior be absolutely continuous? Unless we have a principled
+answer to that question, it is difficult to even make sense of a proposal according to which
+absolute continuity is a normative constraint. And there is no trivial answer to the question in
+general. In large measurable spaces14, there is no measure with respect to which all measures
+are absolutely continuous. Of course, even if P and Q were both absolutely continuous with
+respect to a third, distinguished measure, neither need be absolutely continuous with respect
+to the other. It might be tempting to urge priors to avoid extreme assignments. For instance,
+regular probability measures—which assign positive probability to all non-empty events—
+enjoy wide-spread support among philosophical probabilists (Shimony, 1955; Lewis, 1980;
+14Such spaces arise when considering random variable with continuous distributions, for example. A random
+variable representing the unknown duration of a prizefight would be such a quantity.
+DISAGREEMENT AND POLARIZATION 13
+Skyrms, 1995). However, in large enough probability spaces, such measures are impossible
+and extreme prior probability assignments unavoidable.15
+Similarly, absolute continuity is of dubious descriptive value. According to Miller and
+Sanchirico, the condition is even “difficult to interpret behaviorally” (1999, p. 171). But
+our concern is that absolute continuity just assumes a great deal of agreement out of the
+gate. When is that much initial agreement actually realized? Perhaps one could maintain
+that communities of scientists often endorse statistical models sufficiently similar so as to be
+absolutely continuous. As a descriptive claim, however, such a view needs empirical support.
+Earman considers something even stronger.16 Mutual absolute continuity may be in some
+sense constitutive of a scientific community: “it could be held that decisions on zero priors
+help to define scientific communities and that an account of scientific inference must be
+relativized to a community” (1992, p. 142). In a debate about the descriptive adequacy of
+absolute continuity, such a response would verge on question-begging. If the very definition of
+a scientific community implies absolute continuity of its members’ opinions, then no serious
+debate about the descriptive status of absolute continuity in research communities remains
+to be had.
+Another suggestion is that an important conceptual distinction about disagreement can
+be explicated in terms of absolute continuity.17 The distinction is between disagreement
+and radical disagreement, with radical disagreement being modeled by failures of absolute
+continuity. First, we note that radical disagreement on this explication is not symmetric,
+which may be a questionable feature. One prior may be in radical disagreement with another
+that is only in modest disagreement with it. Second, failures of absolute continuity can arise
+even when opinions are, in one sense, intuitively “close,” just as absolutely continuous priors
+can be “far apart.” If Q(A) = 0 but P(A) = 0.000001, for example, then P is not absolutely
+continuous with respect to Q; while P(A) = 0.99 and Q(A) = 0.01 does not preclude absolute
+continuity. Third, in order to avoid being a mere relabeling of when absolute continuity holds
+or not, the distinction should draw on some well-motivated, independent account of radical
+disagreement which may not be forthcoming in light of the sort of example just given.
+The second issue about Theorem 2 requiring special attention appears in the consequent
+rather than the antecedent. P merges with Q almost surely. The distinction between sure
+and almost sure is not always kept firmly in mind when it comes to Bayesian convergence
+and merging results, leading some to make remarks apparently inconsistent with our general
+claim in this paper. More cynically, Earman writes, “‘almost surely’ sometimes serves as a
+rug under which some unpleasant facts are swept” (Earman, 1992, p. 148).18 We may be
+interested in what holds surely (for all ω ∈ Ω), and not in what is merely highly probable.19
+15“Perhaps the reason that the absolute continuity assumption has gained such currency in the literature
+is that it is so plausible in a finite, or even countable setting. Even the stronger assumption that both players
+regard each state as at least possible [they have regularity in mind here] seems attractive, since all this rules
+out is dogmatism. But it would be a mistake to carry this intuition into the necessarily uncountable setting
+that is relevant here: obviously, in this case some events must receive zero measure” (Miller and Sanchirico,
+1999, p. 179).
+16Earman himself regards the fanfare concerning merging of opinions with a good deal of skepticism.
+17Thanks to an anonymous referee for this suggestion.
+18Glymour (1980) raises a similar concern about convergence to the truth, writing, “The theorem does not
+tell us that in the limit any rational Bayesian will assign probability 1 to the true hypothesis and probability
+0 to the rest; it only tells us that rational Bayesians are certain that he will” (p. 73). More recently, Gordon
+Belot has argued that convergence to the truth results constitute a liability for Bayesians because they forbid
+a “reasonable epistemological modesty” (2013, p. 502).
+19See Nielsen (2018).
+14 NIELSEN AND STEWART
+Attending to the distinction between merging, on the one hand, and merging almost surely,
+on the other, we see that, if the “actual world” ω is outside the support of P, for all Theorem
+2 says, P and Q may not actually merge. It is just that P assigns such points 0 probability. A
+number of examples have been used to motivate distinguishing certainty from 0-1 probability
+assignments. An agent might regard each toss in an infinite sequence of tosses of a fair coin
+as independent. Then, any infinite sequence of (outcomes of) coin tosses bears probability 0.
+Yet it would be a mistake to infer that she is certain that no such sequence is the actual one.
+An infinitely fine dart is thrown at the [0, 1] interval. An agent’s opinions about the outcome
+of the throw may be representable by the Lebesgue measure. Then, each real number in the
+unit interval bears probability 0. But the agent is not certain that, for each real number, the
+dart will not hit it.
+Both the assumption of absolute continuity and the almost surely hedge require us to
+exercise considerable care in interpreting Blackwell and Dubins’s theorem. In the remainder
+of the paper, we focus on absolute continuity. Even restricting our attention to probability
+“strong laws” (results that hold with probability 1), relaxing absolute continuity even to a
+very modest extent has significant ramifications.
+6. The Bayesian Consensus-or-Polarization Law
+The asymptotic analogue of polarization occurs when the total variational distance between
+posteriors tends to the maximal value of 1. More precisely,
+Definition 4. P and Q polarize in the limit if d(Pn(ω), Qn(ω)) gets arbitrarily close to 1 for
+all ω as n increases.
+Polarization in the limit is basically stronger than the notion of global polarization in Defi-
+nition 3. To explain this relation, suppose that P and Q polarize in the limit, and let r be
+the total variational distance between P and Q. It cannot be that r = 0 because then P
+and Q would be identical and would not be able to polarize in the limit. On the other hand,
+if r = 1, then polarization in the sense of Definition 3 can not occur. But this is a rather
+trivial limiting case. In cases of interest we may therefore assume that 0 < r < 1. Since P
+and Q polarize in the limit, for all ω there is some stage n such that d(Pn(ω), Qn(ω)) > r. It
+follows that En(ω) polarizes P and Q globally. Hence, excluding the trivial limiting case in
+which r = 1, if P and Q polarize in the limit, then for all ω there is some stage n such that
+En(ω) polarizes P and Q globally. It is in this sense that polarization in the limit “basically”
+implies global polarization. Even if our notion of polarization in the limit is not the unique
+extension of Definition 3 to the general setting, it is a natural one in light of the relation
+just explained. Another reason to focus on it is that the total variational distance plays a
+prominent role in the theory of Bayesian merging, as evidenced by the common retort that
+“priors wash out.”
+In this section, we state and discuss a generalization of the Blackwell-Dubins merging
+of opinions result that we call the Bayesian Consensus-or-Polarization Law. To do this,
+we make use of a deep but easily explained result in measure theory called the Lebesgue
+Decomposition Theorem. In order to explain that result, we need one more definition. Let
+P and Q be any two probability measures. We say that P and Q are mutually singular if
+P assigns probability 1 to an event to which Q assigns probability 0.20 When P and Q are
+mutually singular, absolute continuity fails in the most radical way possible. In subjective
+20Mutually singular probabilities have already made a brief appearance in our study of polarization. See
+footnote 10.
+DISAGREEMENT AND POLARIZATION 15
+terms, P is probabilistically certain that some event A will occur while Q is certain that it
+will not. It follows that when P and Q are mutually singular, the total variational distance
+between them takes its maximal value of 1.
+Now, for any two probability measures P and Q, the Lebesgue Decomposition Theorem
+implies that for some δ ∈ [0, 1], P can be decomposed as
+P = δPa + (1 − δ)P
+s
+, (2)
+where P
+a
+is a probability measure that is absolutely continuous with respect to Q and P
+s
+is
+a probability measure that is mutually singular with Q. Furthermore, if δ is strictly between
+0 and 1, then the decomposition is unique. One can check that P is absolutely continuous
+with respect to Q if and only if δ = 1. And similarly, P and Q are mutually singular if and
+only if δ = 0.
+The decomposition given by equation (2) tells us that P can be viewed as a mixture of
+two probabilities, one of which is absolutely continuous with respect to Q and one of which is
+mutually singular with Q. The larger δ is the “more” absolutely continuous P is with respect
+to Q. For this reason, we will call δ the degree of absolute continuity of P with respect to
+Q, and we say that P is absolutely continuous with respect to Q to degree δ. In view of our
+earlier remarks, P is absolutely continuous with respect to Q simpliciter just in case P is
+absolutely continuous with respect to Q to degree 1.
+The main result of this part of the paper demonstrates a tight connection between degree
+of absolute continuity and merging of opinions and generalizes the Blackwell-Dubins theorem
+that we discussed in the previous section.
+Theorem 3 (Bayesian Consensus-or-Polarization Law). Let P and Q be any two probabilities
+and suppose that P is absolutely continuous with respect to Q to degree δ. Let M be the event
+that P and Q merge, and let L be the event that P and Q polarize in the limit. If P shares
+an increasing and complete sequence of evidence with Q, then
+P(M) = δ and P(L) = 1 − δ.
+Theorem 3 implies that an agent with probabilities given by P is certain, with probability 1,
+that either he and Q will merge or they will polarize: P(M ∪L) = 1. Under the assumption of
+shared, increasing, and complete evidence, it is incoherent for P to assign positive probability
+to the event that the distance between the posteriors Pn and Qn tends to 0.6, for example,
+or that the distance oscillates forever. To see that our result generalizes the BlackwellDubins
+theorem, suppose that P is absolutely continuous with respect to Q. Then δ = 1, so
+P(M) = 1, which is the conclusion of Theorem 2.
+The idea of the proof of Theorem 3 is straightforward. Think of P as being determined
+by flipping a coin with bias δ. With probability δ, P is absolutely continuous with respect to
+Q and equal to P
+a
+. With probability 1 − δ, P and Q are mutually singular and P is equal
+to P
+s
+. If P ends up equal to P
+a
+, then the Blackwell-Dubins theorem tells us that P expects
+to merge with Q. Hence, M occurs with probability δ, which is the first conclusion of our
+result. If, on the other hand, P ends up equal to P
+s
+, then P(A) = 1 and Q(A) = 0 for some
+event A. No amount of conditionalizing can change these extreme probability assignments,
+so P and Q must polarize in the limit. Hence, L occurs with probability 1 − δ. Making this
+argument precise requires some careful management of probability 0 events, which is where
+the assumption that evidence is shared comes into play. The complete proof can be found in
+the Appendix.
+Theorem 3 also implies the converse to the Blackwell-Dubins that was advertised in the
+last section. Suppose that P shares an increasing and complete sequence of evidence with Q
+16 NIELSEN AND STEWART
+and that P expects to merge with Q. Then 1 = P(M) = δ by Theorem 3. So P must be
+absolutely continuous with respect to Q. We see that in the presence of shared, increasing,
+and complete evidence absolute continuity is necessary for merging of opinions to occur with
+probability 1. We record this fact as the following corollary.
+Corollary 1. If P shares an increasing and complete sequence of evidence with Q, and P
+expects to merge with Q, then P is absolutely continuous with respect to Q.
+21
+One thing that we would like to stress about Theorem 3 is that the way in which we relax
+absolute continuity is quite mild because we continue to assume that absolute continuity
+relation holds with respect to evidential events. Our assumption is that for any event E that
+can be expressed as E = E1 ? ... ? Ek (where each Ei
+is an element of some partition En
+and ? is some operation on sets), that is, any event that can be settled by a finite amount
+of evidence, P(E) = 0 if Q(E) = 0. In other words, absolute continuity is relaxed just for
+infinitary events. Relaxing absolute continuity further than we have would be to relinquish
+the shared evidence assumption: there may be events that P can learn at some stage n that Q
+cannot. So, our assumption is a motivated way to mildly relax absolute continuity. However,
+the conclusion of our theorem is importantly different from that of Blackwell and Dubins’s.
+This suggests to us that the classic merging of opinions results, by failing to be robust even to
+our mild weakening of the assumptions, are something of an artifact of the under-motivated
+but strong assumption of absolute continuity.
+7. Discussion
+About polarization, Thomas Kelly asks, “Given that You and I are responding to our
+evidence in such-and-such a way, is there any chance that our doing so is anything other
+than blatantly unreasonable?” (2008, p. 631). More generally, are there grounds to deny
+TOTAL? Our study here provides an affirmative answer when the standard of reasonableness
+is Bayesian. As we have shown, it is trivial to find instances of polarization and persistent
+disagreement when agents learn just a finite amount of shared evidence. In the general
+case, the guarantee of asymptotic consensus for Bayesians is an artifact of special auxiliary
+assumptions, like absolute continuity, that supplement Bayesian updating. Claims that rational
+learning leads to consensus require endowing the auxiliary assumptions with a normative
+status. We find no plausible channel for such an endowment.
+Our investigation could be taken in two different ways. On the one hand, we could hold
+to the normative standard provided by Bayesian probability theory. On the other hand, we
+could deny that the standard Bayesian picture of learning presents us with a sound scientific
+methodology. In the former case, it seems that we must relinquish any requirement that
+sound scientific methodology provides investigators with resources to resolve disagreements
+through shared evidence. Again, somewhat confusingly, claims contrary to this view are
+routinely made from inside the Bayesian camp. Suppes, for example, writes,
+It is of fundamental importance to any deep appreciation of the Bayesian
+viewpoint to realize the particular form of the prior distribution expressing
+beliefs held before the experiment is conducted is not a crucial matter [...] For
+the Bayesian, concerned as he is to deal with the real world of ordinary and
+21We note that this result was first proved by Kalai and Lehrer (1994). In the Appendix we actually
+generalize their result because their proof assumes that evidence is represented by partitions while ours does
+not.
+DISAGREEMENT AND POLARIZATION 17
+scientific experience, the existence of a systematic method for reaching agreement
+is important [...] The well-designed experiment is one that will swamp
+divergent prior distributions with the clarity and sharpness of its results, and
+thereby render insignificant the diversity of prior opinion (1966, p. 204).
+Similar claims in the context of merging of opinions can be found even in the most recent
+literature.22
+Consider now the second way to construe our study. There is more to scientific methodology,
+this reply goes, than is dreamt of in the Bayesian philosophy of coherence and conditionalization.23
+If we are to retain a probabilistic epistemology, we must constrain the class of
+“rationally permissible” priors rather substantially. But in a broadly Bayesian paradigm, the
+consensus requirement is tied to absolute continuity. Not only is absolute continuity a necessary
+condition for merging (whenever evidence is shared) that lacks normative motivation; it
+is a condition which we have no reason to expect to be satisfied in many cases. Furthermore,
+Theorem 2 only secures merging almost surely.
+Holding out hope that a case can be made for the normative status of the absolute continuity
+condition, one might think that perhaps there are other aspects of sound methodology
+that would imply absolute continuity, and thereby secure merging. What is the nature of
+these additional aspects of scientific methodology? Are they all agent-invariant, or are some
+of them more subjective? By focusing solely on revising judgments of subjective probability
+via conditionalization, we have made the case against TOTAL harder to make than it might
+have been—at least in one sense. Adding parameters that are not invariant across rational
+agents would only make achieving consensus a less likely outcome. According to Isaac Levi’s
+epistemological outlook, to take an example with many subjective parameters, not only is
+what an agent “learns” or comes to accept determined in part by a subjective value for information,
+an agent can also revise her prior independently of learning new evidence in some
+circumstances (Levi, 1980).24 So eliminating disagreements via rational learning is even less
+plausible on an account like Levi’s. But what about additional aspects of good methodology
+that are objective? A popular objective sort of constraint on probability judgments is the
+Principal Principle. But it is difficult to see how such a principle would help. In general,
+the Principal Principle does not pin down a unique prior probability (if for no other reasons
+than that would require, first, too much shared “knowledge of the chances” of events and,
+second, that chances are reasonably attributable to all relevant events).25 Typically, only
+small fragments of a distribution are determined by it. This, of course, leaves ample occasion
+for the failure of absolute continuity between different priors. So much the worse for TOTAL.
+22See, for example, “We follow, e.g., Peirce in requiring that sound Scientific methodology provides investigators
+with the resources to resolve interpersonal disagreements through shared evidence” (Cisewski et al.,
+2017). But for which priors, with respect to how much evidence? And surely or only almost surely?
+23We are not considering approaches that fully abandon Bayesianism or fully denounce its subjective
+elements.
+24In Levi’s terminology, an agent can revise her confirmational commitment, which is a function from states
+of full belief to sets of probabilities, should circumstances call for it—without changing her state of full belief
+(see, e.g., Levi, 2009, §2).
+25An anonymous referee points out that a result due to Deutsch in the context of the many-worlds interpretation
+of quantum mechanics can be interpreted as delivering a unique rational probability. See (Greaves,
+2007, p. 115).
+18 NIELSEN AND STEWART
+Appendix
+Examples from Section 4. The following two examples were referred to in Section 4. The
+first is a case of polarization with respect to an event accompanied by a decrease in total
+variational distance.
+Example 4. Let (Ω, F), A, and E be defined as in Example 1, and consider the following
+priors and posteriors
+Table 4
+ω1 ω2 ω3 ω4
+P1 1/24 5/12 1/12 11/24
+P2 1/2 1/12 1/4 1/6
+P
+E
+1
+1/3 0 2/3 0
+P
+E
+2
+2/3 0 1/3 0
+We still have polarization with respect to A because P1(A | E) = 1/3 < 11/24 = P1(A) ≤
+P2(A) = 13/24 < 2/3 = P2(A | E). And yet, d(P, Q) = 5/8 > 1/3 = d(P
+E
+1
+, P E
+2
+). 4
+The next example is a case of global polarization without polarization with respect to any
+event.
+Example 5. Let Ω = {ω1, ω2, ω3}, F = 2Ω, and E = {ω1, ω2}. Consider the priors and
+posteriors in the table below.
+Table 5
+ω1 ω2 ω3
+P1 1/3 1/3 1/3
+P2 4/15 2/5 1/3
+P
+E
+1
+1/2 1/2 0
+P
+E
+2
+2/5 3/5 0
+We have d(P1, P2) = 1/15 < 1/10 = d(P
+E
+1
+, P E
+2
+), so E polarizes P1 and P2 globally. However,
+there is no subset of Ω with respect to which E polarizes P1 and P2. This is straightforward
+to verify and we omit the details. 4
+Proof of Theorem 3. In the remainder of this appendix, we will provide a more formal and
+general presentation of the mathematical framework of Part 2. Then we will prove Theorem
+3.
+Let (Ω, F, P) be a probability space. We say that an event A ∈ F occurs almost surely
+with respect to P when P(A) = 1. We also say A occurs a.s. (P), and if Q is another
+probability measure on (Ω, F) with respect to which A occurs almost surely, we say that A
+occurs a.s. (P/Q). We denote the indicator function for A by 1A : Ω → {0, 1}, defined as
+1A(ω) = (
+1, if ω ∈ A;
+0, otherwise
+DISAGREEMENT AND POLARIZATION 19
+When F and G are both sigma-algebras of subsets of Ω, we call G a sub-sigma-algebra of F
+if G ⊆ F. Intuitively, sigma-algebras represent bodies of information. For example, consider
+tossing a coin N times. Prior to any tossing, one is uncertain what the actual sequence of
+tosses will be and has a prior distribution over all the binary sequences of length N. After
+observing the first toss one now knows whether the actual sequence begins with H or T.
+This information is represented by the sigma-algebra G that partitions all the possible binary
+sequences into those beginning with H and those beginning with T. Formally,
+G = {∅, {ω ∈ Ω : ω begins with H}, {ω ∈ Ω : ω begins with T}, Ω}.
+If F is a sigma-algebra, then a real-valued function X : Ω → R is called F-measurable if
+{ω ∈ Ω : X(ω) ≤ x} ∈ F for every x ∈ R. Intuitively, the function X is F-measurable if
+every question about the values that X takes can be answered by the information in F. To
+take a simple example, if G is defined as above and A = {ω ∈ Ω : ω begins with H}, then 1A
+is G-measurable.
+In the main text, we assumed for simplicity that evidence is represented by a sequence of
+finite partitions and that at each stage an agent learns an event in a partition. We now relax
+that assumption. We now assume that evidence is represented by a filtration {Fn}n∈N on
+(Ω, F), which is defined to be a collection of sub-sigma-algebras of F such that Fn ⊆ Fn+1
+for all n ∈ N. To see that this generalizes the partition model used in the main text, note
+that every finite partition En generates a sub-sigma-algebra, the members of which are unions
+of members of En (as well as ∅). The inclusion relationship Fn ⊆ Fn+1 is the generalization
+of the above requirement that later partitions refine earlier ones and captures the idea that
+evidence is increasing. Let F∞ be the smallest sigma-algebra containing S
+n∈N Fn. In the
+general setting, we say that the filtration {Fn}n∈N is complete if F is generated by the subsigma
+algebras Fn in the sense that F∞ = F. As before, the point of this assumption is that
+the evidential information contained in the filtration eventually captures all events of interest
+(events in F).
+Since evidence is represented by a filtration, we need a notion of conditional probability
+given a sub-sigma-algebra, whereas in the main text we were able to make do with the
+familiar notion of conditional probability given an event. We use the definition of conditional
+probability that is standard in modern probability theory. The conditional probability
+P(A|Fn) of A given the sub-sigma-algebra Fn is an Fn-measurable function that satisfies
+P(A ∩ E) = R
+E
+P(A|Fn)dP for all E ∈ Fn. The existence of such a function is guaranteed
+for any sub-sigma-algebra by the Radon-Nikodym Theorem and is unique up to sets of Pmeasure
+0. In other words, any Fn-measurable function X that satisfies the given integral
+equation is almost surely equal to P(A | Fn) with respect to P, and we say that X is a
+version of P(A | Fn). Note that in the simple case where each Fn is generated by a finite
+partition En the conditional probabilities given Fn are given by
+P(A | Fn)(ω) = P(A | En(ω))
+for all ω in a set with probability 1, which corresponds with the treatment of conditional
+probabilities in the main text.
+The convergence-to-the-truth theorem, as stated in the main text, generalizes to
+limn→∞
+P(A|Fn) = 1A a.s.(P).
+for all A ∈ F. As in the main text, all limits are pointwise in ω ∈ Ω. Another way of stating
+convergence to the truth, then, is
+P({ω ∈ Ω : limn→∞
+P(A | Fn)(ω) = 1A(ω)}) = 1
+20 NIELSEN AND STEWART
+Following our previous notation, we write Pn(ω) = P(·|Fn)(ω) and Qn(ω) = Q(·|Fn)(ω).
+In order to state the Blackwell-Dubins merging of opinions theorem in full generality, we
+need to make a further assumption about Pn and Qn. For all that we have said so far, for
+fixed ω ∈ Ω, either or both of Pn(ω) and Qn(ω) may fail to be probability measures on
+(Ω, F). If there are versions of Pn and Qn such that Pn(ω) and Qn(ω) are probabilities for
+all ω ∈ Ω, then we say that these versions are regular conditional probabilities. Under the
+assumption that Fn is generated by a finite partition, regular versions of Pn and Qn exist.
+We can also guarantee the existence of regular versions of Pn and Qn by making assumptions
+about the space (Ω, F). For example, if Ω is a Polish space and F is its Borel sigma-algebra,
+then regular versions of the conditional probabilities exist. But without further assumptions
+about the probability space or filtration, regular versions may not exist, so we now add their
+existence as a further assumption of the framework.26
+If P is absolutely continuous with respect to Q, then we write P  Q. We say that P
+shares evidence with Q if P|Fn  Q|Fn
+for all n, where P|Fn and Q|Fn denote the restrictions
+of P and Q to the sub-sigma-algebra Fn. Note that this corresponds with the definition of
+sharing evidence in the main text when Fn is generated by a finite partition. We say that P
+and Q merge when
+limn→∞
+d(Pn, Qn) = 0.
+The general version of Theorem 2 is
+Theorem 4 (Blackwell and Dubins (1962)). Let P and Q be probability measures on (Ω, F),
+and let {Fn}n∈N be a complete filtration. Suppose that Pn and Qn are regular conditional
+probabilities for all n. If P  Q, then P and Q merge with P-probability 1, i.e.
+P({ω ∈ Ω : limn→∞
+d(Pn(ω), Qn(ω)) = 0}) = 1.
+The general version of Theorem 3, which we are now ready to prove, is
+Theorem 5 (Bayesian Consensus-or-Polarization Law, General Version). Let P and Q be
+two probability measures on (Ω, F), and let {Fn}n∈N be a complete filtration. Suppose that
+Pn and Qn are regular conditional probabilities for all n, that P shares evidence with Q, and
+that P is absolutely continuous with respect to Q to degree δ. Then
+P({ω ∈ Ω : limn→∞
+d(Pn(ω), Qn(ω)) = 0}) = δ
+and
+P({ω ∈ Ω : limn→∞
+d(Pn(ω), Qn(ω)) = 1}) = 1 − δ.
+Proof. If δ = 1, then the result follows from Theorem 4, so assume δ < 1. Let the Lebesgue
+decomposition of P with respect to Q be given by
+P = δPa + (1 − δ)P
+s
+,
+as in equation (2) of the main text. Clearly, P
+a  P and P
+s  P.
+By the triangle inequality, P
+a  Q, P
+a  P, and Theorem 4,
+d(Pn, Qn) ≤ d(Pn, Pa
+n
+) + d(P
+a
+n
+, Qn) → 0 a.s. (P
+a
+) (3)
+With M = {ω ∈ Ω : d(Pn(ω), Qn(ω)) → 0}, (3) implies
+P
+a
+(M) = 1. (4)
+26For more on regular conditional probabilities, see Seidenfeld (2001) and Durrett (2010, 4.1c).
